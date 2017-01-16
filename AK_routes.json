@@ -1,0 +1,100 @@
+[
+    {
+        "City": "Anchorage",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "61.215302, -149.824787",
+                "Destination": "61.254444, -149.660793"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "61.173834, -149.943435",
+                "Destination": "61.180888, -149.778327"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "61.166446, -149.867760",
+                "Destination": "61.094102, -149.804083"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "61.180711, -149.868265",
+                "Destination": "61.094129, -149.844223"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "61.123028, -149.804287",
+                "Destination": "61.054138, -149.798540"
+            }
+        ]
+    },
+    {
+        "City": "Juneau",
+        "Routes": []
+    },
+    {
+        "City": "Fairbanks",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "64.861238, -147.743794",
+                "Destination": "64.848299, -147.694109"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "64.850815, -147.719187",
+                "Destination": "64.831519, -147.729014"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "64.858716, -147.675385",
+                "Destination": "64.833044, -147.699394"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "64.846651, -147.779971",
+                "Destination": "64.812994, -147.771076"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "64.838804, -147.738787",
+                "Destination": "64.818070, -147.677052"
+            }
+        ]
+    },
+    {
+        "City": "Sitka",
+        "Routes": []
+    },
+    {
+        "City": "Ketchikan",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "55.363110, -131.693448",
+                "Destination": "55.353298, -131.675519"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "55.358912, -131.699198",
+                "Destination": "55.349073, -131.669983"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "55.348899, -131.649267",
+                "Destination": "55.338188, -131.622944"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "55.361904, -131.692197",
+                "Destination": "55.348300, -131.661834"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "55.345180, -131.656712",
+                "Destination": "55.340232, -131.639348"
+            }
+        ]
+    }
+]

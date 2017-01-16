@@ -1,0 +1,152 @@
+[
+    {
+        "City": "Seattle",
+        "Routes": [
+            {
+                "Pole":"North",
+                "PlaceA": "Aurora Marketplace, Edmonds, WA",
+                "PlaceB": "Puetz Golf Seattle Superstore, Aurora Avenue North, Seattle, WA"
+            },
+            {
+                "Pole": "Central",
+                "PlaceA": "Vigor Industrial, 16th Avenue Southwest, Seattle, WA",
+                "PlaceB": "Kress IGA Supermarket, 3rd Avenue, Seattle, WA"
+            },
+            {
+                "Pole": "East",
+                "PlaceA": "Money Mart, Rainier Avenue South, Seattle, WA",
+                "PlaceB": "Promenade Red Apple Market, Seattle, WA"
+            },
+            {
+                "Pole":"West",
+                "PlaceA": "Metropolitan Market, 42nd Avenue Southwest, Seattle, WA",
+                "PlaceB": "Electric Car Charging Station, Southwest Barton Street, Seattle, WA"
+            },
+            {
+                "Pole":"South",
+                "PlaceA": "Kaah Shopping Center, Rainier Avenue South, Seattle, WA",
+                "PlaceB": "Boeing, East Marginal Way South, Seattle, WA"
+            }
+        ]
+    },
+    {
+        "City": "Spokane",
+        "Routes": [
+            {
+                "Pole":"North",
+                "PlaceA": "NorthTown Mall, North Division Street, Spokane, WA",
+                "PlaceB": "Spokane VA Medical Center, North Assembly Street, Spokane, WA"
+            },
+            {
+                "Pole": "Central",
+                "PlaceA": "Safeway Distribution Center, North Freya Street, Spokane, WA",
+                "PlaceB": "International Foods Store, East Mission Avenue, Spokane, WA"
+            },
+            {
+                "Pole": "East",
+                "PlaceA": "Yoke's Fresh Market (Indian Trail), West Indian Trail Road, Spokane, WA",
+                "PlaceB": "Yoke's Fresh Market (Foothills), North Foothills Drive East, Spokane, WA"
+            },
+            {
+                "Pole":"West",
+                "PlaceA": "Target, South Regal Street, Spokane, WA",
+                "PlaceB": "Walmart Supercenter, East Sprague Avenue, Spokane Valley, WA"
+            },
+            {
+                "Pole":"South",
+                "PlaceA": "Cascade Mobile Home Community, Spokane, WA",
+                "PlaceB": "Dollar Tree, Spokane, WA"
+            }
+        ]
+    },
+    {
+        "City": "Tacoma",
+        "Routes": [
+            {
+                "Pole":"North",
+                "PlaceA": "YWCA, Broadway, Tacoma, WA",
+                "PlaceB": "Cummings Park, Ruston Way, Tacoma, WA"
+            },
+            {
+                "Pole": "Central",
+                "PlaceA": "Safeway, 72nd Street East, Tacoma, WA",
+                "PlaceB": "Mattress Makers Inc, Portland Avenue East, Tacoma, WA"
+            },
+            {
+                "Pole": "East",
+                "PlaceA": "56th / Portland, Tacoma, WA",
+                "PlaceB": "S Tacoma Way / 56th, Tacoma, WA"
+            },
+            {
+                "Pole":"West",
+                "PlaceA": "PCC Logistics, Alexander Avenue, Tacoma, WA",
+                "PlaceB": "SCS Refrigerated Services, 2302 Milwaukee Way, Tacoma, WA 98421"
+            },
+            {
+                "Pole":"South",
+                "PlaceA": "South Tacoma Station, Tacoma, WA",
+                "PlaceB": "25th / Sprague, Tacoma, WA 98405"
+            }
+        ]
+    },
+    {
+        "City": "Vancouver",
+        "Routes": [
+            {
+                "Pole":"North",
+                "PlaceA": "Bernie Dr & Fruit Valley Rd, Vancouver, WA",
+                "PlaceB": "Vancouver Station, West 11th Street, Vancouver, WA"
+            },
+            {
+                "Pole": "Central",
+                "PlaceA": "Mill Plain & Lincoln, Vancouver, WA",
+                "PlaceB": "New Vansterdam, East Mill Plain Boulevard, Vancouver, WA"
+            },
+            {
+                "Pole": "East",
+                "PlaceA": "Fourth Plain & 14000 Block, Vancouver, WA",
+                "PlaceB": "NE 136th Ave & 200 Block, Vancouver, WA"
+            },
+            {
+                "Pole":"West",
+                "PlaceA": "SE 164th Ave & 2100 Block, Vancouver, WA",
+                "PlaceB": "C 3 Companies, LLC, Southeast McGillivray Boulevard #100, Vancouver, WA"
+            },
+            {
+                "Pole":"South",
+                "PlaceA": "Hazel Dell Ave & 5200 block, Vancouver, WA",
+                "PlaceB": "Columbia St & 100 Block, Vancouver, WA "
+            }
+        ]
+    },
+    {
+        "City": "Bellevue",
+        "Routes": [
+            {
+                "Pole":"North",
+                "PlaceA": "Bellevue Way NE & NE 24th St",
+                "PlaceB": "NE 20th St & NE Bel-Red Rd, Bellevue, WA 98007"
+            },
+            {
+                "Pole": "Central",
+                "PlaceA": "Mill Plain & Lincoln, Vancouver, WA",
+                "PlaceB": "New Vansterdam, East Mill Plain Boulevard, Vancouver, WA"
+            },
+            {
+                "Pole": "East",
+                "PlaceA": "Northup Way & 170th Ave NE, Bellevue, WA",
+                "PlaceB": "West LK Sammamish Pkwy SE & SE 26th St, Bellevue, WA"
+            },
+            {
+                "Pole":"West",
+                "PlaceA": "Bellevue Way NE & NE 30th Pl, Bellevue, WA",
+                "PlaceB": "Bellevue Way SE & 108th Ave SE, Bellevue, WA"
+            },
+            {
+                "Pole":"South",
+                "PlaceA": "Forest Dr SE & Somerset Dr SE, Bellevue, WA",
+                "PlaceB": "SE 63RD St & 155th Ave SE, Bellevue, WA"
+            }
+        ]
+    }
+]

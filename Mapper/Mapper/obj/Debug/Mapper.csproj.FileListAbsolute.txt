@@ -10,3 +10,15 @@ c:\users\baont\documents\visual studio 2015\Projects\Mapper\Mapper\bin\Debug\Htm
 c:\users\baont\documents\visual studio 2015\Projects\Mapper\Mapper\bin\Debug\Supremes.dll
 c:\users\baont\documents\visual studio 2015\Projects\Mapper\Mapper\bin\Debug\HtmlAgilityPack.pdb
 c:\users\baont\documents\visual studio 2015\Projects\Mapper\Mapper\bin\Debug\HtmlAgilityPack.xml
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\Mapper.exe.config
+D:\lab\usa-route-maker\Mapper\Mapper\obj\Debug\Mapper.exe
+D:\lab\usa-route-maker\Mapper\Mapper\obj\Debug\Mapper.pdb
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\Mapper.exe
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\Mapper.pdb
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\HtmlAgilityPack.dll
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\Newtonsoft.Json.dll
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\Supremes.dll
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\HtmlAgilityPack.pdb
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\HtmlAgilityPack.xml
+D:\lab\usa-route-maker\Mapper\Mapper\bin\Debug\Newtonsoft.Json.xml
+D:\lab\usa-route-maker\Mapper\Mapper\obj\Debug\Mapper.csprojResolveAssemblyReference.cache

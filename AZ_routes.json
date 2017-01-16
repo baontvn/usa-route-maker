@@ -1,0 +1,152 @@
+[
+    {
+        "City": "Phoenix",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "33.712528, -112.178816",
+                "Destination": "33.698303, -112.099947"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.506512, -112.134127",
+                "Destination": "33.480204, -112.067337"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.640041, -112.095138",
+                "Destination": "33.655290, -111.995585"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "33.581975, -112.134126",
+                "Destination": "33.524110, -112.099989"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "33.392088, -112.133681",
+                "Destination": "33.377671, -112.047342"
+            }
+        ]
+    },
+    {
+        "City": "Tucson",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "32.250314, -110.978064",
+                "Destination": "32.250663, -110.875366"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.236007, -110.943881",
+                "Destination": "32.221286, -110.857886"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.204439, -110.926663",
+                "Destination": "32.192020, -110.857871"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "32.206866, -110.956160",
+                "Destination": "32.134259, -110.943375"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "32.206802, -110.974641",
+                "Destination": "32.206355, -110.841055"
+            }
+        ]
+    },
+    {
+        "City": "Mesa",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "33.451517, -111.831133",
+                "Destination": "33.451855, -111.728293"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.422640, -111.788149",
+                "Destination": "33.415668, -111.701770"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.407881, -111.667495",
+                "Destination": "33.379097, -111.636254"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "33.429588, -111.844678",
+                "Destination": "33.378562, -111.877770"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "33.393344, -111.823006",
+                "Destination": "33.393750, -111.719276"
+            }
+        ]
+    },
+    {
+        "City": "Chandler",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "33.335192, -111.876424",
+                "Destination": "33.320658, -111.824025"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.305955, -111.889597",
+                "Destination": "33.306182, -111.824142"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.306390, -111.789725",
+                "Destination": "33.270817, -111.824065"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "33.305300, -111.945754",
+                "Destination": "33.298845, -111.876170"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "33.275972, -111.889062",
+                "Destination": "33.247099, -111.865176"
+            }
+        ]
+    },
+    {
+        "City": "Glendale",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "33.682898, -112.186658",
+                "Destination": "33.652675, -112.220377"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.553082, -112.186185",
+                "Destination": "33.523447, -112.220350"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.654339, -112.186227",
+                "Destination": "33.610748, -112.185842"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "33.539953, -112.220440",
+                "Destination": "33.536530, -112.294210"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "33.531299, -112.168628",
+                "Destination": "33.522368, -112.237661"
+            }
+        ]
+    }
+]

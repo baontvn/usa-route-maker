@@ -20,9 +20,11 @@ namespace Mapper
             var listOfCities = GetCities(listOfStates, false);
             var listOfRoutes = GetRoute(listOfCities, false);
 
+            Console.WriteLine(listOfRoutes.Count);
+
             var json = JsonConvert.SerializeObject(listOfRoutes);
 
-            WriteFile(json, @"C:\Users\BaoNT\Desktop\fm_routes.json");
+            WriteFile(json, @"D:\lab\usa-route-maker\fm_routes.json");
             Console.WriteLine("Done");
             Console.ReadLine();
 
@@ -264,6 +266,7 @@ Wyoming";
                 });
                 currentRoutes.Add(new Mappers.Route()
                 {
+                    Id = counter++,
                     StateCode = city.StateName,
                     CityName = city.Name,
                     Name = city.StateName + "_" + city.Name.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_Central",
@@ -271,6 +274,7 @@ Wyoming";
                 });
                 currentRoutes.Add(new Mappers.Route()
                 {
+                    Id = counter++,
                     StateCode = city.StateName,
                     CityName = city.Name,
                     Name = city.StateName + "_" + city.Name.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_Central_Return",

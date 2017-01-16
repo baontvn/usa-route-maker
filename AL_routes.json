@@ -1,0 +1,152 @@
+[
+    {
+        "City": "Birmingham",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "33.599257, -86.733067",
+                "Destination": "33.607853, -86.673884"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.553881, -86.822171",
+                "Destination": "33.525450, -86.793072"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.556974, -86.722041",
+                "Destination": "33.521462, -86.736970"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "33.513315, -86.899576",
+                "Destination": "33.480970, -86.860176"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "33.500489, -86.866806",
+                "Destination": "33.528218, -86.776888"
+            }
+        ]
+    },
+    {
+        "City": "Montgomery",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "32.419374, -86.231276",
+                "Destination": "32.381450, -86.272338"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.351143, -86.336374",
+                "Destination": "32.346781, -86.282399"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.382168, -86.191375",
+                "Destination": "32.319794, -86.181107"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "32.371419, -86.375379",
+                "Destination": "32.326211, -86.325236"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "32.351760, -86.308516",
+                "Destination": "32.307655, -86.279570"
+            }
+        ]
+    },
+    {
+        "City": "Mobile",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "30.727048, -88.170267",
+                "Destination": "30.696753, -88.103681"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "30.685828, -88.148379",
+                "Destination": "30.676547, -88.087113"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "30.699624, -88.045652",
+                "Destination": "30.655025, -88.061359"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "30.705112, -88.144468",
+                "Destination": "30.654557, -88.139876"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "30.686945, -88.054033",
+                "Destination": "30.648408, -88.111051"
+            }
+        ]
+    },
+    {
+        "City": "Huntsville",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "34.821430, -86.642731",
+                "Destination": "34.792766, -86.571973"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "34.712867, -86.626949",
+                "Destination": "34.705228, -86.569923"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "34.672292, -86.559060",
+                "Destination": "34.624310, -86.537508"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "34.713112, -86.641279",
+                "Destination": "34.690321, -86.581068"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "34.705417, -86.589187",
+                "Destination": "34.630445, -86.566616"
+            }
+        ]
+    },
+    {
+        "City": "Tuscaloosa",
+        "Routes": [
+            {
+                "Pole":"North",
+                "StartingPoint": "33.295237, -87.544920",
+                "Destination": "33.240328, -87.528028"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.202780, -87.577677",
+                "Destination": "33.206123, -87.512178"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.236093, -87.481126",
+                "Destination": "33.185964, -87.515000"
+            },
+            {
+                "Pole":"West",
+                "StartingPoint": "33.179055, -87.609917",
+                "Destination": "33.178678, -87.558725"
+            },
+            {
+                "Pole":"South",
+                "StartingPoint": "33.165029, -87.550270",
+                "Destination": "33.164969, -87.478126"
+            }
+        ]
+    }
+]
