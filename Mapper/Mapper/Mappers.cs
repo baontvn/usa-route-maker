@@ -31,6 +31,17 @@ namespace Mapper
             public string StateCode { get; set; }
         }
 
+        public class RouteRequest
+        {
+            public long id { get; set; }
+            public string name { get; set; }
+            public string description { get; set; }
+            public string type { get; set; }
+            public string startLocation { get; set; }
+            public string endLocation { get; set; }
+            public string outFile { get; set; }
+        }
+
         public class Country
         {
             public string Name { get; set; }
@@ -45,6 +56,22 @@ namespace Mapper
         {
             public string Lat { get; set; }
             public string Lng { get; set; }
+
+        }
+
+        public class CityRequest
+        {
+            public string State { get; set; }
+            public string City { get; set; }
+            public List<RouteLocation> Routes { get; set; }
+
+        }
+
+        public class RouteLocation
+        {
+            public string Pole { get; set; }
+            public string StartingPoint { get; set; }
+            public string Destination { get; set; }
 
         }
     }

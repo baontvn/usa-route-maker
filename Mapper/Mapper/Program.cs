@@ -18,13 +18,31 @@ namespace Mapper
 
             var listOfStates = GetStates(false);
             var listOfCities = GetCities(listOfStates, false);
-            var listOfRoutes = GetRoute(listOfCities, false);
+            //var listOfRoutes = GetRoute(listOfCities, false);
 
-            Console.WriteLine(listOfRoutes.Count);
+            #region Routes request
+            var cityRequest = GenerateCityResquest(listOfCities);
 
-            var json = JsonConvert.SerializeObject(listOfRoutes);
+            foreach (var city in cityRequest.GroupBy(c => c.State).ToArray())
+            {
+                var data = JsonConvert.SerializeObject(city);
 
-            WriteFile(json, @"D:\lab\usa-route-maker\fm_routes.json");
+                WriteFile(data, @"D:\lab\usa-route-maker\routes_data\" + city.Key.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_routes.json");
+            }
+            #endregion
+
+            #region Read route json -> Generate to request Json
+            //string text = System.IO.File.ReadAllText(@"D:\lab\usa-route-maker\AL_routes.json");
+
+            //var rawData = JsonConvert.DeserializeObject<List<Mappers.CityRequest>>(text);
+
+            //var cityRequest =  GetRouteRequest(rawData);
+
+            //var json = JsonConvert.SerializeObject(cityRequest);
+
+            //WriteFile(json, @"D:\lab\usa-route-maker\fm_routes.json");
+            #endregion
+
             Console.WriteLine("Done");
             Console.ReadLine();
 
@@ -118,7 +136,6 @@ Wyoming";
             return result;
         }
 
-
         static List<Mappers.City> GetCities(List<Mappers.States> states, bool isGetLocation)
         {
             #region Crawl data
@@ -151,7 +168,7 @@ Wyoming";
             string pattern = @"\\n";
             Regex rgx = new Regex(pattern);
             var data = rgx.Split(rawData);
-            var state = states.FirstOrDefault(s => s.Name.Equals(data[0]))?.ShortName;
+            var state = states.FirstOrDefault(s => s.Name.Equals(data[0]))?.Name;
 
             var cityLocation = isGetLocation == true ? GetLocation(data[2], state) : new List<string>();
             var cityLocation2 = isGetLocation == true ? GetLocation(data[4], state) : new List<string>();
@@ -285,7 +302,52 @@ Wyoming";
             return routes;
         }
 
-
+        static List<Mappers.CityRequest> GenerateCityResquest(List<Mappers.City> rawData)
+        {
+            var result = new List<Mappers.CityRequest>();
+            foreach (var data in rawData)
+            {
+                result.Add(new Mappers.CityRequest()
+                {
+                    State = data.StateName,
+                    City = data.Name,
+                    Routes = new List<Mappers.RouteLocation>()
+                    {
+                        new Mappers.RouteLocation()
+                        {
+                            Pole = "West",
+                            StartingPoint = String.Empty,
+                            Destination = String.Empty
+                        },
+                        new Mappers.RouteLocation()
+                        {
+                            Pole = "East",
+                            StartingPoint = String.Empty,
+                            Destination = String.Empty
+                        },
+                        new Mappers.RouteLocation()
+                        {
+                            Pole = "South",
+                            StartingPoint = String.Empty,
+                            Destination = String.Empty
+                        },
+                        new Mappers.RouteLocation()
+                        {
+                            Pole = "North",
+                            StartingPoint = String.Empty,
+                            Destination = String.Empty
+                        },
+                        new Mappers.RouteLocation()
+                        {
+                            Pole = "Central",
+                            StartingPoint = String.Empty,
+                            Destination = String.Empty
+                        }
+                    }
+                });
+            }
+            return result;
+        }
 
         static Dictionary<string, string> GetStateCode()
         {

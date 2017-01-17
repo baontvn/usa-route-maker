@@ -1,0 +1,157 @@
+[
+    {
+        "State": "Arkansas",
+        "City": "Little Rock",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "34.740970, -92.329414",
+                "Destination": "34.739580, -92.294150"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "34.737976, -92.305785",
+                "Destination": "34.731784, -92.268685"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "34.739447, -92.258347",
+                "Destination": "34.723053, -92.258922"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "34.758200, -92.303244",
+                "Destination": "34.749826, -92.274920"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "34.742196, -92.271489",
+                "Destination": "34.724253, -92.274008"
+            }
+        ]
+    },
+    {
+        "State": "Arkansas",
+        "City": "Fort Smith",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.374682, -94.385860",
+                "Destination": "35.374081, -94.359191"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.378758, -94.403424",
+                "Destination": "35.378032, -94.372353"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.375834, -94.403560",
+                "Destination": "35.362878, -94.372830"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.372121, -94.403687",
+                "Destination": "35.356712, -94.395161"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.393324, -94.402954",
+                "Destination": "35.392722, -94.376358"
+            }
+        ]
+    },
+    {
+        "State": "Arkansas",
+        "City": "Fayetteville",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.106422, -94.146169",
+                "Destination": "36.105412, -94.120549"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.095138, -94.152713",
+                "Destination": "36.094560, -94.121403"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.102635, -94.163565",
+                "Destination": "36.077484, -94.166405"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.056720, -94.180454",
+                "Destination": "36.055364, -94.149263"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.074123, -94.157590",
+                "Destination": "36.057913, -94.164428"
+            }
+        ]
+    },
+    {
+        "State": "Arkansas",
+        "City": "Springdale",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    },
+    {
+        "State": "Arkansas",
+        "City": "Jonesboro",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    }
+]
