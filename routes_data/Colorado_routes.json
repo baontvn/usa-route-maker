@@ -1,1 +1,157 @@
-[{"State":"Colorado","City":"Denver","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Colorado","City":"Colorado Springs","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Colorado","City":"Aurora","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Colorado","City":"Fort Collins","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Colorado","City":"Lakewood","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Colorado",
+        "City": "Denver",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.750753, -104.978114",
+                "Destination": "39.751047, -104.932857"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.729349, -105.021682",
+                "Destination": "39.736868, -105.002825"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.736900, -104.998719",
+                "Destination": "39.714818, -104.998578"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.725675, -104.990396",
+                "Destination": "39.729058, -104.959013"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.738337, -104.949457",
+                "Destination": "39.736885, -104.912933"
+            }
+        ]
+    },
+    {
+        "State": "Colorado",
+        "City": "Colorado Springs",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "38.850512, -104.817189",
+                "Destination": "38.854200, -104.781542"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "38.854328, -104.775681",
+                "Destination": "38.832706, -104.775886"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.822521, -104.804328",
+                "Destination": "38.825403, -104.775319"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "38.827054, -104.829269",
+                "Destination": "38.821090, -104.804432"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "38.832598, -104.827954",
+                "Destination": "38.818445, -104.824359"
+            }
+        ]
+    },
+    {
+        "State": "Colorado",
+        "City": "Aurora",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.711161, -104.847236",
+                "Destination": "39.709492, -104.815061"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.696656, -104.847190",
+                "Destination": "39.696571, -104.809890"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.681972, -104.847251",
+                "Destination": "39.674862, -104.824018"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.668225, -104.814730",
+                "Destination": "39.667501, -104.785173"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.732853, -104.865631",
+                "Destination": "39.726405, -104.831237"
+            }
+        ]
+    },
+    {
+        "State": "Colorado",
+        "City": "Fort Collins",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.581964, -105.114930",
+                "Destination": "40.581559, -105.075476"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.574610, -105.115095",
+                "Destination": "40.578205, -105.087919"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.567500, -105.115185",
+                "Destination": "40.567199, -105.075276"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.587082, -105.087888",
+                "Destination": "40.581443, -105.066599"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.563415, -105.067391",
+                "Destination": "40.546078, -105.065934"
+            }
+        ]
+    },
+    {
+        "State": "Colorado",
+        "City": "Lakewood",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.732961, -105.090820",
+                "Destination": "39.734905, -105.062611"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.718405, -105.100116",
+                "Destination": "39.718522, -105.056801"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.710984, -105.100295",
+                "Destination": "39.711160, -105.058078"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.696531, -105.100360",
+                "Destination": "39.696740, -105.065745"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.700444, -105.048045",
+                "Destination": "39.704019, -105.025710"
+            }
+        ]
+    }
+]

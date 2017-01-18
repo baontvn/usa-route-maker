@@ -1,1 +1,157 @@
-[{"State":"Florida","City":"Jacksonville","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Florida","City":"Miami","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Florida","City":"Tampa","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Florida","City":"Orlando","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Florida","City":"St. Petersburg","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Florida",
+        "City": "Jacksonville",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "30.405022, -81.745841",
+                "Destination": "30.400959, -81.731403"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "30.394933, -81.736166",
+                "Destination": "30.387507, -81.712329"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "30.399577, -81.725602",
+                "Destination": "30.402135, -81.697432"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "30.405009, -81.720956",
+                "Destination": "30.407626, -81.688110"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "30.368081, -81.717259",
+                "Destination": "30.370983, -81.687418"
+            }
+        ]
+    },
+    {
+        "State": "Florida",
+        "City": "Miami",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "25.794556, -80.231496",
+                "Destination": "25.794228, -80.195728"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "25.788182, -80.227214",
+                "Destination": "25.787011, -80.195053"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "25.779767, -80.230417",
+                "Destination": "25.774894, -80.202741"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "25.763012, -80.202712",
+                "Destination": "25.747662, -80.219438"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "25.761457, -80.193332",
+                "Destination": "25.743376, -80.215387"
+            }
+        ]
+    },
+    {
+        "State": "Florida",
+        "City": "Tampa",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "27.982140, -82.480678",
+                "Destination": "27.982451, -82.449063"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "27.991577, -82.520108",
+                "Destination": "27.974051, -82.503388"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "27.973959, -82.493035",
+                "Destination": "27.966991, -82.467726"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "27.978558, -82.426303",
+                "Destination": "27.970245, -82.403723"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "27.952083, -82.493188",
+                "Destination": "27.948877, -82.470122"
+            }
+        ]
+    },
+    {
+        "State": "Florida",
+        "City": "Orlando",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "28.549398, -81.379096",
+                "Destination": "28.549567, -81.352082"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "28.541983, -81.405539",
+                "Destination": "28.542054, -81.384960"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "28.540148, -81.405474",
+                "Destination": "28.540208, -81.384939"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "28.542076, -81.380809",
+                "Destination": "28.542223, -81.363178"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "28.531168, -81.395112",
+                "Destination": "28.531205, -81.374749"
+            }
+        ]
+    },
+    {
+        "State": "Florida",
+        "City": "St. Petersburg",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "27.751981, -82.699695",
+                "Destination": "27.752062, -82.671109"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "27.748410, -82.663016",
+                "Destination": "27.748474, -82.654614"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "27.766446, -82.699775",
+                "Destination": "27.766515, -82.671251"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "27.744718, -82.683336",
+                "Destination": "27.744828, -82.646617"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "27.789646, -82.623547",
+                "Destination": "27.771210, -82.638478"
+            }
+        ]
+    }
+]

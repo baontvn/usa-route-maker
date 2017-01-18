@@ -1,1 +1,157 @@
-[{"State":"Delaware","City":"Wilmington","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Delaware","City":"Dover","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Delaware","City":"Newark","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Delaware","City":"Middletown","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Delaware","City":"Smyrna","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Delaware",
+        "City": "Wilmington",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.746336, -75.573466",
+                "Destination": "39.736897, -75.550130"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.748798, -75.571806",
+                "Destination": "39.739363, -75.548548"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.756100, -75.567769",
+                "Destination": "39.745805, -75.544119"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.761177, -75.542312",
+                "Destination": "39.746121, -75.546287"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.755788, -75.541411",
+                "Destination": "39.742508, -75.534807"
+            }
+        ]
+    },
+    {
+        "State": "Delaware",
+        "City": "Dover",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.167419, -75.555379",
+                "Destination": "39.171323, -75.532107"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.174775, -75.551366",
+                "Destination": "39.161031, -75.541704"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.159047, -75.557486",
+                "Destination": "39.160856, -75.529483"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.171871, -75.529621",
+                "Destination": "39.151289, -75.522241"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.180300, -75.519615",
+                "Destination": "39.166913, -75.505085"
+            }
+        ]
+    },
+    {
+        "State": "Delaware",
+        "City": "Newark",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.693797, -75.763804",
+                "Destination": "39.687033, -75.747473"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.690467, -75.776064",
+                "Destination": "39.671069, -75.771101"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.677743, -75.780009",
+                "Destination": "39.682860, -75.757350"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.674714, -75.760855",
+                "Destination": "39.678434, -75.736305"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.682551, -75.753642",
+                "Destination": "39.667219, -75.752882"
+            }
+        ]
+    },
+    {
+        "State": "Delaware",
+        "City": "Middletown",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.450016, -75.722027",
+                "Destination": "39.451479, -75.692562"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.448140, -75.719844",
+                "Destination": "39.438972, -75.709049"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.461623, -75.720600",
+                "Destination": "39.471788, -75.708811"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.461284, -75.718785",
+                "Destination": "39.452124, -75.708031"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.460893, -75.729573",
+                "Destination": "39.448424, -75.737664"
+            }
+        ]
+    },
+    {
+        "State": "Delaware",
+        "City": "Smyrna",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.294782, -75.614621",
+                "Destination": "39.305141, -75.596476"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.298469, -75.620958",
+                "Destination": "39.302989, -75.605709"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.305319, -75.604624",
+                "Destination": "39.294208, -75.603683"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.280447, -75.603636",
+                "Destination": "39.272933, -75.605785"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.273838, -75.614515",
+                "Destination": "39.273578, -75.606608"
+            }
+        ]
+    }
+]

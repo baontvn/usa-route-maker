@@ -1,1 +1,157 @@
-[{"State":"Connecticut","City":"Bridgeport","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Connecticut","City":"New Haven","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Connecticut","City":"Stamford","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Connecticut","City":"Hartford","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Connecticut","City":"Waterbury","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Connecticut",
+        "City": "Bridgeport",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.216114, -73.213271",
+                "Destination": "41.194919, -73.199133"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.205868, -73.222209",
+                "Destination": "41.190462, -73.202995"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.218463, -73.202592",
+                "Destination": "41.213291, -73.188192"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.210170, -73.179017",
+                "Destination": "41.187197, -73.180830"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.190555, -73.213029",
+                "Destination": "41.172563, -73.196771"
+            }
+        ]
+    },
+    {
+        "State": "Connecticut",
+        "City": "New Haven",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.332753, -72.939149",
+                "Destination": "41.329403, -72.914174"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.321580, -72.938999",
+                "Destination": "41.315756, -72.909635"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.328974, -72.942389",
+                "Destination": "41.313239, -72.932579"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.323866, -72.916890",
+                "Destination": "41.312174, -72.919219"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.313347, -72.909297",
+                "Destination": "41.304376, -72.894457"
+            }
+        ]
+    },
+    {
+        "State": "Connecticut",
+        "City": "Stamford",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.088758, -73.578765",
+                "Destination": "41.065067, -73.567014"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.086303, -73.560325",
+                "Destination": "41.058793, -73.559904"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.066330, -73.547991",
+                "Destination": "41.048360, -73.544608"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.079465, -73.540478",
+                "Destination": "41.057941, -73.534088"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.071364, -73.520677",
+                "Destination": "41.054034, -73.535966"
+            }
+        ]
+    },
+    {
+        "State": "Connecticut",
+        "City": "Hartford",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.799275, -72.695422",
+                "Destination": "41.782991, -72.683832"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.799987, -72.706492",
+                "Destination": "41.787350, -72.698436"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.784007, -72.703046",
+                "Destination": "41.772004, -72.679834"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.757557, -72.704679",
+                "Destination": "41.757151, -72.675712"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.758770, -72.669502",
+                "Destination": "41.743050, -72.682722"
+            }
+        ]
+    },
+    {
+        "State": "Connecticut",
+        "City": "Waterbury",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.572921, -73.081707",
+                "Destination": "41.560814, -73.062001"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.574559, -73.067564",
+                "Destination": "41.559782, -73.057460"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.586996, -73.049971",
+                "Destination": "41.557920, -73.052112"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.584034, -73.042430",
+                "Destination": "41.558337, -73.038645"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.555552, -73.046556",
+                "Destination": "41.540383, -73.021519"
+            }
+        ]
+    }
+]

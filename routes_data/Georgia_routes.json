@@ -1,1 +1,157 @@
-[{"State":"Georgia","City":"Atlanta","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Georgia","City":"Columbus","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Georgia","City":"Augusta","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Georgia","City":"Macon","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Georgia","City":"Savannah","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Georgia",
+        "City": "Atlanta",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "33.781560, -84.404214",
+                "Destination": "33.781801, -84.380444"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.786272, -84.427824",
+                "Destination": "33.775576, -84.418579"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "33.763512, -84.417433",
+                "Destination": "33.763336, -84.388979"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "33.771876, -84.380309",
+                "Destination": "33.770648, -84.350782"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.757307, -84.380254",
+                "Destination": "33.758089, -84.352839"
+            }
+        ]
+    },
+    {
+        "State": "Georgia",
+        "City": "Columbus",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.481333, -84.990080",
+                "Destination": "32.492588, -84.966621"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.480193, -84.979496",
+                "Destination": "32.488195, -84.956760"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.475409, -84.984698",
+                "Destination": "32.478556, -84.948609"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.464735, -84.986335",
+                "Destination": "32.472507, -84.954864"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.463874, -84.978112",
+                "Destination": "32.455426, -84.946051"
+            }
+        ]
+    },
+    {
+        "State": "Georgia",
+        "City": "Augusta",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "33.487614, -82.073086",
+                "Destination": "33.494627, -82.038199"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.484062, -82.071156",
+                "Destination": "33.480799, -82.039695"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "33.470839, -82.031340",
+                "Destination": "33.467273, -81.993296"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "33.471499, -81.996518",
+                "Destination": "33.462096, -81.969524"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.469933, -82.029784",
+                "Destination": "33.465993, -81.996852"
+            }
+        ]
+    },
+    {
+        "State": "Georgia",
+        "City": "Macon",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.856748, -83.643345",
+                "Destination": "32.840800, -83.627772"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.850409, -83.672204",
+                "Destination": "32.838675, -83.648485"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.852814, -83.681437",
+                "Destination": "32.839876, -83.651695"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.835785, -83.634284",
+                "Destination": "32.829709, -83.652124"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.835421, -83.620554",
+                "Destination": "32.815145, -83.629181"
+            }
+        ]
+    },
+    {
+        "State": "Georgia",
+        "City": "Savannah",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.090172, -81.121026",
+                "Destination": "32.082935, -81.096347"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.082289, -81.138756",
+                "Destination": "32.069223, -81.115193"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.089197, -81.138982",
+                "Destination": "32.077519, -81.109649"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.078956, -81.084034",
+                "Destination": "32.064859, -81.084617"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.054457, -81.135724",
+                "Destination": "32.041197, -81.110914"
+            }
+        ]
+    }
+]
