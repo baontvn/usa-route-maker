@@ -1,1 +1,157 @@
-[{"State":"Indiana","City":"Indianapolis","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Indiana","City":"Fort Wayne","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Indiana","City":"Evansville","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Indiana","City":"South Bend","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Indiana","City":"Carmel","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Indiana",
+        "City": "Indianapolis",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.790388, -86.177059",
+                "Destination": "39.786615, -86.147683"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.797318, -86.160261",
+                "Destination": "39.803381, -86.131052"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.770490, -86.163391",
+                "Destination": "39.770468, -86.130642"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.751038, -86.196727",
+                "Destination": "39.759227, -86.169569"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.768105, -86.135294",
+                "Destination": "39.760063, -86.099690"
+            }
+        ]
+    },
+    {
+        "State": "Indiana",
+        "City": "Fort Wayne",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.064113, -85.152327",
+                "Destination": "41.065105, -85.114093"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.060644, -85.137140",
+                "Destination": "41.060688, -85.107845"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.067596, -85.180701",
+                "Destination": "41.067814, -85.145301"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.076948, -85.169235",
+                "Destination": "41.072377, -85.145448"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.079477, -85.167621",
+                "Destination": "41.080020, -85.136662"
+            }
+        ]
+    },
+    {
+        "State": "Indiana",
+        "City": "Evansville",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "37.984306, -87.600484",
+                "Destination": "37.980290, -87.575031"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "37.980142, -87.563895",
+                "Destination": "37.981356, -87.543102"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "37.970482, -87.573293",
+                "Destination": "37.973514, -87.544921"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "37.964912, -87.570356",
+                "Destination": "37.970007, -87.547624"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "37.963794, -87.565990",
+                "Destination": "37.962730, -87.529596"
+            }
+        ]
+    },
+    {
+        "State": "Indiana",
+        "City": "South Bend",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.693278, -86.262278",
+                "Destination": "41.688381, -86.235482"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.680557, -86.255364",
+                "Destination": "41.685686, -86.236576"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.678881, -86.284927",
+                "Destination": "41.679001, -86.259457"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.676500, -86.236844",
+                "Destination": "41.671987, -86.202689"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.666693, -86.273491",
+                "Destination": "41.658095, -86.242696"
+            }
+        ]
+    },
+    {
+        "State": "Indiana",
+        "City": "Carmel",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.981003, -86.141041",
+                "Destination": "39.977249, -86.118865"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.965377, -86.151717",
+                "Destination": "39.971153, -86.131232"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.965261, -86.140975",
+                "Destination": "39.960621, -86.117957"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.956473, -86.145928",
+                "Destination": "39.958429, -86.109123"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.986803, -86.089474",
+                "Destination": "39.968246, -86.090161"
+            }
+        ]
+    }
+]

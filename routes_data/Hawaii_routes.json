@@ -1,1 +1,157 @@
-[{"State":"Hawaii","City":"Honolulu","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Hawaii","City":"Hilo1","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Hawaii","City":"Kailua1","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Hawaii","City":"Kapolei1","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Hawaii","City":"Kaneohe1","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Hawaii",
+        "City": "Honolulu",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "21.307586, -157.862782",
+                "Destination": "21.293035, -157.846555"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "21.303280, -157.861063",
+                "Destination": "21.293035, -157.850296"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "21.302858, -157.858620",
+                "Destination": "21.292349, -157.844867"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "21.303446, -157.855483",
+                "Destination": "21.291122, -157.834297"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "21.317577, -157.849714",
+                "Destination": "21.308521, -157.833660"
+            }
+        ]
+    },
+    {
+        "State": "Hawaii",
+        "City": "Hilo",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "19.725941, -155.089555",
+                "Destination": "19.717955, -155.110696"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "19.716390, -155.104888",
+                "Destination": "19.698347, -155.116931"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "19.716213, -155.097850",
+                "Destination": "19.699678, -155.091620"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "19.720911, -155.088978",
+                "Destination": "19.701981, -155.080127"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "19.724376, -155.086332",
+                "Destination": "19.713947, -155.075895"
+            }
+        ]
+    },
+    {
+        "State": "Hawaii",
+        "City": "Kailua",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "21.416437, -157.746203",
+                "Destination": "21.401972, -157.737915"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "21.410527, -157.745950",
+                "Destination": "21.397469, -157.740219"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "21.407272, -157.752833",
+                "Destination": "21.396474, -157.743574"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "21.405309, -157.755709",
+                "Destination": "21.394175, -157.747403"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "21.392427, -157.742998",
+                "Destination": "21.389265, -157.730382"
+            }
+        ]
+    },
+    {
+        "State": "Hawaii",
+        "City": "Kapolei",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "21.355446, -158.062140",
+                "Destination": "21.344314, -158.068289"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "21.340279, -158.069031",
+                "Destination": "21.335399, -158.057862"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "21.337746, -158.072654",
+                "Destination": "21.332649, -158.060689"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "21.331308, -158.081263",
+                "Destination": "21.328658, -158.060521"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "21.328667, -158.092815",
+                "Destination": "21.313645, -158.093949"
+            }
+        ]
+    },
+    {
+        "State": "Hawaii",
+        "City": "Kaneohe",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "21.410536, -157.818862",
+                "Destination": "21.403183, -157.810243"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "21.418218, -157.801517",
+                "Destination": "21.399933, -157.796418"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "21.393897, -157.796415",
+                "Destination": "21.404917, -157.788093"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "21.406329, -157.791608",
+                "Destination": "21.411417, -157.777546"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "21.422009, -157.789547",
+                "Destination": "21.411759, -157.792481"
+            }
+        ]
+    }
+]

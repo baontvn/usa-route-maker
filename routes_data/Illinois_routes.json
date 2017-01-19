@@ -1,1 +1,157 @@
-[{"State":"Illinois","City":"Chicago","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Illinois","City":"Aurora","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Illinois","City":"Rockford","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Illinois","City":"Joliet","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Illinois","City":"Naperville","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Illinois",
+        "City": "Chicago",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.957025, -87.757275",
+                "Destination": "41.952728, -87.727573"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.938685, -87.756689",
+                "Destination": "41.939284, -87.712441"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.911185, -87.765537",
+                "Destination": "41.908109, -87.726427"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.915993, -87.676353",
+                "Destination": "41.899712, -87.667282"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.886820, -87.626311",
+                "Destination": "41.864076, -87.625731"
+            }
+        ]
+    },
+    {
+        "State": "Illinois",
+        "City": "Aurora",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.744518, -104.833157",
+                "Destination": "39.743825, -104.810107"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.730689, -104.813876",
+                "Destination": "39.726185, -104.781837"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.711122, -104.854709",
+                "Destination": "39.701417, -104.830157"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.713569, -104.825739",
+                "Destination": "39.700296, -104.790944"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.732893, -104.875270",
+                "Destination": "39.753013, -104.858760"
+            }
+        ]
+    },
+    {
+        "State": "Illinois",
+        "City": "Rockford",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.290511, -89.088278",
+                "Destination": "42.288843, -89.050497"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.282224, -89.106325",
+                "Destination": "42.286656, -89.071312"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.273988, -89.078238",
+                "Destination": "42.277096, -89.040806"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.277251, -89.116053",
+                "Destination": "42.264830, -89.080816"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.263337, -89.116084",
+                "Destination": "42.259778, -89.080838"
+            }
+        ]
+    },
+    {
+        "State": "Illinois",
+        "City": "Joliet",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.543647, -88.122197",
+                "Destination": "41.546424, -88.088134"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.537501, -88.132968",
+                "Destination": "41.538100, -88.088973"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.530506, -88.137779",
+                "Destination": "41.529430, -88.103333"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.524715, -88.120027",
+                "Destination": "41.523547, -88.092323"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.537363, -88.070433",
+                "Destination": "41.520693, -88.072071"
+            }
+        ]
+    },
+    {
+        "State": "Illinois",
+        "City": "Naperville",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.770822, -88.182042",
+                "Destination": "41.772975, -88.149541"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.767964, -88.169685",
+                "Destination": "41.771895, -88.143857"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.767936, -88.149788",
+                "Destination": "41.756950, -88.139235"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.750201, -88.164204",
+                "Destination": "41.743892, -88.147044"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.774785, -88.195891",
+                "Destination": "41.749590, -88.197603"
+            }
+        ]
+    }
+]

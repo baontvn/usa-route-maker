@@ -1,1 +1,157 @@
-[{"State":"Idaho","City":"Boise","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Idaho","City":"Nampa","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Idaho","City":"Meridian","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Idaho","City":"Idaho Falls","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Idaho","City":"Pocatello","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Idaho",
+        "City": "Boise",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.665961, -116.248305",
+                "Destination": "43.644416, -116.220926"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.655551, -116.248356",
+                "Destination": "43.630328, -116.224576"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.646556, -116.203114",
+                "Destination": "43.624557, -116.205390"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.626611, -116.203407",
+                "Destination": "43.611611, -116.186000"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.617048, -116.238496",
+                "Destination": "43.600845, -116.218596"
+            }
+        ]
+    },
+    {
+        "State": "Idaho",
+        "City": "Nampa",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.597726, -116.593088",
+                "Destination": "43.570291, -116.591724"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.579377, -116.568960",
+                "Destination": "43.558503, -116.550793"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.563506, -116.577956",
+                "Destination": "43.561449, -116.547372"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.575816, -116.561684",
+                "Destination": "43.563823, -116.537958"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.554437, -116.592761",
+                "Destination": "43.543965, -116.560476"
+            }
+        ]
+    },
+    {
+        "State": "Idaho",
+        "City": "Meridian",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.648521, -116.433606",
+                "Destination": "43.648369, -116.393526"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.633897, -116.413708",
+                "Destination": "43.633784, -116.374519"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.619209, -116.391570",
+                "Destination": "43.617951, -116.361553"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.612845, -116.398310",
+                "Destination": "43.609728, -116.372051"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.626277, -116.433717",
+                "Destination": "43.611999, -116.413645"
+            }
+        ]
+    },
+    {
+        "State": "Idaho",
+        "City": "Idaho Falls",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.513863, -112.037432",
+                "Destination": "43.510752, -112.003848"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.496952, -112.031066",
+                "Destination": "43.493660, -112.013150"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.495818, -112.006394",
+                "Destination": "43.500050, -111.984089"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.485152, -112.046829",
+                "Destination": "43.478551, -112.026089"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.485297, -112.023821",
+                "Destination": "43.468182, -112.004047"
+            }
+        ]
+    },
+    {
+        "State": "Idaho",
+        "City": "Pocatello",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.905728, -112.468810",
+                "Destination": "42.884687, -112.463675"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.899048, -112.446193",
+                "Destination": "42.891391, -112.441554"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.895078, -112.456209",
+                "Destination": "42.884176, -112.444038"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.877181, -112.449001",
+                "Destination": "42.873999, -112.427473"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.865206, -112.433225",
+                "Destination": "42.871794, -112.418603"
+            }
+        ]
+    }
+]
