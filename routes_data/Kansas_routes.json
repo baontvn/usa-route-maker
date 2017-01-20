@@ -1,1 +1,157 @@
-[{"State":"Kansas","City":"Wichita","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Kansas","City":"Overland Park","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Kansas","City":"Kansas City","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Kansas","City":"Olathe","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Kansas","City":"Topeka","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Kansas",
+        "City": "Wichita",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "37.697544, -97.341313",
+                "Destination": "37.701064, -97.299144"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "37.708043, -97.348195",
+                "Destination": "37.708199, -97.308183"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "37.715347, -97.335508",
+                "Destination": "37.715498, -97.299064"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "37.673331, -97.352833",
+                "Destination": "37.671675, -97.329059"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "37.687645, -97.371232",
+                "Destination": "37.680484, -97.360105"
+            }
+        ]
+    },
+    {
+        "State": "Kansas",
+        "City": "Overland Park",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "38.958058, -94.692872",
+                "Destination": "38.956747, -94.658377"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "38.943224, -94.690941",
+                "Destination": "38.942153, -94.657944"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.927117, -94.700507",
+                "Destination": "38.926589, -94.665463"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "38.898210, -94.723718",
+                "Destination": "38.898210, -94.686484"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "38.883824, -94.700509",
+                "Destination": "38.854648, -94.705099"
+            }
+        ]
+    },
+    {
+        "State": "Kansas",
+        "City": "Kansas City",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    },
+    {
+        "State": "Kansas",
+        "City": "Olathe",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    },
+    {
+        "State": "Kansas",
+        "City": "Topeka",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    }
+]
