@@ -72,7 +72,7 @@ namespace Mapper
             public string Pole { get; set; }
             public string StartingPoint { get; set; }
             public string Destination { get; set; }
-
         }
+        
     }
 }

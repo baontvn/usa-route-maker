@@ -16,19 +16,19 @@ namespace Mapper
         {
             //var directory = @"C:\Users\BaoNT\Desktop\route_maker.json";
 
-            var listOfStates = GetStates(false);
-            var listOfCities = GetCities(listOfStates, false);
+            //var listOfStates = GetStates(false);
+            //var listOfCities = GetCities(listOfStates, false);
             //var listOfRoutes = GetRoute(listOfCities, false);
 
             #region Routes request
-            var cityRequest = GenerateCityResquest(listOfCities);
+            //var cityRequest = GenerateCityResquest(listOfCities);
 
-            foreach (var city in cityRequest.GroupBy(c => c.State).ToArray())
-            {
-                var data = JsonConvert.SerializeObject(city);
+            //foreach (var city in cityRequest.GroupBy(c => c.State).ToArray())
+            //{
+            //    var data = JsonConvert.SerializeObject(city);
 
-                WriteFile(data, @"D:\lab\usa-route-maker\routes_data\" + city.Key.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_routes.json");
-            }
+            //    WriteFile(data, @"D:\lab\usa-route-maker\routes_data\" + city.Key.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_routes.json");
+            //}
             #endregion
 
             #region Read route json -> Generate to request Json
@@ -42,6 +42,9 @@ namespace Mapper
 
             //WriteFile(json, @"D:\lab\usa-route-maker\fm_routes.json");
             #endregion
+
+
+            GenerateRequestData(@"D:\lab\usa-route-maker\routes_data");
 
             Console.WriteLine("Done");
             Console.ReadLine();
@@ -472,6 +475,32 @@ Wyoming: WY";
             reader.Close();
             response.Close();
             return result;
+        }
+
+        static void GenerateRequestData(string directoryFolder)
+        {
+            var counter = 1;
+            var listInputRequest = new List<Mappers.RouteRequest>();
+
+            var files = Directory.GetFiles(directoryFolder);
+            foreach (var file in files)
+            {
+                var fileData = File.ReadAllText(file);
+                var data = JsonConvert.DeserializeObject<List<Mappers.CityRequest>>(fileData);
+
+                foreach (var subData in data)
+                {
+                    var routes = subData.Routes.ToArray();
+                    listInputRequest.AddRange(routes.Where(r => r.Destination != "").Select(route => new Mappers.RouteRequest()
+                    {
+                        name = subData.State.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_" + subData.City.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_" + route.Pole, description = subData.State.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_" + subData.City.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_" + route.Pole, type = "work", id = counter++, endLocation = route.Destination, startLocation = route.StartingPoint, outFile = @"output/" + subData.State.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_" + subData.City.ToTitleCase(TitleCase.All).Replace(" ", String.Empty) + "_" + route.Pole + ".json"
+                    }));
+                }
+            }
+
+            var result = JsonConvert.SerializeObject(listInputRequest);
+
+            WriteFile(result, @"D:\lab\usa-route-maker\routes_request_data\request.json");
         }
 
         static List<T> ConcatArrays<T>(params T[][] list)
