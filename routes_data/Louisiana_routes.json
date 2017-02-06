@@ -1,1 +1,157 @@
-[{"State":"Louisiana","City":"New Orleans","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Louisiana","City":"Baton Rouge","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Louisiana","City":"Shreveport","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Louisiana","City":"Lafayette","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Louisiana","City":"Lake Charles","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Louisiana",
+        "City": "New Orleans",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "29.916659, -90.116222",
+                "Destination": "29.918384, -90.086694"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "29.946572, -90.104231",
+                "Destination": "29.927562, -90.102191"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "29.949340, -90.099952",
+                "Destination": "29.929283, -90.091929"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "29.935984, -90.093834",
+                "Destination": "29.942918, -90.084074"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "29.950568, -90.095930",
+                "Destination": "29.939760, -90.076773"
+            }
+        ]
+    },
+    {
+        "State": "Louisiana",
+        "City": "Baton Rouge",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "30.482460, -91.153001",
+                "Destination": "30.489293, -91.132850"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "30.477143, -91.143917",
+                "Destination": "30.480408, -91.121738"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "30.466197, -91.136893",
+                "Destination": "30.475177, -91.116140"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "30.451828, -91.149709",
+                "Destination": "30.452818, -91.127367"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "30.446922, -91.135891",
+                "Destination": "30.445422, -91.111617"
+            }
+        ]
+    },
+    {
+        "State": "Louisiana",
+        "City": "Shreveport",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.513037, -93.780232",
+                "Destination": "32.514672, -93.753081"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.503525, -93.775537",
+                "Destination": "32.509285, -93.752538"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.501544, -93.773875",
+                "Destination": "32.502031, -93.755193"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.492760, -93.751111",
+                "Destination": "32.492709, -93.726137"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.478229, -93.750306",
+                "Destination": "32.482876, -93.733864"
+            }
+        ]
+    },
+    {
+        "State": "Louisiana",
+        "City": "Lafayette",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "30.229755, -92.029600",
+                "Destination": "30.230785, -92.009967"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "30.229401, -92.018840",
+                "Destination": "30.215802, -92.008874"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "30.225715, -92.018347",
+                "Destination": "30.214814, -92.009707"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "30.221859, -92.036334",
+                "Destination": "30.224728, -92.022876"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "30.244701, -92.032003",
+                "Destination": "30.245091, -92.015545"
+            }
+        ]
+    },
+    {
+        "State": "Louisiana",
+        "City": "Lake Charles",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "30.229511, -93.217052",
+                "Destination": "30.227526, -93.184798"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "30.226825, -93.218703",
+                "Destination": "30.214224, -93.211216"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "30.213210, -93.214007",
+                "Destination": "30.213053, -93.193033"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "30.203402, -93.214050",
+                "Destination": "30.201257, -93.193531"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "30.217347, -93.219170",
+                "Destination": "30.194341, -93.218613"
+            }
+        ]
+    }
+]

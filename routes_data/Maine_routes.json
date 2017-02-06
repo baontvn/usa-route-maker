@@ -1,1 +1,157 @@
-[{"State":"Maine","City":"Portland","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Maine","City":"Lewiston","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Maine","City":"Bangor","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Maine","City":"South Portland","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Maine","City":"Auburn","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Maine",
+        "City": "Portland",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.663245, -70.244203",
+                "Destination": "43.669139, -70.255256"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.664712, -70.253051",
+                "Destination": "43.655651, -70.265404"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.661348, -70.251445",
+                "Destination": "43.655311, -70.261808"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.672387, -70.312123",
+                "Destination": "43.672639, -70.287414"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.667740, -70.296711",
+                "Destination": "43.660265, -70.281110"
+            }
+        ]
+    },
+    {
+        "State": "Maine",
+        "City": "Lewiston",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.112057, -70.205721",
+                "Destination": "44.118831, -70.192443"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.111092, -70.203626",
+                "Destination": "44.108416, -70.187079"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.100548, -70.203999",
+                "Destination": "44.103357, -70.182588"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.098039, -70.201664",
+                "Destination": "44.088579, -70.187489"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.087748, -70.210289",
+                "Destination": "44.076737, -70.189854"
+            }
+        ]
+    },
+    {
+        "State": "Maine",
+        "City": "Bangor",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.817455, -68.811089",
+                "Destination": "44.809383, -68.794473"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.807468, -68.790472",
+                "Destination": "44.798098, -68.775890"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.818242, -68.774419",
+                "Destination": "44.806045, -68.767377"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.813102, -68.768163",
+                "Destination": "44.831015, -68.752908"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.812154, -68.766720",
+                "Destination": "44.818572, -68.749336"
+            }
+        ]
+    },
+    {
+        "State": "Maine",
+        "City": "South Portland",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.637216, -70.335490",
+                "Destination": "43.633994, -70.315175"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.630358, -70.311369",
+                "Destination": "43.629887, -70.293328"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.630112, -70.288906",
+                "Destination": "43.630768, -70.268890"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.637839, -70.256661",
+                "Destination": "43.621467, -70.254189"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.624192, -70.305338",
+                "Destination": "43.622962, -70.293104"
+            }
+        ]
+    },
+    {
+        "State": "Maine",
+        "City": "Auburn",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.121748, -70.254169",
+                "Destination": "44.126668, -70.229502"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.136926, -70.225710",
+                "Destination": "44.115841, -70.224555"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.119489, -70.270402",
+                "Destination": "44.100812, -70.267716"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.086294, -70.251270",
+                "Destination": "44.098077, -70.232263"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.081217, -70.266718",
+                "Destination": "44.083467, -70.247838"
+            }
+        ]
+    }
+]

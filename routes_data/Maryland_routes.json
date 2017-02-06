@@ -1,1 +1,157 @@
-[{"State":"Maryland","City":"Baltimore","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Maryland","City":"Columbia","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Maryland","City":"Germantown","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Maryland","City":"Silver Spring","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Maryland","City":"Waldorf","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Maryland",
+        "City": "Baltimore",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.297923, -76.606404",
+                "Destination": "39.299274, -76.572720"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.290408, -76.615196",
+                "Destination": "39.290883, -76.638270"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.298408, -76.659665",
+                "Destination": "39.299135, -76.638698"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.308689, -76.642588",
+                "Destination": "39.295684, -76.632626"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.294509, -76.662995",
+                "Destination": "39.295496, -76.638556"
+            }
+        ]
+    },
+    {
+        "State": "Maryland",
+        "City": "Columbia",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.204348, -76.887544",
+                "Destination": "39.189685, -76.879738"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.210968, -76.823907",
+                "Destination": "39.188979, -76.821857"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.206951, -76.806173",
+                "Destination": "39.193826, -76.795993"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.205769, -76.833166",
+                "Destination": "39.184521, -76.826883"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.195931, -76.883459",
+                "Destination": "39.187569, -76.863123"
+            }
+        ]
+    },
+    {
+        "State": "Maryland",
+        "City": "Germantown",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.195366, -77.267670",
+                "Destination": "39.178584, -77.280950"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.177073, -77.264134",
+                "Destination": "39.178360, -77.241976"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.182164, -77.260164",
+                "Destination": "39.171460, -77.277348"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.171086, -77.262762",
+                "Destination": "39.156602, -77.266620"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.193534, -77.233057",
+                "Destination": "39.181571, -77.231756"
+            }
+        ]
+    },
+    {
+        "State": "Maryland",
+        "City": "Silver Spring",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.008815, -77.039644",
+                "Destination": "39.003269, -77.027065"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.008650, -77.018042",
+                "Destination": "39.007587, -77.000377"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.995466, -77.024477",
+                "Destination": "39.001648, -77.007887"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.006317, -77.048957",
+                "Destination": "39.008757, -77.041609"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.011420, -77.058845",
+                "Destination": "39.009009, -77.043327"
+            }
+        ]
+    },
+    {
+        "State": "Maryland",
+        "City": "Waldorf",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "38.649636, -76.963042",
+                "Destination": "38.649350, -76.936400"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "38.641996, -76.934183",
+                "Destination": "38.628750, -76.927027"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.611985, -76.921197",
+                "Destination": "38.624613, -76.908400"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "38.633462, -76.892085",
+                "Destination": "38.624081, -76.886736"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "38.636663, -76.896210",
+                "Destination": "38.647453, -76.885217"
+            }
+        ]
+    }
+]
