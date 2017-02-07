@@ -1,1 +1,157 @@
-[{"State":"Massachusetts","City":"Boston","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Massachusetts","City":"Worcester","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Massachusetts","City":"Springfield","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Massachusetts","City":"Lowell","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Massachusetts","City":"Cambridge","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Massachusetts",
+        "City": "Boston",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.351888, -71.075808",
+                "Destination": "42.336488, -71.087655"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.351938, -71.070688",
+                "Destination": "42.340928, -71.077281"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.344509, -71.063998",
+                "Destination": "42.336991, -71.076345"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.345461, -71.063663",
+                "Destination": "42.333268, -71.077588"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.342632, -71.063825",
+                "Destination": "42.331705, -71.076261"
+            }
+        ]
+    },
+    {
+        "State": "Massachusetts",
+        "City": "Worcester",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.278129, -71.843685",
+                "Destination": "42.270385, -71.816475"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.264243, -71.833869",
+                "Destination": "42.259703, -71.804999"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.263335, -71.836756",
+                "Destination": "42.254628, -71.814382"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.260424, -71.792296",
+                "Destination": "42.267467, -71.771578"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.256811, -71.790452",
+                "Destination": "42.257478, -71.768980"
+            }
+        ]
+    },
+    {
+        "State": "Massachusetts",
+        "City": "Springfield",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    },
+    {
+        "State": "Massachusetts",
+        "City": "Lowell",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.113516, -72.597157",
+                "Destination": "42.128292, -72.580556"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.091513, -72.579557",
+                "Destination": "42.085445, -72.553954"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.087865, -72.549636",
+                "Destination": "42.081205, -72.529454"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.103246, -72.533117",
+                "Destination": "42.107113, -72.507644"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.111189, -72.563943",
+                "Destination": "42.107031, -72.546525"
+            }
+        ]
+    },
+    {
+        "State": "Massachusetts",
+        "City": "Cambridge",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.374822, -71.114498",
+                "Destination": "42.365843, -71.092085"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.397060, -71.129876",
+                "Destination": "42.384994, -71.119433"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.387130, -71.140835",
+                "Destination": "42.389834, -71.124419"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.386317, -71.139621",
+                "Destination": "42.378432, -71.123794"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.378032, -71.140330",
+                "Destination": "42.373533, -71.123377"
+            }
+        ]
+    }
+]

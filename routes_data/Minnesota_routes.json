@@ -1,1 +1,157 @@
-[{"State":"Minnesota","City":"Minneapolis","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Minnesota","City":"Saint Paul","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Minnesota","City":"Rochester","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Minnesota","City":"Bloomington","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Minnesota","City":"Duluth","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Minnesota",
+        "City": "Minneapolis",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "45.013233, -93.295762",
+                "Destination": "45.013233, -93.263150"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.998800, -93.257486",
+                "Destination": "44.999305, -93.294282"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.991943, -93.294078",
+                "Destination": "44.996671, -93.262436"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.948399, -93.298314",
+                "Destination": "44.948435, -93.262691"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.957387, -93.240649",
+                "Destination": "44.948367, -93.220409"
+            }
+        ]
+    },
+    {
+        "State": "Minnesota",
+        "City": "Saint Paul",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.977490, -93.135443",
+                "Destination": "44.977454, -93.098902"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.970204, -93.136535",
+                "Destination": "44.970269, -93.105945"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.963074, -93.146563",
+                "Destination": "44.963013, -93.116269"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.946643, -93.156797",
+                "Destination": "44.946590, -93.123748"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.977353, -93.083707",
+                "Destination": "44.970384, -93.060864"
+            }
+        ]
+    },
+    {
+        "State": "Minnesota",
+        "City": "Rochester",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.021771, -92.498980",
+                "Destination": "44.021728, -92.464507"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.021640, -92.429185",
+                "Destination": "44.019327, -92.461290"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.997996, -92.477049",
+                "Destination": "43.984304, -92.488428"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.043735, -92.517543",
+                "Destination": "44.047478, -92.492283"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.038088, -92.501316",
+                "Destination": "44.030485, -92.465861"
+            }
+        ]
+    },
+    {
+        "State": "Minnesota",
+        "City": "Bloomington",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.837989, -93.344975",
+                "Destination": "44.840815, -93.317697"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.825180, -93.338148",
+                "Destination": "44.826412, -93.308829"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.819411, -93.309001",
+                "Destination": "44.818985, -93.350371"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.811983, -93.319300",
+                "Destination": "44.819168, -93.288659"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.827486, -93.288730",
+                "Destination": "44.848019, -93.288573"
+            }
+        ]
+    },
+    {
+        "State": "Minnesota",
+        "City": "Duluth",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "46.822057, -92.118902",
+                "Destination": "46.825886, -92.079405"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "46.822178, -92.074101",
+                "Destination": "46.816695, -92.100436"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "46.798810, -92.100487",
+                "Destination": "46.813936, -92.078695"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "46.816711, -92.059139",
+                "Destination": "46.826402, -92.036823"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "46.786644, -92.136105",
+                "Destination": "46.779503, -92.113960"
+            }
+        ]
+    }
+]

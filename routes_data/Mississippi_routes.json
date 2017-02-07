@@ -1,1 +1,157 @@
-[{"State":"Mississippi","City":"Jackson","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Mississippi","City":"Gulfport","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Mississippi","City":"Southaven","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Mississippi","City":"Hattiesburg","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Mississippi","City":"Biloxi","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Mississippi",
+        "City": "Jackson",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.355951, -90.222101",
+                "Destination": "32.338866, -90.220731"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.344808, -90.219477",
+                "Destination": "32.336357, -90.196970"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.335467, -90.182011",
+                "Destination": "32.313824, -90.181769"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.312147, -90.193048",
+                "Destination": "32.312215, -90.169037"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.297686, -90.227812",
+                "Destination": "32.302993, -90.201396"
+            }
+        ]
+    },
+    {
+        "State": "Mississippi",
+        "City": "Gulfport",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    },
+    {
+        "State": "Mississippi",
+        "City": "Southaven",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    },
+    {
+        "State": "Mississippi",
+        "City": "Hattiesburg",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    },
+    {
+        "State": "Mississippi",
+        "City": "Biloxi",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    }
+]

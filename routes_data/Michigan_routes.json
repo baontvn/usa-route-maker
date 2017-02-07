@@ -1,1 +1,157 @@
-[{"State":"Michigan","City":"Detroit","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Michigan","City":"Grand Rapids","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Michigan","City":"Warren","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Michigan","City":"Sterling Heights","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Michigan","City":"Ann Arbor","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Michigan",
+        "City": "Detroit",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.332624, -83.121250",
+                "Destination": "42.341235, -83.096856"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.344605, -83.117986",
+                "Destination": "42.348421, -83.090194"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.333913, -83.096785",
+                "Destination": "42.344195, -83.065175"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.320338, -83.095720",
+                "Destination": "42.327933, -83.069775"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.347486, -83.010923",
+                "Destination": "42.336107, -83.027855"
+            }
+        ]
+    },
+    {
+        "State": "Michigan",
+        "City": "Grand Rapids",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.962758, -85.639754",
+                "Destination": "42.963259, -85.673417"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.970232, -85.656963",
+                "Destination": "42.969972, -85.629979"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.955985, -85.667616",
+                "Destination": "42.955671, -85.639549"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.958768, -85.673407",
+                "Destination": "42.936087, -85.686625"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.941365, -85.658987",
+                "Destination": "42.927383, -85.648130"
+            }
+        ]
+    },
+    {
+        "State": "Michigan",
+        "City": "Warren",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.514188, -83.018087",
+                "Destination": "42.514631, -82.987961"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.508367, -82.977919",
+                "Destination": "42.507291, -83.006929"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.499450, -83.018213",
+                "Destination": "42.499790, -82.987245"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.505778, -83.067517",
+                "Destination": "42.506101, -83.038949"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.520456, -83.067946",
+                "Destination": "42.524473, -83.036232"
+            }
+        ]
+    },
+    {
+        "State": "Michigan",
+        "City": "Sterling Heights",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.608473, -83.062607",
+                "Destination": "42.608367, -83.031572"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.601748, -83.045968",
+                "Destination": "42.600189, -83.071052"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.593652, -83.070746",
+                "Destination": "42.594629, -83.043289"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.580012, -83.043442",
+                "Destination": "42.579261, -83.070184"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.613920, -83.021865",
+                "Destination": "42.596866, -83.004717"
+            }
+        ]
+    },
+    {
+        "State": "Michigan",
+        "City": "Ann Arbor",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.291236, -83.771528",
+                "Destination": "42.283296, -83.748449"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.283349, -83.772055",
+                "Destination": "42.281284, -83.743864"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.279405, -83.743226",
+                "Destination": "42.275107, -83.772288"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.274146, -83.744193",
+                "Destination": "42.258910, -83.728474"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.267074, -83.770301",
+                "Destination": "42.260998, -83.750201"
+            }
+        ]
+    }
+]
