@@ -1,1 +1,157 @@
-[{"State":"Montana","City":"Billings","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Montana","City":"Missoula","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Montana","City":"Great Falls","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Montana","City":"Bozeman","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Montana","City":"Butte","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Montana",
+        "City": "Billings",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "45.791404, -108.585768",
+                "Destination": "45.790052, -108.548695"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "45.784214, -108.576410",
+                "Destination": "45.784163, -108.535992"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "45.781194, -108.527981",
+                "Destination": "45.780741, -108.564140"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "45.777016, -108.576410",
+                "Destination": "45.777167, -108.535704"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "45.762504, -108.566655",
+                "Destination": "45.767589, -108.542332"
+            }
+        ]
+    },
+    {
+        "State": "Montana",
+        "City": "Missoula",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "46.887145, -114.026866",
+                "Destination": "46.878052, -114.007825"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "46.867000, -114.032025",
+                "Destination": "46.867059, -114.003529"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "46.859919, -114.007980",
+                "Destination": "46.875333, -113.997020"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "46.856010, -114.002590",
+                "Destination": "46.856588, -114.034144"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "46.861169, -113.997594",
+                "Destination": "46.848849, -114.002596"
+            }
+        ]
+    },
+    {
+        "State": "Montana",
+        "City": "Great Falls",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "47.514042, -111.292129",
+                "Destination": "47.513993, -111.262610"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "47.507412, -111.269322",
+                "Destination": "47.507558, -111.304327"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "47.506388, -111.288665",
+                "Destination": "47.506290, -111.258857"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "47.510821, -111.292109",
+                "Destination": "47.495361, -111.292236"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "47.495192, -111.241771",
+                "Destination": "47.513844, -111.241520"
+            }
+        ]
+    },
+    {
+        "State": "Montana",
+        "City": "Bozeman",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "45.693104, -111.056854",
+                "Destination": "45.689643, -111.031012"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "45.685731, -111.056798",
+                "Destination": "45.685587, -111.033718"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "45.677284, -111.038762",
+                "Destination": "45.663186, -111.035397"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "45.675335, -111.042356",
+                "Destination": "45.674650, -111.067508"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "45.695198, -111.051456",
+                "Destination": "45.682169, -111.056940"
+            }
+        ]
+    },
+    {
+        "State": "Montana",
+        "City": "Butte",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "46.008666, -112.549510",
+                "Destination": "46.010126, -112.531821"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "46.012388, -112.549401",
+                "Destination": "46.019520, -112.535651"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "46.013367, -112.528086",
+                "Destination": "46.004099, -112.511369"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "46.006987, -112.549422",
+                "Destination": "46.003867, -112.527847"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "45.987619, -112.529108",
+                "Destination": "45.974953, -112.509434"
+            }
+        ]
+    }
+]

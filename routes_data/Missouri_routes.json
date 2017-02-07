@@ -1,1 +1,157 @@
-[{"State":"Missouri","City":"Kansas City","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Missouri","City":"Saint Louis","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Missouri","City":"Springfield","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Missouri","City":"Independence","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Missouri","City":"Columbia","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Missouri",
+        "City": "Kansas City",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.110384, -94.580938",
+                "Destination": "39.118091, -94.554851"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.078336, -94.584609",
+                "Destination": "39.076967, -94.543345"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.084564, -94.552286",
+                "Destination": "39.083228, -94.519925"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.090567, -94.519564",
+                "Destination": "39.090903, -94.551971"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.052313, -94.567660",
+                "Destination": "39.034452, -94.573488"
+            }
+        ]
+    },
+    {
+        "State": "Missouri",
+        "City": "Saint Louis",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "38.609672, -90.200479",
+                "Destination": "38.591404, -90.215075"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "38.583907, -90.223915",
+                "Destination": "38.576816, -90.240567"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.585320, -90.244976",
+                "Destination": "38.570525, -90.252709"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "38.575193, -90.255006",
+                "Destination": "38.588199, -90.251893"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "38.613446, -90.240002",
+                "Destination": "38.601960, -90.235357"
+            }
+        ]
+    },
+    {
+        "State": "Missouri",
+        "City": "Springfield",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "37.226267, -93.314129",
+                "Destination": "37.226924, -93.343705"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "37.212169, -93.342992",
+                "Destination": "37.208682, -93.315796"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "37.174992, -93.295214",
+                "Destination": "37.167431, -93.277008"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "37.205339, -93.286827",
+                "Destination": "37.182196, -93.287426"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "37.144973, -93.304722",
+                "Destination": "37.145581, -93.285681"
+            }
+        ]
+    },
+    {
+        "State": "Missouri",
+        "City": "Independence",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.091378, -94.445796",
+                "Destination": "39.090021, -94.415876"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.077690, -94.413895",
+                "Destination": "39.057280, -94.414869"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.113411, -94.416268",
+                "Destination": "39.097293, -94.413092"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.091675, -94.353364",
+                "Destination": "39.080887, -94.370176"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.064869, -94.391281",
+                "Destination": "39.049019, -94.387255"
+            }
+        ]
+    },
+    {
+        "State": "Missouri",
+        "City": "Columbia",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "38.953772, -92.369775",
+                "Destination": "38.951695, -92.338956"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "38.957701, -92.335745",
+                "Destination": "38.960759, -92.366708"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.958871, -92.317903",
+                "Destination": "38.943832, -92.306845"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "38.963844, -92.306828",
+                "Destination": "38.937706, -92.307014"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "38.933702, -92.390373",
+                "Destination": "38.931814, -92.368616"
+            }
+        ]
+    }
+]

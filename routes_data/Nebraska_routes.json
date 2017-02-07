@@ -1,1 +1,157 @@
-[{"State":"Nebraska","City":"Omaha","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Nebraska","City":"Lincoln","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Nebraska","City":"Bellevue","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Nebraska","City":"Grand Island","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Nebraska","City":"Kearney","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Nebraska",
+        "City": "Omaha",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.277826, -96.028630",
+                "Destination": "41.277907, -95.995186"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.270543, -96.045200",
+                "Destination": "41.270773, -96.004882"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.265019, -95.995084",
+                "Destination": "41.263254, -96.030706"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.252512, -95.990388",
+                "Destination": "41.248752, -96.015498"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.237883, -96.008340",
+                "Destination": "41.245298, -95.975690"
+            }
+        ]
+    },
+    {
+        "State": "Nebraska",
+        "City": "Lincoln",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.837296, -96.672813",
+                "Destination": "40.835285, -96.638909"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.828067, -96.644104",
+                "Destination": "40.828007, -96.682100"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.827072, -96.630516",
+                "Destination": "40.820826, -96.661078"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.799284, -96.713011",
+                "Destination": "40.799014, -96.682314"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.798955, -96.663307",
+                "Destination": "40.809837, -96.642255"
+            }
+        ]
+    },
+    {
+        "State": "Nebraska",
+        "City": "Bellevue",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.176522, -95.933506",
+                "Destination": "41.166009, -95.916328"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.160196, -95.920658",
+                "Destination": "41.141726, -95.909584"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.142451, -95.907305",
+                "Destination": "41.160079, -95.909098"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.149215, -95.904058",
+                "Destination": "41.136538, -95.893635"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.146823, -95.932720",
+                "Destination": "41.146293, -95.915308"
+            }
+        ]
+    },
+    {
+        "State": "Nebraska",
+        "City": "Grand Island",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.938620, -98.397647",
+                "Destination": "40.938565, -98.359034"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.931586, -98.368561",
+                "Destination": "40.936274, -98.339527"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.929012, -98.340643",
+                "Destination": "40.924213, -98.368023"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.924537, -98.378408",
+                "Destination": "40.902562, -98.378344"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.911176, -98.353979",
+                "Destination": "40.916458, -98.320724"
+            }
+        ]
+    },
+    {
+        "State": "Nebraska",
+        "City": "Kearney",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.714017, -99.102962",
+                "Destination": "40.698693, -99.081656"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.706426, -99.076137",
+                "Destination": "40.710566, -99.103023"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.704723, -99.088275",
+                "Destination": "40.685245, -99.088795"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.681917, -99.082160",
+                "Destination": "40.702155, -99.081650"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.705250, -99.074607",
+                "Destination": "40.687064, -99.071035"
+            }
+        ]
+    }
+]

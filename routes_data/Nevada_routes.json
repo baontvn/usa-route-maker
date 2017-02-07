@@ -1,1 +1,157 @@
-[{"State":"Nevada","City":"Las Vegas","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Nevada","City":"Henderson","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Nevada","City":"Reno","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Nevada","City":"North Las Vegas","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Nevada","City":"Sparks","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Nevada",
+        "City": "Las Vegas",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.180826, -115.080375",
+                "Destination": "36.182277, -115.112067"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.188263, -115.103098",
+                "Destination": "36.188546, -115.070788"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.166450, -115.125080",
+                "Destination": "36.166204, -115.089283"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.159029, -115.183448",
+                "Destination": "36.158997, -115.153682"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.136498, -115.161976",
+                "Destination": "36.163527, -115.144209"
+            }
+        ]
+    },
+    {
+        "State": "Nevada",
+        "City": "Henderson",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.012601, -114.965431",
+                "Destination": "36.027276, -114.949901"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.049104, -114.949828",
+                "Destination": "36.029144, -114.963181"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.048901, -114.959082",
+                "Destination": "36.032841, -114.969722"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.051030, -114.992061",
+                "Destination": "36.050249, -114.963288"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.063558, -114.949721",
+                "Destination": "36.036309, -114.949802"
+            }
+        ]
+    },
+    {
+        "State": "Nevada",
+        "City": "Reno",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.544361, -119.840884",
+                "Destination": "39.530231, -119.844916"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.525050, -119.835749",
+                "Destination": "39.531152, -119.807746"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.526229, -119.817223",
+                "Destination": "39.509150, -119.817193"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.529908, -119.814280",
+                "Destination": "39.509793, -119.805205"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.512893, -119.803172",
+                "Destination": "39.527183, -119.803011"
+            }
+        ]
+    },
+    {
+        "State": "Nevada",
+        "City": "North Las Vegas",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.193733, -115.131217",
+                "Destination": "36.209325, -115.107695"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.214143, -115.120811",
+                "Destination": "36.203230, -115.147400"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.217686, -115.188116",
+                "Destination": "36.217780, -115.156632"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.225180, -115.133916",
+                "Destination": "36.225015, -115.170662"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.241816, -115.116820",
+                "Destination": "36.217888, -115.127088"
+            }
+        ]
+    },
+    {
+        "State": "Nevada",
+        "City": "Sparks",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.527643, -119.771457",
+                "Destination": "39.527485, -119.743405"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.521723, -119.743293",
+                "Destination": "39.523409, -119.764535"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.537569, -119.767114",
+                "Destination": "39.541968, -119.743202"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.558394, -119.752427",
+                "Destination": "39.543902, -119.752701"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.580312, -119.718016",
+                "Destination": "39.590491, -119.729636"
+            }
+        ]
+    }
+]
