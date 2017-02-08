@@ -1,1 +1,157 @@
-[{"State":"New Hampshire","City":"Manchester","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Hampshire","City":"Nashua","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Hampshire","City":"Concord","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Hampshire","City":"Derry","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Hampshire","City":"Rochester","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "New Hampshire",
+        "City": "Manchester",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.995061, -71.460891",
+                "Destination": "42.995571, -71.441439"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.988250, -71.431442",
+                "Destination": "42.990961, -71.455369"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.987565, -71.433338",
+                "Destination": "42.987243, -71.460695"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.981345, -71.461908",
+                "Destination": "42.981340, -71.434310"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.973958, -71.427492",
+                "Destination": "42.972795, -71.454660"
+            }
+        ]
+    },
+    {
+        "State": "New Hampshire",
+        "City": "Nashua",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.774615, -71.488342",
+                "Destination": "42.766166, -71.470173"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.767759, -71.467035",
+                "Destination": "42.784906, -71.467470"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.764909, -71.473372",
+                "Destination": "42.763808, -71.456997"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.762726, -71.466140",
+                "Destination": "42.760866, -71.446947"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.740700, -71.461513",
+                "Destination": "42.755052, -71.462613"
+            }
+        ]
+    },
+    {
+        "State": "New Hampshire",
+        "City": "Concord",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.208849, -71.528234",
+                "Destination": "43.214898, -71.509888"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.217994, -71.506156",
+                "Destination": "43.234056, -71.523066"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.212038, -71.514060",
+                "Destination": "43.213864, -71.485039"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.188960, -71.498800",
+                "Destination": "43.208479, -71.513283"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.187836, -71.555082",
+                "Destination": "43.200901, -71.539076"
+            }
+        ]
+    },
+    {
+        "State": "New Hampshire",
+        "City": "Derry",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.892211, -71.310324",
+                "Destination": "42.894652, -71.289833"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.912331, -71.300978",
+                "Destination": "42.895540, -71.309394"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.894364, -71.313514",
+                "Destination": "42.907002, -71.323336"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.891200, -71.327057",
+                "Destination": "42.875274, -71.317022"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.881275, -71.292946",
+                "Destination": "42.873077, -71.273350"
+            }
+        ]
+    },
+    {
+        "State": "New Hampshire",
+        "City": "Rochester",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.299229, -71.029972",
+                "Destination": "43.304664, -71.003321"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.329387, -71.024396",
+                "Destination": "43.314633, -70.999396"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.317174, -70.977774",
+                "Destination": "43.333903, -70.996002"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.299683, -70.970748",
+                "Destination": "43.287024, -70.943460"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.275205, -70.959560",
+                "Destination": "43.288903, -70.974257"
+            }
+        ]
+    }
+]

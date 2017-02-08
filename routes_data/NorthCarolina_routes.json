@@ -1,1 +1,157 @@
-[{"State":"North Carolina","City":"Charlotte","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"North Carolina","City":"Raleigh","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"North Carolina","City":"Greensboro","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"North Carolina","City":"Durham","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"North Carolina","City":"Winston-Salem","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "North Carolina",
+        "City": "Charlotte",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.255546, -80.907348",
+                "Destination": "35.239949, -80.886012"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.203523, -80.846839",
+                "Destination": "35.186298, -80.840357"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.184362, -80.820684",
+                "Destination": "35.204750, -80.835736"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.138571, -80.803194",
+                "Destination": "35.144246, -80.832845"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.151508, -80.841729",
+                "Destination": "35.133635, -80.853575"
+            }
+        ]
+    },
+    {
+        "State": "North Carolina",
+        "City": "Raleigh",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.801044, -78.681195",
+                "Destination": "35.796218, -78.655192"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.784486, -78.658543",
+                "Destination": "35.792130, -78.681975"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.768408, -78.694273",
+                "Destination": "35.780583, -78.675617"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.787945, -78.613545",
+                "Destination": "35.809512, -78.602425"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.774803, -78.606029",
+                "Destination": "35.771408, -78.583520"
+            }
+        ]
+    },
+    {
+        "State": "North Carolina",
+        "City": "Greensboro",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.053363, -79.842027",
+                "Destination": "36.052575, -79.815669"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.046408, -79.799602",
+                "Destination": "36.030308, -79.801519"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.067821, -79.798729",
+                "Destination": "36.064016, -79.828148"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.074756, -79.888954",
+                "Destination": "36.070186, -79.860124"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.085073, -79.769853",
+                "Destination": "36.084893, -79.742214"
+            }
+        ]
+    },
+    {
+        "State": "North Carolina",
+        "City": "Durham",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.976423, -78.902790",
+                "Destination": "35.974293, -78.877151"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.992755, -78.869189",
+                "Destination": "35.994630, -78.890905"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.003830, -78.903007",
+                "Destination": "36.004487, -78.869695"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.002328, -78.912911",
+                "Destination": "36.019332, -78.913586"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.993622, -78.938751",
+                "Destination": "35.996839, -78.915051"
+            }
+        ]
+    },
+    {
+        "State": "North Carolina",
+        "City": "Winston-Salem",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.112869, -80.305212",
+                "Destination": "36.112180, -80.275967"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.108774, -80.288862",
+                "Destination": "36.106231, -80.266256"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.117391, -80.258084",
+                "Destination": "36.097413, -80.253662"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.077745, -80.273477",
+                "Destination": "36.063420, -80.277678"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.088189, -80.211269",
+                "Destination": "36.076758, -80.181382"
+            }
+        ]
+    }
+]

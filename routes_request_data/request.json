@@ -1,3062 +1,2838 @@
 [
+    
     {
-        "id": 26,
-        "name": "Alaska_Anchorage_West",
-        "description": "Alaska_Anchorage_West",
+        "id": 366,
+        "name": "Kentucky_Louisville_West",
+        "description": "Kentucky_Louisville_West",
         "type": "work",
-        "startLocation": "61.195221, -149.957726",
-        "endLocation": "61.195290, -149.897965",
-        "outFile": "output/Alaska_Anchorage_West.json"
+        "startLocation": "38.239514, -85.799979",
+        "endLocation": "38.243822, -85.785751",
+        "outFile": "output/Kentucky_Louisville_West.json"
     },
     {
-        "id": 27,
-        "name": "Alaska_Anchorage_East",
-        "description": "Alaska_Anchorage_East",
+        "id": 367,
+        "name": "Kentucky_Louisville_East",
+        "description": "Kentucky_Louisville_East",
         "type": "work",
-        "startLocation": "61.200286, -149.907801",
-        "endLocation": "61.198915, -149.905340",
-        "outFile": "output/Alaska_Anchorage_East.json"
+        "startLocation": "38.230388, -85.798600",
+        "endLocation": "38.224399, -85.787815",
+        "outFile": "output/Kentucky_Louisville_East.json"
     },
     {
-        "id": 28,
-        "name": "Alaska_Anchorage_South",
-        "description": "Alaska_Anchorage_South",
+        "id": 368,
+        "name": "Kentucky_Louisville_South",
+        "description": "Kentucky_Louisville_South",
         "type": "work",
-        "startLocation": "61.186963, -149.911591",
-        "endLocation": "61.188011, -149.868216",
-        "outFile": "output/Alaska_Anchorage_South.json"
+        "startLocation": "38.226211, -85.783382",
+        "endLocation": "38.234171, -85.775667",
+        "outFile": "output/Kentucky_Louisville_South.json"
     },
     {
-        "id": 29,
-        "name": "Alaska_Anchorage_North",
-        "description": "Alaska_Anchorage_North",
+        "id": 369,
+        "name": "Kentucky_Louisville_North",
+        "description": "Kentucky_Louisville_North",
         "type": "work",
-        "startLocation": "61.207730, -149.899601",
-        "endLocation": "61.207719, -149.870780",
-        "outFile": "output/Alaska_Anchorage_North.json"
+        "startLocation": "38.254539, -85.750121",
+        "endLocation": "38.252652, -85.732912",
+        "outFile": "output/Kentucky_Louisville_North.json"
     },
     {
-        "id": 30,
-        "name": "Alaska_Anchorage_Central",
-        "description": "Alaska_Anchorage_Central",
+        "id": 370,
+        "name": "Kentucky_Louisville_Central",
+        "description": "Kentucky_Louisville_Central",
         "type": "work",
-        "startLocation": "61.207722, -149.867293",
-        "endLocation": "61.211966, -149.823303",
-        "outFile": "output/Alaska_Anchorage_Central.json"
+        "startLocation": "38.247606, -85.731599",
+        "endLocation": "38.251573, -85.718901",
+        "outFile": "output/Kentucky_Louisville_Central.json"
     },
     {
-        "id": 31,
-        "name": "Alaska_Fairbanks_West",
-        "description": "Alaska_Fairbanks_West",
+        "id": 371,
+        "name": "Kentucky_Lexington_West",
+        "description": "Kentucky_Lexington_West",
         "type": "work",
-        "startLocation": "64.844638, -147.734719",
-        "endLocation": "64.850520, -147.707764",
-        "outFile": "output/Alaska_Fairbanks_West.json"
+        "startLocation": "38.047374, -84.543266",
+        "endLocation": "38.049988, -84.523346",
+        "outFile": "output/Kentucky_Lexington_West.json"
     },
     {
-        "id": 32,
-        "name": "Alaska_Fairbanks_East",
-        "description": "Alaska_Fairbanks_East",
+        "id": 372,
+        "name": "Kentucky_Lexington_East",
+        "description": "Kentucky_Lexington_East",
         "type": "work",
-        "startLocation": "64.836711, -147.778540",
-        "endLocation": "64.836874, -147.726556",
-        "outFile": "output/Alaska_Fairbanks_East.json"
+        "startLocation": "38.043395, -84.541967",
+        "endLocation": "38.033760, -84.524609",
+        "outFile": "output/Kentucky_Lexington_East.json"
     },
     {
-        "id": 33,
-        "name": "Alaska_Fairbanks_South",
-        "description": "Alaska_Fairbanks_South",
+        "id": 373,
+        "name": "Kentucky_Lexington_South",
+        "description": "Kentucky_Lexington_South",
         "type": "work",
-        "startLocation": "64.861285, -147.743841",
-        "endLocation": "64.845705, -147.722434",
-        "outFile": "output/Alaska_Fairbanks_South.json"
+        "startLocation": "38.031665, -84.521233",
+        "endLocation": "38.022449, -84.494344",
+        "outFile": "output/Kentucky_Lexington_South.json"
     },
     {
-        "id": 34,
-        "name": "Alaska_Fairbanks_North",
-        "description": "Alaska_Fairbanks_North",
+        "id": 374,
+        "name": "Kentucky_Lexington_North",
+        "description": "Kentucky_Lexington_North",
         "type": "work",
-        "startLocation": "64.834623, -147.730821",
-        "endLocation": "64.821523, -147.716018",
-        "outFile": "output/Alaska_Fairbanks_North.json"
+        "startLocation": "38.057854, -84.501849",
+        "endLocation": "38.046521, -84.489090",
+        "outFile": "output/Kentucky_Lexington_North.json"
     },
     {
-        "id": 35,
-        "name": "Alaska_Fairbanks_Central",
-        "description": "Alaska_Fairbanks_Central",
+        "id": 375,
+        "name": "Kentucky_Lexington_Central",
+        "description": "Kentucky_Lexington_Central",
         "type": "work",
-        "startLocation": "64.847119, -147.736456",
-        "endLocation": "64.838126, -147.769977",
-        "outFile": "output/Alaska_Fairbanks_Central.json"
+        "startLocation": "38.064203, -84.499297",
+        "endLocation": "38.066092, -84.483680",
+        "outFile": "output/Kentucky_Lexington_Central.json"
     },
     {
-        "id": 36,
-        "name": "Alaska_Ketchikan_West",
-        "description": "Alaska_Ketchikan_West",
+        "id": 376,
+        "name": "Kentucky_BowlingGreen_West",
+        "description": "Kentucky_BowlingGreen_West",
         "type": "work",
-        "startLocation": "55.363106, -131.693451",
-        "endLocation": "55.361053, -131.680562",
-        "outFile": "output/Alaska_Ketchikan_West.json"
+        "startLocation": "36.981504, -86.470288",
+        "endLocation": "36.973961, -86.476777",
+        "outFile": "output/Kentucky_BowlingGreen_West.json"
     },
     {
-        "id": 37,
-        "name": "Alaska_Ketchikan_East",
-        "description": "Alaska_Ketchikan_East",
+        "id": 377,
+        "name": "Kentucky_BowlingGreen_East",
+        "description": "Kentucky_BowlingGreen_East",
         "type": "work",
-        "startLocation": "55.360672, -131.680530",
-        "endLocation": "55.353672, -131.673824",
-        "outFile": "output/Alaska_Ketchikan_East.json"
+        "startLocation": "36.988822, -86.484214",
+        "endLocation": "36.982741, -86.467898",
+        "outFile": "output/Kentucky_BowlingGreen_East.json"
     },
     {
-        "id": 38,
-        "name": "Alaska_Ketchikan_South",
-        "description": "Alaska_Ketchikan_South",
+        "id": 378,
+        "name": "Kentucky_BowlingGreen_South",
+        "description": "Kentucky_BowlingGreen_South",
         "type": "work",
-        "startLocation": "55.357234, -131.695957",
-        "endLocation": "55.351116, -131.677184",
-        "outFile": "output/Alaska_Ketchikan_South.json"
+        "startLocation": "36.992128, -86.474048",
+        "endLocation": "36.986753, -86.460165",
+        "outFile": "output/Kentucky_BowlingGreen_South.json"
     },
     {
-        "id": 39,
-        "name": "Alaska_Ketchikan_North",
-        "description": "Alaska_Ketchikan_North",
+        "id": 379,
+        "name": "Kentucky_BowlingGreen_North",
+        "description": "Kentucky_BowlingGreen_North",
         "type": "work",
-        "startLocation": "55.349300, -131.673174",
-        "endLocation": "55.341013, -131.645079",
-        "outFile": "output/Alaska_Ketchikan_North.json"
+        "startLocation": "36.988032, -86.457315",
+        "endLocation": "36.977336, -86.460044",
+        "outFile": "output/Kentucky_BowlingGreen_North.json"
     },
     {
-        "id": 40,
-        "name": "Alaska_Ketchikan_Central",
-        "description": "Alaska_Ketchikan_Central",
+        "id": 380,
+        "name": "Kentucky_BowlingGreen_Central",
+        "description": "Kentucky_BowlingGreen_Central",
         "type": "work",
-        "startLocation": "55.348379, -131.651407",
-        "endLocation": "55.343649, -131.636501",
-        "outFile": "output/Alaska_Ketchikan_Central.json"
+        "startLocation": "36.975930, -86.441371",
+        "endLocation": "36.962898, -86.454603",
+        "outFile": "output/Kentucky_BowlingGreen_Central.json"
     },
     {
-        "id": 41,
-        "name": "Arizona_Phoenix_West",
-        "description": "Arizona_Phoenix_West",
+        "id": 381,
+        "name": "Kentucky_Owensboro_West",
+        "description": "Kentucky_Owensboro_West",
         "type": "work",
-        "startLocation": "33.480474, -112.151765",
-        "endLocation": "33.465949, -112.134407",
-        "outFile": "output/Arizona_Phoenix_West.json"
+        "startLocation": "37.771255, -87.142048",
+        "endLocation": "37.772374, -87.116856",
+        "outFile": "output/Kentucky_Owensboro_West.json"
     },
     {
-        "id": 42,
-        "name": "Arizona_Phoenix_East",
-        "description": "Arizona_Phoenix_East",
+        "id": 382,
+        "name": "Kentucky_Owensboro_East",
+        "description": "Kentucky_Owensboro_East",
         "type": "work",
-        "startLocation": "33.480647, -112.099984",
-        "endLocation": "33.465899, -112.099961",
-        "outFile": "output/Arizona_Phoenix_East.json"
+        "startLocation": "37.773669, -87.113488",
+        "endLocation": "37.765306, -87.109193",
+        "outFile": "output/Kentucky_Owensboro_East.json"
     },
     {
-        "id": 43,
-        "name": "Arizona_Phoenix_South",
-        "description": "Arizona_Phoenix_South",
+        "id": 383,
+        "name": "Kentucky_Owensboro_South",
+        "description": "Kentucky_Owensboro_South",
         "type": "work",
-        "startLocation": "33.473187, -112.091394",
-        "endLocation": "33.465834, -112.082648",
-        "outFile": "output/Arizona_Phoenix_South.json"
+        "startLocation": "37.758378, -87.111993",
+        "endLocation": "37.760260, -87.089566",
+        "outFile": "output/Kentucky_Owensboro_South.json"
     },
     {
-        "id": 44,
-        "name": "Arizona_Phoenix_North",
-        "description": "Arizona_Phoenix_North",
+        "id": 384,
+        "name": "Kentucky_Owensboro_North",
+        "description": "Kentucky_Owensboro_North",
         "type": "work",
-        "startLocation": "33.451372, -112.151783",
-        "endLocation": "33.451083, -112.117516",
-        "outFile": "output/Arizona_Phoenix_North.json"
+        "startLocation": "37.756772, -87.105732",
+        "endLocation": "37.742039, -87.106896",
+        "outFile": "output/Kentucky_Owensboro_North.json"
     },
     {
-        "id": 45,
-        "name": "Arizona_Phoenix_Central",
-        "description": "Arizona_Phoenix_Central",
+        "id": 385,
+        "name": "Kentucky_Owensboro_Central",
+        "description": "Kentucky_Owensboro_Central",
         "type": "work",
-        "startLocation": "33.449211, -112.100095",
-        "endLocation": "33.433100, -112.095636",
-        "outFile": "output/Arizona_Phoenix_Central.json"
+        "startLocation": "37.742342, -87.116836",
+        "endLocation": "37.734734, -87.093585",
+        "outFile": "output/Kentucky_Owensboro_Central.json"
     },
     {
-        "id": 46,
-        "name": "Arizona_Tucson_West",
-        "description": "Arizona_Tucson_West",
+        "id": 386,
+        "name": "Kentucky_Covington_West",
+        "description": "Kentucky_Covington_West",
         "type": "work",
-        "startLocation": "32.221453, -110.943935",
-        "endLocation": "32.221473, -110.909589",
-        "outFile": "output/Arizona_Tucson_West.json"
+        "startLocation": "39.074921, -84.499719",
+        "endLocation": "39.060730, -84.501066",
+        "outFile": "output/Kentucky_Covington_West.json"
     },
     {
-        "id": 47,
-        "name": "Arizona_Tucson_East",
-        "description": "Arizona_Tucson_East",
+        "id": 387,
+        "name": "Kentucky_Covington_East",
+        "description": "Kentucky_Covington_East",
         "type": "work",
-        "startLocation": "32.227895, -110.943916",
-        "endLocation": "32.228876, -110.913219",
-        "outFile": "output/Arizona_Tucson_East.json"
+        "startLocation": "39.089604, -84.511700",
+        "endLocation": "39.077616, -84.517015",
+        "outFile": "output/Kentucky_Covington_East.json"
     },
     {
-        "id": 48,
-        "name": "Arizona_Tucson_South",
-        "description": "Arizona_Tucson_South",
+        "id": 388,
+        "name": "Kentucky_Covington_South",
+        "description": "Kentucky_Covington_South",
         "type": "work",
-        "startLocation": "32.212422, -110.935099",
-        "endLocation": "32.199590, -110.926656",
-        "outFile": "output/Arizona_Tucson_South.json"
+        "startLocation": "39.077074, -84.508473",
+        "endLocation": "39.069509, -84.505385",
+        "outFile": "output/Kentucky_Covington_South.json"
     },
     {
-        "id": 49,
-        "name": "Arizona_Tucson_North",
-        "description": "Arizona_Tucson_North",
+        "id": 389,
+        "name": "Kentucky_Covington_North",
+        "description": "Kentucky_Covington_North",
         "type": "work",
-        "startLocation": "32.199809, -110.905007",
-        "endLocation": "32.199698, -110.875089",
-        "outFile": "output/Arizona_Tucson_North.json"
+        "startLocation": "39.067810, -84.506824",
+        "endLocation": "39.063195, -84.520905",
+        "outFile": "output/Kentucky_Covington_North.json"
     },
     {
-        "id": 50,
-        "name": "Arizona_Tucson_Central",
-        "description": "Arizona_Tucson_Central",
+        "id": 390,
+        "name": "Kentucky_Covington_Central",
+        "description": "Kentucky_Covington_Central",
         "type": "work",
-        "startLocation": "32.192426, -110.965335",
-        "endLocation": "32.192456, -110.932828",
-        "outFile": "output/Arizona_Tucson_Central.json"
+        "startLocation": "39.079234, -84.514476",
+        "endLocation": "39.067344, -84.512049",
+        "outFile": "output/Kentucky_Covington_Central.json"
     },
     {
-        "id": 51,
-        "name": "Arizona_Mesa_West",
-        "description": "Arizona_Mesa_West",
+        "id": 391,
+        "name": "Louisiana_NewOrleans_West",
+        "description": "Louisiana_NewOrleans_West",
         "type": "work",
-        "startLocation": "33.411368, -111.848314",
-        "endLocation": "33.407788, -111.822955",
-        "outFile": "output/Arizona_Mesa_West.json"
+        "startLocation": "29.916659, -90.116222",
+        "endLocation": "29.918384, -90.086694",
+        "outFile": "output/Louisiana_NewOrleans_West.json"
     },
     {
-        "id": 52,
-        "name": "Arizona_Mesa_East",
-        "description": "Arizona_Mesa_East",
+        "id": 392,
+        "name": "Louisiana_NewOrleans_East",
+        "description": "Louisiana_NewOrleans_East",
         "type": "work",
-        "startLocation": "33.422173, -111.856440",
-        "endLocation": "33.422357, -111.822872",
-        "outFile": "output/Arizona_Mesa_East.json"
+        "startLocation": "29.946572, -90.104231",
+        "endLocation": "29.927562, -90.102191",
+        "outFile": "output/Louisiana_NewOrleans_East.json"
     },
     {
-        "id": 53,
-        "name": "Arizona_Mesa_South",
-        "description": "Arizona_Mesa_South",
+        "id": 393,
+        "name": "Louisiana_NewOrleans_South",
+        "description": "Louisiana_NewOrleans_South",
         "type": "work",
-        "startLocation": "33.393142, -111.848664",
-        "endLocation": "33.393367, -111.809819",
-        "outFile": "output/Arizona_Mesa_South.json"
+        "startLocation": "29.949340, -90.099952",
+        "endLocation": "29.929283, -90.091929",
+        "outFile": "output/Louisiana_NewOrleans_South.json"
     },
     {
-        "id": 54,
-        "name": "Arizona_Mesa_North",
-        "description": "Arizona_Mesa_North",
+        "id": 394,
+        "name": "Louisiana_NewOrleans_North",
+        "description": "Louisiana_NewOrleans_North",
         "type": "work",
-        "startLocation": "33.429431, -111.856289",
-        "endLocation": "33.435606, -111.822658",
-        "outFile": "output/Arizona_Mesa_North.json"
+        "startLocation": "29.935984, -90.093834",
+        "endLocation": "29.942918, -90.084074",
+        "outFile": "output/Louisiana_NewOrleans_North.json"
     },
     {
-        "id": 55,
-        "name": "Arizona_Mesa_Central",
-        "description": "Arizona_Mesa_Central",
+        "id": 395,
+        "name": "Louisiana_NewOrleans_Central",
+        "description": "Louisiana_NewOrleans_Central",
         "type": "work",
-        "startLocation": "33.422428, -111.814046",
-        "endLocation": "33.393364, -111.814178",
-        "outFile": "output/Arizona_Mesa_Central.json"
+        "startLocation": "29.950568, -90.095930",
+        "endLocation": "29.939760, -90.076773",
+        "outFile": "output/Louisiana_NewOrleans_Central.json"
     },
     {
-        "id": 56,
-        "name": "Arizona_Chandler_West",
-        "description": "Arizona_Chandler_West",
+        "id": 396,
+        "name": "Louisiana_BatonRouge_West",
+        "description": "Louisiana_BatonRouge_West",
         "type": "work",
-        "startLocation": "33.320389, -111.889602",
-        "endLocation": "33.320635, -111.859100",
-        "outFile": "output/Arizona_Chandler_West.json"
+        "startLocation": "30.482460, -91.153001",
+        "endLocation": "30.489293, -91.132850",
+        "outFile": "output/Louisiana_BatonRouge_West.json"
     },
     {
-        "id": 57,
-        "name": "Arizona_Chandler_East",
-        "description": "Arizona_Chandler_East",
+        "id": 397,
+        "name": "Louisiana_BatonRouge_East",
+        "description": "Louisiana_BatonRouge_East",
         "type": "work",
-        "startLocation": "33.298631, -111.891398",
-        "endLocation": "33.298779, -111.861092",
-        "outFile": "output/Arizona_Chandler_East.json"
+        "startLocation": "30.477143, -91.143917",
+        "endLocation": "30.480408, -91.121738",
+        "outFile": "output/Louisiana_BatonRouge_East.json"
     },
     {
-        "id": 58,
-        "name": "Arizona_Chandler_South",
-        "description": "Arizona_Chandler_South",
+        "id": 398,
+        "name": "Louisiana_BatonRouge_South",
+        "description": "Louisiana_BatonRouge_South",
         "type": "work",
-        "startLocation": "33.320724, -111.824110",
-        "endLocation": "33.291641, -111.824302",
-        "outFile": "output/Arizona_Chandler_South.json"
+        "startLocation": "30.466197, -91.136893",
+        "endLocation": "30.475177, -91.116140",
+        "outFile": "output/Louisiana_BatonRouge_South.json"
     },
     {
-        "id": 59,
-        "name": "Arizona_Chandler_North",
-        "description": "Arizona_Chandler_North",
+        "id": 399,
+        "name": "Louisiana_BatonRouge_North",
+        "description": "Louisiana_BatonRouge_North",
         "type": "work",
-        "startLocation": "33.335118, -111.859101",
-        "endLocation": "33.320645, -111.841601",
-        "outFile": "output/Arizona_Chandler_North.json"
+        "startLocation": "30.451828, -91.149709",
+        "endLocation": "30.452818, -91.127367",
+        "outFile": "output/Louisiana_BatonRouge_North.json"
     },
     {
-        "id": 60,
-        "name": "Arizona_Chandler_Central",
-        "description": "Arizona_Chandler_Central",
+        "id": 400,
+        "name": "Louisiana_BatonRouge_Central",
+        "description": "Louisiana_BatonRouge_Central",
         "type": "work",
-        "startLocation": "33.298630, -111.876182",
-        "endLocation": "33.298898, -111.842837",
-        "outFile": "output/Arizona_Chandler_Central.json"
+        "startLocation": "30.446922, -91.135891",
+        "endLocation": "30.445422, -91.111617",
+        "outFile": "output/Louisiana_BatonRouge_Central.json"
     },
     {
-        "id": 61,
-        "name": "Arizona_Glendale_West",
-        "description": "Arizona_Glendale_West",
+        "id": 401,
+        "name": "Louisiana_Shreveport_West",
+        "description": "Louisiana_Shreveport_West",
         "type": "work",
-        "startLocation": "34.148005, -118.264552",
-        "endLocation": "34.148065, -118.239514",
-        "outFile": "output/Arizona_Glendale_West.json"
+        "startLocation": "32.513037, -93.780232",
+        "endLocation": "32.514672, -93.753081",
+        "outFile": "output/Louisiana_Shreveport_West.json"
     },
     {
-        "id": 62,
-        "name": "Arizona_Glendale_East",
-        "description": "Arizona_Glendale_East",
+        "id": 402,
+        "name": "Louisiana_Shreveport_East",
+        "description": "Louisiana_Shreveport_East",
         "type": "work",
-        "startLocation": "34.146822, -118.264254",
-        "endLocation": "34.146171, -118.234990",
-        "outFile": "output/Arizona_Glendale_East.json"
+        "startLocation": "32.503525, -93.775537",
+        "endLocation": "32.509285, -93.752538",
+        "outFile": "output/Louisiana_Shreveport_East.json"
     },
     {
-        "id": 63,
-        "name": "Arizona_Glendale_South",
-        "description": "Arizona_Glendale_South",
+        "id": 403,
+        "name": "Louisiana_Shreveport_South",
+        "description": "Louisiana_Shreveport_South",
         "type": "work",
-        "startLocation": "34.153492, -118.229066",
-        "endLocation": "34.142660, -118.239596",
-        "outFile": "output/Arizona_Glendale_South.json"
+        "startLocation": "32.501544, -93.773875",
+        "endLocation": "32.502031, -93.755193",
+        "outFile": "output/Louisiana_Shreveport_South.json"
     },
     {
-        "id": 64,
-        "name": "Arizona_Glendale_North",
-        "description": "Arizona_Glendale_North",
+        "id": 404,
+        "name": "Louisiana_Shreveport_North",
+        "description": "Louisiana_Shreveport_North",
         "type": "work",
-        "startLocation": "34.133492, -118.262425",
-        "endLocation": "34.134907, -118.239614",
-        "outFile": "output/Arizona_Glendale_North.json"
+        "startLocation": "32.492760, -93.751111",
+        "endLocation": "32.492709, -93.726137",
+        "outFile": "output/Louisiana_Shreveport_North.json"
     },
     {
-        "id": 65,
-        "name": "Arizona_Glendale_Central",
-        "description": "Arizona_Glendale_Central",
+        "id": 405,
+        "name": "Louisiana_Shreveport_Central",
+        "description": "Louisiana_Shreveport_Central",
         "type": "work",
-        "startLocation": "34.151672, -118.255043",
-        "endLocation": "34.128725, -118.254910",
-        "outFile": "output/Arizona_Glendale_Central.json"
+        "startLocation": "32.478229, -93.750306",
+        "endLocation": "32.482876, -93.733864",
+        "outFile": "output/Louisiana_Shreveport_Central.json"
     },
     {
-        "id": 66,
-        "name": "Arkansas_LittleRock_West",
-        "description": "Arkansas_LittleRock_West",
+        "id": 406,
+        "name": "Louisiana_Lafayette_West",
+        "description": "Louisiana_Lafayette_West",
         "type": "work",
-        "startLocation": "34.740970, -92.329414",
-        "endLocation": "34.739580, -92.294150",
-        "outFile": "output/Arkansas_LittleRock_West.json"
+        "startLocation": "30.229755, -92.029600",
+        "endLocation": "30.230785, -92.009967",
+        "outFile": "output/Louisiana_Lafayette_West.json"
     },
     {
-        "id": 67,
-        "name": "Arkansas_LittleRock_East",
-        "description": "Arkansas_LittleRock_East",
+        "id": 407,
+        "name": "Louisiana_Lafayette_East",
+        "description": "Louisiana_Lafayette_East",
         "type": "work",
-        "startLocation": "34.737976, -92.305785",
-        "endLocation": "34.731784, -92.268685",
-        "outFile": "output/Arkansas_LittleRock_East.json"
+        "startLocation": "30.229401, -92.018840",
+        "endLocation": "30.215802, -92.008874",
+        "outFile": "output/Louisiana_Lafayette_East.json"
     },
     {
-        "id": 68,
-        "name": "Arkansas_LittleRock_South",
-        "description": "Arkansas_LittleRock_South",
+        "id": 408,
+        "name": "Louisiana_Lafayette_South",
+        "description": "Louisiana_Lafayette_South",
         "type": "work",
-        "startLocation": "34.739447, -92.258347",
-        "endLocation": "34.723053, -92.258922",
-        "outFile": "output/Arkansas_LittleRock_South.json"
+        "startLocation": "30.225715, -92.018347",
+        "endLocation": "30.214814, -92.009707",
+        "outFile": "output/Louisiana_Lafayette_South.json"
     },
     {
-        "id": 69,
-        "name": "Arkansas_LittleRock_North",
-        "description": "Arkansas_LittleRock_North",
+        "id": 409,
+        "name": "Louisiana_Lafayette_North",
+        "description": "Louisiana_Lafayette_North",
         "type": "work",
-        "startLocation": "34.758200, -92.303244",
-        "endLocation": "34.749826, -92.274920",
-        "outFile": "output/Arkansas_LittleRock_North.json"
+        "startLocation": "30.221859, -92.036334",
+        "endLocation": "30.224728, -92.022876",
+        "outFile": "output/Louisiana_Lafayette_North.json"
     },
     {
-        "id": 70,
-        "name": "Arkansas_LittleRock_Central",
-        "description": "Arkansas_LittleRock_Central",
+        "id": 410,
+        "name": "Louisiana_Lafayette_Central",
+        "description": "Louisiana_Lafayette_Central",
         "type": "work",
-        "startLocation": "34.742196, -92.271489",
-        "endLocation": "34.724253, -92.274008",
-        "outFile": "output/Arkansas_LittleRock_Central.json"
+        "startLocation": "30.244701, -92.032003",
+        "endLocation": "30.245091, -92.015545",
+        "outFile": "output/Louisiana_Lafayette_Central.json"
     },
     {
-        "id": 71,
-        "name": "Arkansas_FortSmith_West",
-        "description": "Arkansas_FortSmith_West",
+        "id": 411,
+        "name": "Louisiana_LakeCharles_West",
+        "description": "Louisiana_LakeCharles_West",
         "type": "work",
-        "startLocation": "35.374682, -94.385860",
-        "endLocation": "35.374081, -94.359191",
-        "outFile": "output/Arkansas_FortSmith_West.json"
+        "startLocation": "30.229511, -93.217052",
+        "endLocation": "30.227526, -93.184798",
+        "outFile": "output/Louisiana_LakeCharles_West.json"
     },
     {
-        "id": 72,
-        "name": "Arkansas_FortSmith_East",
-        "description": "Arkansas_FortSmith_East",
+        "id": 412,
+        "name": "Louisiana_LakeCharles_East",
+        "description": "Louisiana_LakeCharles_East",
         "type": "work",
-        "startLocation": "35.378758, -94.403424",
-        "endLocation": "35.378032, -94.372353",
-        "outFile": "output/Arkansas_FortSmith_East.json"
+        "startLocation": "30.226825, -93.218703",
+        "endLocation": "30.214224, -93.211216",
+        "outFile": "output/Louisiana_LakeCharles_East.json"
     },
     {
-        "id": 73,
-        "name": "Arkansas_FortSmith_South",
-        "description": "Arkansas_FortSmith_South",
+        "id": 413,
+        "name": "Louisiana_LakeCharles_South",
+        "description": "Louisiana_LakeCharles_South",
         "type": "work",
-        "startLocation": "35.375834, -94.403560",
-        "endLocation": "35.362878, -94.372830",
-        "outFile": "output/Arkansas_FortSmith_South.json"
+        "startLocation": "30.213210, -93.214007",
+        "endLocation": "30.213053, -93.193033",
+        "outFile": "output/Louisiana_LakeCharles_South.json"
     },
     {
-        "id": 74,
-        "name": "Arkansas_FortSmith_North",
-        "description": "Arkansas_FortSmith_North",
+        "id": 414,
+        "name": "Louisiana_LakeCharles_North",
+        "description": "Louisiana_LakeCharles_North",
         "type": "work",
-        "startLocation": "35.372121, -94.403687",
-        "endLocation": "35.356712, -94.395161",
-        "outFile": "output/Arkansas_FortSmith_North.json"
+        "startLocation": "30.203402, -93.214050",
+        "endLocation": "30.201257, -93.193531",
+        "outFile": "output/Louisiana_LakeCharles_North.json"
     },
     {
-        "id": 75,
-        "name": "Arkansas_FortSmith_Central",
-        "description": "Arkansas_FortSmith_Central",
+        "id": 415,
+        "name": "Louisiana_LakeCharles_Central",
+        "description": "Louisiana_LakeCharles_Central",
         "type": "work",
-        "startLocation": "35.393324, -94.402954",
-        "endLocation": "35.392722, -94.376358",
-        "outFile": "output/Arkansas_FortSmith_Central.json"
+        "startLocation": "30.217347, -93.219170",
+        "endLocation": "30.194341, -93.218613",
+        "outFile": "output/Louisiana_LakeCharles_Central.json"
     },
     {
-        "id": 76,
-        "name": "Arkansas_Fayetteville_West",
-        "description": "Arkansas_Fayetteville_West",
+        "id": 416,
+        "name": "Maine_Portland_West",
+        "description": "Maine_Portland_West",
         "type": "work",
-        "startLocation": "36.106422, -94.146169",
-        "endLocation": "36.105412, -94.120549",
-        "outFile": "output/Arkansas_Fayetteville_West.json"
+        "startLocation": "43.663245, -70.244203",
+        "endLocation": "43.669139, -70.255256",
+        "outFile": "output/Maine_Portland_West.json"
     },
     {
-        "id": 77,
-        "name": "Arkansas_Fayetteville_East",
-        "description": "Arkansas_Fayetteville_East",
+        "id": 417,
+        "name": "Maine_Portland_East",
+        "description": "Maine_Portland_East",
         "type": "work",
-        "startLocation": "36.095138, -94.152713",
-        "endLocation": "36.094560, -94.121403",
-        "outFile": "output/Arkansas_Fayetteville_East.json"
+        "startLocation": "43.664712, -70.253051",
+        "endLocation": "43.655651, -70.265404",
+        "outFile": "output/Maine_Portland_East.json"
     },
     {
-        "id": 78,
-        "name": "Arkansas_Fayetteville_South",
-        "description": "Arkansas_Fayetteville_South",
+        "id": 418,
+        "name": "Maine_Portland_South",
+        "description": "Maine_Portland_South",
         "type": "work",
-        "startLocation": "36.102635, -94.163565",
-        "endLocation": "36.077484, -94.166405",
-        "outFile": "output/Arkansas_Fayetteville_South.json"
+        "startLocation": "43.661348, -70.251445",
+        "endLocation": "43.655311, -70.261808",
+        "outFile": "output/Maine_Portland_South.json"
     },
     {
-        "id": 79,
-        "name": "Arkansas_Fayetteville_North",
-        "description": "Arkansas_Fayetteville_North",
+        "id": 419,
+        "name": "Maine_Portland_North",
+        "description": "Maine_Portland_North",
         "type": "work",
-        "startLocation": "36.056720, -94.180454",
-        "endLocation": "36.055364, -94.149263",
-        "outFile": "output/Arkansas_Fayetteville_North.json"
+        "startLocation": "43.672387, -70.312123",
+        "endLocation": "43.672639, -70.287414",
+        "outFile": "output/Maine_Portland_North.json"
     },
     {
-        "id": 80,
-        "name": "Arkansas_Fayetteville_Central",
-        "description": "Arkansas_Fayetteville_Central",
+        "id": 420,
+        "name": "Maine_Portland_Central",
+        "description": "Maine_Portland_Central",
         "type": "work",
-        "startLocation": "36.074123, -94.157590",
-        "endLocation": "36.057913, -94.164428",
-        "outFile": "output/Arkansas_Fayetteville_Central.json"
+        "startLocation": "43.667740, -70.296711",
+        "endLocation": "43.660265, -70.281110",
+        "outFile": "output/Maine_Portland_Central.json"
     },
     {
-        "id": 81,
-        "name": "Arkansas_Springdale_West",
-        "description": "Arkansas_Springdale_West",
+        "id": 421,
+        "name": "Maine_Lewiston_West",
+        "description": "Maine_Lewiston_West",
         "type": "work",
-        "startLocation": "36.197205, -94.174109",
-        "endLocation": "36.195746, -94.138674",
-        "outFile": "output/Arkansas_Springdale_West.json"
+        "startLocation": "44.112057, -70.205721",
+        "endLocation": "44.118831, -70.192443",
+        "outFile": "output/Maine_Lewiston_West.json"
     },
     {
-        "id": 82,
-        "name": "Arkansas_Springdale_East",
-        "description": "Arkansas_Springdale_East",
+        "id": 422,
+        "name": "Maine_Lewiston_East",
+        "description": "Maine_Lewiston_East",
         "type": "work",
-        "startLocation": "36.193203, -94.174225",
-        "endLocation": "36.188867, -94.147366",
-        "outFile": "output/Arkansas_Springdale_East.json"
+        "startLocation": "44.111092, -70.203626",
+        "endLocation": "44.108416, -70.187079",
+        "outFile": "output/Maine_Lewiston_East.json"
     },
     {
-        "id": 83,
-        "name": "Arkansas_Springdale_South",
-        "description": "Arkansas_Springdale_South",
+        "id": 423,
+        "name": "Maine_Lewiston_South",
+        "description": "Maine_Lewiston_South",
         "type": "work",
-        "startLocation": "36.185019, -94.138485",
-        "endLocation": "36.184184, -94.098285",
-        "outFile": "output/Arkansas_Springdale_South.json"
+        "startLocation": "44.100548, -70.203999",
+        "endLocation": "44.103357, -70.182588",
+        "outFile": "output/Maine_Lewiston_South.json"
     },
     {
-        "id": 84,
-        "name": "Arkansas_Springdale_North",
-        "description": "Arkansas_Springdale_North",
+        "id": 424,
+        "name": "Maine_Lewiston_North",
+        "description": "Maine_Lewiston_North",
         "type": "work",
-        "startLocation": "36.174941, -94.161306",
-        "endLocation": "36.178042, -94.131441",
-        "outFile": "output/Arkansas_Springdale_North.json"
+        "startLocation": "44.098039, -70.201664",
+        "endLocation": "44.088579, -70.187489",
+        "outFile": "output/Maine_Lewiston_North.json"
     },
     {
-        "id": 85,
-        "name": "Arkansas_Springdale_Central",
-        "description": "Arkansas_Springdale_Central",
+        "id": 425,
+        "name": "Maine_Lewiston_Central",
+        "description": "Maine_Lewiston_Central",
         "type": "work",
-        "startLocation": "36.202854, -94.116878",
-        "endLocation": "36.190607, -94.102757",
-        "outFile": "output/Arkansas_Springdale_Central.json"
+        "startLocation": "44.087748, -70.210289",
+        "endLocation": "44.076737, -70.189854",
+        "outFile": "output/Maine_Lewiston_Central.json"
     },
     {
-        "id": 86,
-        "name": "Arkansas_Jonesboro_West",
-        "description": "Arkansas_Jonesboro_West",
+        "id": 426,
+        "name": "Maine_Bangor_West",
+        "description": "Maine_Bangor_West",
         "type": "work",
-        "startLocation": "35.847149, -90.721496",
-        "endLocation": "35.845520, -90.681687",
-        "outFile": "output/Arkansas_Jonesboro_West.json"
+        "startLocation": "44.817455, -68.811089",
+        "endLocation": "44.809383, -68.794473",
+        "outFile": "output/Maine_Bangor_West.json"
     },
     {
-        "id": 87,
-        "name": "Arkansas_Jonesboro_East",
-        "description": "Arkansas_Jonesboro_East",
+        "id": 427,
+        "name": "Maine_Bangor_East",
+        "description": "Maine_Bangor_East",
         "type": "work",
-        "startLocation": "35.835757, -90.705045",
-        "endLocation": "35.834454, -90.677513",
-        "outFile": "output/Arkansas_Jonesboro_East.json"
+        "startLocation": "44.807468, -68.790472",
+        "endLocation": "44.798098, -68.775890",
+        "outFile": "output/Maine_Bangor_East.json"
     },
     {
-        "id": 88,
-        "name": "Arkansas_Jonesboro_South",
-        "description": "Arkansas_Jonesboro_South",
+        "id": 428,
+        "name": "Maine_Bangor_South",
+        "description": "Maine_Bangor_South",
         "type": "work",
-        "startLocation": "35.821404, -90.705687",
-        "endLocation": "35.821171, -90.669176",
-        "outFile": "output/Arkansas_Jonesboro_South.json"
+        "startLocation": "44.818242, -68.774419",
+        "endLocation": "44.806045, -68.767377",
+        "outFile": "output/Maine_Bangor_South.json"
     },
     {
-        "id": 89,
-        "name": "Arkansas_Jonesboro_North",
-        "description": "Arkansas_Jonesboro_North",
+        "id": 429,
+        "name": "Maine_Bangor_North",
+        "description": "Maine_Bangor_North",
         "type": "work",
-        "startLocation": "35.804755, -90.698639",
-        "endLocation": "35.804686, -90.669369",
-        "outFile": "output/Arkansas_Jonesboro_North.json"
+        "startLocation": "44.813102, -68.768163",
+        "endLocation": "44.831015, -68.752908",
+        "outFile": "output/Maine_Bangor_North.json"
     },
     {
-        "id": 90,
-        "name": "Arkansas_Jonesboro_Central",
-        "description": "Arkansas_Jonesboro_Central",
+        "id": 430,
+        "name": "Maine_Bangor_Central",
+        "description": "Maine_Bangor_Central",
         "type": "work",
-        "startLocation": "35.854574, -90.703468",
-        "endLocation": "35.828524, -90.705238",
-        "outFile": "output/Arkansas_Jonesboro_Central.json"
+        "startLocation": "44.812154, -68.766720",
+        "endLocation": "44.818572, -68.749336",
+        "outFile": "output/Maine_Bangor_Central.json"
     },
     {
-        "id": 91,
-        "name": "Colorado_Denver_West",
-        "description": "Colorado_Denver_West",
+        "id": 431,
+        "name": "Maine_SouthPortland_West",
+        "description": "Maine_SouthPortland_West",
         "type": "work",
-        "startLocation": "39.750753, -104.978114",
-        "endLocation": "39.751047, -104.932857",
-        "outFile": "output/Colorado_Denver_West.json"
+        "startLocation": "43.637216, -70.335490",
+        "endLocation": "43.633994, -70.315175",
+        "outFile": "output/Maine_SouthPortland_West.json"
     },
     {
-        "id": 92,
-        "name": "Colorado_Denver_East",
-        "description": "Colorado_Denver_East",
+        "id": 432,
+        "name": "Maine_SouthPortland_East",
+        "description": "Maine_SouthPortland_East",
         "type": "work",
-        "startLocation": "39.729349, -105.021682",
-        "endLocation": "39.736868, -105.002825",
-        "outFile": "output/Colorado_Denver_East.json"
+        "startLocation": "43.630358, -70.311369",
+        "endLocation": "43.629887, -70.293328",
+        "outFile": "output/Maine_SouthPortland_East.json"
     },
     {
-        "id": 93,
-        "name": "Colorado_Denver_South",
-        "description": "Colorado_Denver_South",
+        "id": 433,
+        "name": "Maine_SouthPortland_South",
+        "description": "Maine_SouthPortland_South",
         "type": "work",
-        "startLocation": "39.736900, -104.998719",
-        "endLocation": "39.714818, -104.998578",
-        "outFile": "output/Colorado_Denver_South.json"
+        "startLocation": "43.630112, -70.288906",
+        "endLocation": "43.630768, -70.268890",
+        "outFile": "output/Maine_SouthPortland_South.json"
     },
     {
-        "id": 94,
-        "name": "Colorado_Denver_North",
-        "description": "Colorado_Denver_North",
+        "id": 434,
+        "name": "Maine_SouthPortland_North",
+        "description": "Maine_SouthPortland_North",
         "type": "work",
-        "startLocation": "39.725675, -104.990396",
-        "endLocation": "39.729058, -104.959013",
-        "outFile": "output/Colorado_Denver_North.json"
+        "startLocation": "43.637839, -70.256661",
+        "endLocation": "43.621467, -70.254189",
+        "outFile": "output/Maine_SouthPortland_North.json"
     },
     {
-        "id": 95,
-        "name": "Colorado_Denver_Central",
-        "description": "Colorado_Denver_Central",
+        "id": 435,
+        "name": "Maine_SouthPortland_Central",
+        "description": "Maine_SouthPortland_Central",
         "type": "work",
-        "startLocation": "39.738337, -104.949457",
-        "endLocation": "39.736885, -104.912933",
-        "outFile": "output/Colorado_Denver_Central.json"
+        "startLocation": "43.624192, -70.305338",
+        "endLocation": "43.622962, -70.293104",
+        "outFile": "output/Maine_SouthPortland_Central.json"
     },
     {
-        "id": 96,
-        "name": "Colorado_ColoradoSprings_West",
-        "description": "Colorado_ColoradoSprings_West",
+        "id": 436,
+        "name": "Maine_Auburn_West",
+        "description": "Maine_Auburn_West",
         "type": "work",
-        "startLocation": "38.850512, -104.817189",
-        "endLocation": "38.854200, -104.781542",
-        "outFile": "output/Colorado_ColoradoSprings_West.json"
+        "startLocation": "44.121748, -70.254169",
+        "endLocation": "44.126668, -70.229502",
+        "outFile": "output/Maine_Auburn_West.json"
     },
     {
-        "id": 97,
-        "name": "Colorado_ColoradoSprings_East",
-        "description": "Colorado_ColoradoSprings_East",
+        "id": 437,
+        "name": "Maine_Auburn_East",
+        "description": "Maine_Auburn_East",
         "type": "work",
-        "startLocation": "38.854328, -104.775681",
-        "endLocation": "38.832706, -104.775886",
-        "outFile": "output/Colorado_ColoradoSprings_East.json"
+        "startLocation": "44.136926, -70.225710",
+        "endLocation": "44.115841, -70.224555",
+        "outFile": "output/Maine_Auburn_East.json"
     },
     {
-        "id": 98,
-        "name": "Colorado_ColoradoSprings_South",
-        "description": "Colorado_ColoradoSprings_South",
+        "id": 438,
+        "name": "Maine_Auburn_South",
+        "description": "Maine_Auburn_South",
         "type": "work",
-        "startLocation": "38.822521, -104.804328",
-        "endLocation": "38.825403, -104.775319",
-        "outFile": "output/Colorado_ColoradoSprings_South.json"
+        "startLocation": "44.119489, -70.270402",
+        "endLocation": "44.100812, -70.267716",
+        "outFile": "output/Maine_Auburn_South.json"
     },
     {
-        "id": 99,
-        "name": "Colorado_ColoradoSprings_North",
-        "description": "Colorado_ColoradoSprings_North",
+        "id": 439,
+        "name": "Maine_Auburn_North",
+        "description": "Maine_Auburn_North",
         "type": "work",
-        "startLocation": "38.827054, -104.829269",
-        "endLocation": "38.821090, -104.804432",
-        "outFile": "output/Colorado_ColoradoSprings_North.json"
+        "startLocation": "44.086294, -70.251270",
+        "endLocation": "44.098077, -70.232263",
+        "outFile": "output/Maine_Auburn_North.json"
     },
     {
-        "id": 100,
-        "name": "Colorado_ColoradoSprings_Central",
-        "description": "Colorado_ColoradoSprings_Central",
+        "id": 440,
+        "name": "Maine_Auburn_Central",
+        "description": "Maine_Auburn_Central",
         "type": "work",
-        "startLocation": "38.832598, -104.827954",
-        "endLocation": "38.818445, -104.824359",
-        "outFile": "output/Colorado_ColoradoSprings_Central.json"
+        "startLocation": "44.081217, -70.266718",
+        "endLocation": "44.083467, -70.247838",
+        "outFile": "output/Maine_Auburn_Central.json"
     },
     {
-        "id": 101,
-        "name": "Colorado_Aurora_West",
-        "description": "Colorado_Aurora_West",
+        "id": 441,
+        "name": "Maryland_Baltimore_West",
+        "description": "Maryland_Baltimore_West",
         "type": "work",
-        "startLocation": "39.711161, -104.847236",
-        "endLocation": "39.709492, -104.815061",
-        "outFile": "output/Colorado_Aurora_West.json"
+        "startLocation": "39.297923, -76.606404",
+        "endLocation": "39.299274, -76.572720",
+        "outFile": "output/Maryland_Baltimore_West.json"
     },
     {
-        "id": 102,
-        "name": "Colorado_Aurora_East",
-        "description": "Colorado_Aurora_East",
+        "id": 442,
+        "name": "Maryland_Baltimore_East",
+        "description": "Maryland_Baltimore_East",
         "type": "work",
-        "startLocation": "39.696656, -104.847190",
-        "endLocation": "39.696571, -104.809890",
-        "outFile": "output/Colorado_Aurora_East.json"
+        "startLocation": "39.290408, -76.615196",
+        "endLocation": "39.290883, -76.638270",
+        "outFile": "output/Maryland_Baltimore_East.json"
     },
     {
-        "id": 103,
-        "name": "Colorado_Aurora_South",
-        "description": "Colorado_Aurora_South",
+        "id": 443,
+        "name": "Maryland_Baltimore_South",
+        "description": "Maryland_Baltimore_South",
         "type": "work",
-        "startLocation": "39.681972, -104.847251",
-        "endLocation": "39.674862, -104.824018",
-        "outFile": "output/Colorado_Aurora_South.json"
+        "startLocation": "39.298408, -76.659665",
+        "endLocation": "39.299135, -76.638698",
+        "outFile": "output/Maryland_Baltimore_South.json"
     },
     {
-        "id": 104,
-        "name": "Colorado_Aurora_North",
-        "description": "Colorado_Aurora_North",
+        "id": 444,
+        "name": "Maryland_Baltimore_North",
+        "description": "Maryland_Baltimore_North",
         "type": "work",
-        "startLocation": "39.668225, -104.814730",
-        "endLocation": "39.667501, -104.785173",
-        "outFile": "output/Colorado_Aurora_North.json"
+        "startLocation": "39.308689, -76.642588",
+        "endLocation": "39.295684, -76.632626",
+        "outFile": "output/Maryland_Baltimore_North.json"
     },
     {
-        "id": 105,
-        "name": "Colorado_Aurora_Central",
-        "description": "Colorado_Aurora_Central",
+        "id": 445,
+        "name": "Maryland_Baltimore_Central",
+        "description": "Maryland_Baltimore_Central",
         "type": "work",
-        "startLocation": "39.732853, -104.865631",
-        "endLocation": "39.726405, -104.831237",
-        "outFile": "output/Colorado_Aurora_Central.json"
+        "startLocation": "39.294509, -76.662995",
+        "endLocation": "39.295496, -76.638556",
+        "outFile": "output/Maryland_Baltimore_Central.json"
     },
     {
-        "id": 106,
-        "name": "Colorado_FortCollins_West",
-        "description": "Colorado_FortCollins_West",
+        "id": 446,
+        "name": "Maryland_Columbia_West",
+        "description": "Maryland_Columbia_West",
         "type": "work",
-        "startLocation": "40.581964, -105.114930",
-        "endLocation": "40.581559, -105.075476",
-        "outFile": "output/Colorado_FortCollins_West.json"
+        "startLocation": "39.204348, -76.887544",
+        "endLocation": "39.189685, -76.879738",
+        "outFile": "output/Maryland_Columbia_West.json"
     },
     {
-        "id": 107,
-        "name": "Colorado_FortCollins_East",
-        "description": "Colorado_FortCollins_East",
+        "id": 447,
+        "name": "Maryland_Columbia_East",
+        "description": "Maryland_Columbia_East",
         "type": "work",
-        "startLocation": "40.574610, -105.115095",
-        "endLocation": "40.578205, -105.087919",
-        "outFile": "output/Colorado_FortCollins_East.json"
+        "startLocation": "39.210968, -76.823907",
+        "endLocation": "39.188979, -76.821857",
+        "outFile": "output/Maryland_Columbia_East.json"
     },
     {
-        "id": 108,
-        "name": "Colorado_FortCollins_South",
-        "description": "Colorado_FortCollins_South",
+        "id": 448,
+        "name": "Maryland_Columbia_South",
+        "description": "Maryland_Columbia_South",
         "type": "work",
-        "startLocation": "40.567500, -105.115185",
-        "endLocation": "40.567199, -105.075276",
-        "outFile": "output/Colorado_FortCollins_South.json"
+        "startLocation": "39.206951, -76.806173",
+        "endLocation": "39.193826, -76.795993",
+        "outFile": "output/Maryland_Columbia_South.json"
     },
     {
-        "id": 109,
-        "name": "Colorado_FortCollins_North",
-        "description": "Colorado_FortCollins_North",
+        "id": 449,
+        "name": "Maryland_Columbia_North",
+        "description": "Maryland_Columbia_North",
         "type": "work",
-        "startLocation": "40.587082, -105.087888",
-        "endLocation": "40.581443, -105.066599",
-        "outFile": "output/Colorado_FortCollins_North.json"
+        "startLocation": "39.205769, -76.833166",
+        "endLocation": "39.184521, -76.826883",
+        "outFile": "output/Maryland_Columbia_North.json"
     },
     {
-        "id": 110,
-        "name": "Colorado_FortCollins_Central",
-        "description": "Colorado_FortCollins_Central",
+        "id": 450,
+        "name": "Maryland_Columbia_Central",
+        "description": "Maryland_Columbia_Central",
         "type": "work",
-        "startLocation": "40.563415, -105.067391",
-        "endLocation": "40.546078, -105.065934",
-        "outFile": "output/Colorado_FortCollins_Central.json"
+        "startLocation": "39.195931, -76.883459",
+        "endLocation": "39.187569, -76.863123",
+        "outFile": "output/Maryland_Columbia_Central.json"
     },
     {
-        "id": 111,
-        "name": "Colorado_Lakewood_West",
-        "description": "Colorado_Lakewood_West",
+        "id": 451,
+        "name": "Maryland_Germantown_West",
+        "description": "Maryland_Germantown_West",
         "type": "work",
-        "startLocation": "39.732961, -105.090820",
-        "endLocation": "39.734905, -105.062611",
-        "outFile": "output/Colorado_Lakewood_West.json"
+        "startLocation": "39.195366, -77.267670",
+        "endLocation": "39.178584, -77.280950",
+        "outFile": "output/Maryland_Germantown_West.json"
     },
     {
-        "id": 112,
-        "name": "Colorado_Lakewood_East",
-        "description": "Colorado_Lakewood_East",
+        "id": 452,
+        "name": "Maryland_Germantown_East",
+        "description": "Maryland_Germantown_East",
         "type": "work",
-        "startLocation": "39.718405, -105.100116",
-        "endLocation": "39.718522, -105.056801",
-        "outFile": "output/Colorado_Lakewood_East.json"
+        "startLocation": "39.177073, -77.264134",
+        "endLocation": "39.178360, -77.241976",
+        "outFile": "output/Maryland_Germantown_East.json"
     },
     {
-        "id": 113,
-        "name": "Colorado_Lakewood_South",
-        "description": "Colorado_Lakewood_South",
+        "id": 453,
+        "name": "Maryland_Germantown_South",
+        "description": "Maryland_Germantown_South",
         "type": "work",
-        "startLocation": "39.710984, -105.100295",
-        "endLocation": "39.711160, -105.058078",
-        "outFile": "output/Colorado_Lakewood_South.json"
+        "startLocation": "39.182164, -77.260164",
+        "endLocation": "39.171460, -77.277348",
+        "outFile": "output/Maryland_Germantown_South.json"
     },
     {
-        "id": 114,
-        "name": "Colorado_Lakewood_North",
-        "description": "Colorado_Lakewood_North",
+        "id": 454,
+        "name": "Maryland_Germantown_North",
+        "description": "Maryland_Germantown_North",
         "type": "work",
-        "startLocation": "39.696531, -105.100360",
-        "endLocation": "39.696740, -105.065745",
-        "outFile": "output/Colorado_Lakewood_North.json"
+        "startLocation": "39.171086, -77.262762",
+        "endLocation": "39.156602, -77.266620",
+        "outFile": "output/Maryland_Germantown_North.json"
     },
     {
-        "id": 115,
-        "name": "Colorado_Lakewood_Central",
-        "description": "Colorado_Lakewood_Central",
+        "id": 455,
+        "name": "Maryland_Germantown_Central",
+        "description": "Maryland_Germantown_Central",
         "type": "work",
-        "startLocation": "39.700444, -105.048045",
-        "endLocation": "39.704019, -105.025710",
-        "outFile": "output/Colorado_Lakewood_Central.json"
+        "startLocation": "39.193534, -77.233057",
+        "endLocation": "39.181571, -77.231756",
+        "outFile": "output/Maryland_Germantown_Central.json"
     },
     {
-        "id": 116,
-        "name": "Connecticut_Bridgeport_West",
-        "description": "Connecticut_Bridgeport_West",
+        "id": 456,
+        "name": "Maryland_SilverSpring_West",
+        "description": "Maryland_SilverSpring_West",
         "type": "work",
-        "startLocation": "41.216114, -73.213271",
-        "endLocation": "41.194919, -73.199133",
-        "outFile": "output/Connecticut_Bridgeport_West.json"
+        "startLocation": "39.008815, -77.039644",
+        "endLocation": "39.003269, -77.027065",
+        "outFile": "output/Maryland_SilverSpring_West.json"
     },
     {
-        "id": 117,
-        "name": "Connecticut_Bridgeport_East",
-        "description": "Connecticut_Bridgeport_East",
+        "id": 457,
+        "name": "Maryland_SilverSpring_East",
+        "description": "Maryland_SilverSpring_East",
         "type": "work",
-        "startLocation": "41.205868, -73.222209",
-        "endLocation": "41.190462, -73.202995",
-        "outFile": "output/Connecticut_Bridgeport_East.json"
+        "startLocation": "39.008650, -77.018042",
+        "endLocation": "39.007587, -77.000377",
+        "outFile": "output/Maryland_SilverSpring_East.json"
     },
     {
-        "id": 118,
-        "name": "Connecticut_Bridgeport_South",
-        "description": "Connecticut_Bridgeport_South",
+        "id": 458,
+        "name": "Maryland_SilverSpring_South",
+        "description": "Maryland_SilverSpring_South",
         "type": "work",
-        "startLocation": "41.218463, -73.202592",
-        "endLocation": "41.213291, -73.188192",
-        "outFile": "output/Connecticut_Bridgeport_South.json"
+        "startLocation": "38.995466, -77.024477",
+        "endLocation": "39.001648, -77.007887",
+        "outFile": "output/Maryland_SilverSpring_South.json"
     },
     {
-        "id": 119,
-        "name": "Connecticut_Bridgeport_North",
-        "description": "Connecticut_Bridgeport_North",
+        "id": 459,
+        "name": "Maryland_SilverSpring_North",
+        "description": "Maryland_SilverSpring_North",
         "type": "work",
-        "startLocation": "41.210170, -73.179017",
-        "endLocation": "41.187197, -73.180830",
-        "outFile": "output/Connecticut_Bridgeport_North.json"
+        "startLocation": "39.006317, -77.048957",
+        "endLocation": "39.008757, -77.041609",
+        "outFile": "output/Maryland_SilverSpring_North.json"
     },
     {
-        "id": 120,
-        "name": "Connecticut_Bridgeport_Central",
-        "description": "Connecticut_Bridgeport_Central",
+        "id": 460,
+        "name": "Maryland_SilverSpring_Central",
+        "description": "Maryland_SilverSpring_Central",
         "type": "work",
-        "startLocation": "41.190555, -73.213029",
-        "endLocation": "41.172563, -73.196771",
-        "outFile": "output/Connecticut_Bridgeport_Central.json"
+        "startLocation": "39.011420, -77.058845",
+        "endLocation": "39.009009, -77.043327",
+        "outFile": "output/Maryland_SilverSpring_Central.json"
     },
     {
-        "id": 121,
-        "name": "Connecticut_NewHaven_West",
-        "description": "Connecticut_NewHaven_West",
+        "id": 461,
+        "name": "Maryland_Waldorf_West",
+        "description": "Maryland_Waldorf_West",
         "type": "work",
-        "startLocation": "41.332753, -72.939149",
-        "endLocation": "41.329403, -72.914174",
-        "outFile": "output/Connecticut_NewHaven_West.json"
+        "startLocation": "38.649636, -76.963042",
+        "endLocation": "38.649350, -76.936400",
+        "outFile": "output/Maryland_Waldorf_West.json"
     },
     {
-        "id": 122,
-        "name": "Connecticut_NewHaven_East",
-        "description": "Connecticut_NewHaven_East",
+        "id": 462,
+        "name": "Maryland_Waldorf_East",
+        "description": "Maryland_Waldorf_East",
         "type": "work",
-        "startLocation": "41.321580, -72.938999",
-        "endLocation": "41.315756, -72.909635",
-        "outFile": "output/Connecticut_NewHaven_East.json"
+        "startLocation": "38.641996, -76.934183",
+        "endLocation": "38.628750, -76.927027",
+        "outFile": "output/Maryland_Waldorf_East.json"
     },
     {
-        "id": 123,
-        "name": "Connecticut_NewHaven_South",
-        "description": "Connecticut_NewHaven_South",
+        "id": 463,
+        "name": "Maryland_Waldorf_South",
+        "description": "Maryland_Waldorf_South",
         "type": "work",
-        "startLocation": "41.328974, -72.942389",
-        "endLocation": "41.313239, -72.932579",
-        "outFile": "output/Connecticut_NewHaven_South.json"
+        "startLocation": "38.611985, -76.921197",
+        "endLocation": "38.624613, -76.908400",
+        "outFile": "output/Maryland_Waldorf_South.json"
     },
     {
-        "id": 124,
-        "name": "Connecticut_NewHaven_North",
-        "description": "Connecticut_NewHaven_North",
+        "id": 464,
+        "name": "Maryland_Waldorf_North",
+        "description": "Maryland_Waldorf_North",
         "type": "work",
-        "startLocation": "41.323866, -72.916890",
-        "endLocation": "41.312174, -72.919219",
-        "outFile": "output/Connecticut_NewHaven_North.json"
+        "startLocation": "38.633462, -76.892085",
+        "endLocation": "38.624081, -76.886736",
+        "outFile": "output/Maryland_Waldorf_North.json"
     },
     {
-        "id": 125,
-        "name": "Connecticut_NewHaven_Central",
-        "description": "Connecticut_NewHaven_Central",
+        "id": 465,
+        "name": "Maryland_Waldorf_Central",
+        "description": "Maryland_Waldorf_Central",
         "type": "work",
-        "startLocation": "41.313347, -72.909297",
-        "endLocation": "41.304376, -72.894457",
-        "outFile": "output/Connecticut_NewHaven_Central.json"
+        "startLocation": "38.636663, -76.896210",
+        "endLocation": "38.647453, -76.885217",
+        "outFile": "output/Maryland_Waldorf_Central.json"
     },
     {
-        "id": 126,
-        "name": "Connecticut_Stamford_West",
-        "description": "Connecticut_Stamford_West",
+        "id": 466,
+        "name": "Massachusetts_Boston_West",
+        "description": "Massachusetts_Boston_West",
         "type": "work",
-        "startLocation": "41.088758, -73.578765",
-        "endLocation": "41.065067, -73.567014",
-        "outFile": "output/Connecticut_Stamford_West.json"
+        "startLocation": "42.351888, -71.075808",
+        "endLocation": "42.336488, -71.087655",
+        "outFile": "output/Massachusetts_Boston_West.json"
     },
     {
-        "id": 127,
-        "name": "Connecticut_Stamford_East",
-        "description": "Connecticut_Stamford_East",
+        "id": 467,
+        "name": "Massachusetts_Boston_East",
+        "description": "Massachusetts_Boston_East",
         "type": "work",
-        "startLocation": "41.086303, -73.560325",
-        "endLocation": "41.058793, -73.559904",
-        "outFile": "output/Connecticut_Stamford_East.json"
+        "startLocation": "42.351938, -71.070688",
+        "endLocation": "42.340928, -71.077281",
+        "outFile": "output/Massachusetts_Boston_East.json"
     },
     {
-        "id": 128,
-        "name": "Connecticut_Stamford_South",
-        "description": "Connecticut_Stamford_South",
+        "id": 468,
+        "name": "Massachusetts_Boston_South",
+        "description": "Massachusetts_Boston_South",
         "type": "work",
-        "startLocation": "41.066330, -73.547991",
-        "endLocation": "41.048360, -73.544608",
-        "outFile": "output/Connecticut_Stamford_South.json"
+        "startLocation": "42.344509, -71.063998",
+        "endLocation": "42.336991, -71.076345",
+        "outFile": "output/Massachusetts_Boston_South.json"
     },
     {
-        "id": 129,
-        "name": "Connecticut_Stamford_North",
-        "description": "Connecticut_Stamford_North",
+        "id": 469,
+        "name": "Massachusetts_Boston_North",
+        "description": "Massachusetts_Boston_North",
         "type": "work",
-        "startLocation": "41.079465, -73.540478",
-        "endLocation": "41.057941, -73.534088",
-        "outFile": "output/Connecticut_Stamford_North.json"
+        "startLocation": "42.345461, -71.063663",
+        "endLocation": "42.333268, -71.077588",
+        "outFile": "output/Massachusetts_Boston_North.json"
     },
     {
-        "id": 130,
-        "name": "Connecticut_Stamford_Central",
-        "description": "Connecticut_Stamford_Central",
+        "id": 470,
+        "name": "Massachusetts_Boston_Central",
+        "description": "Massachusetts_Boston_Central",
         "type": "work",
-        "startLocation": "41.071364, -73.520677",
-        "endLocation": "41.054034, -73.535966",
-        "outFile": "output/Connecticut_Stamford_Central.json"
+        "startLocation": "42.342632, -71.063825",
+        "endLocation": "42.331705, -71.076261",
+        "outFile": "output/Massachusetts_Boston_Central.json"
     },
     {
-        "id": 131,
-        "name": "Connecticut_Hartford_West",
-        "description": "Connecticut_Hartford_West",
+        "id": 471,
+        "name": "Massachusetts_Worcester_West",
+        "description": "Massachusetts_Worcester_West",
         "type": "work",
-        "startLocation": "41.799275, -72.695422",
-        "endLocation": "41.782991, -72.683832",
-        "outFile": "output/Connecticut_Hartford_West.json"
+        "startLocation": "42.278129, -71.843685",
+        "endLocation": "42.270385, -71.816475",
+        "outFile": "output/Massachusetts_Worcester_West.json"
     },
     {
-        "id": 132,
-        "name": "Connecticut_Hartford_East",
-        "description": "Connecticut_Hartford_East",
+        "id": 472,
+        "name": "Massachusetts_Worcester_East",
+        "description": "Massachusetts_Worcester_East",
         "type": "work",
-        "startLocation": "41.799987, -72.706492",
-        "endLocation": "41.787350, -72.698436",
-        "outFile": "output/Connecticut_Hartford_East.json"
+        "startLocation": "42.264243, -71.833869",
+        "endLocation": "42.259703, -71.804999",
+        "outFile": "output/Massachusetts_Worcester_East.json"
     },
     {
-        "id": 133,
-        "name": "Connecticut_Hartford_South",
-        "description": "Connecticut_Hartford_South",
+        "id": 473,
+        "name": "Massachusetts_Worcester_South",
+        "description": "Massachusetts_Worcester_South",
         "type": "work",
-        "startLocation": "41.784007, -72.703046",
-        "endLocation": "41.772004, -72.679834",
-        "outFile": "output/Connecticut_Hartford_South.json"
+        "startLocation": "42.263335, -71.836756",
+        "endLocation": "42.254628, -71.814382",
+        "outFile": "output/Massachusetts_Worcester_South.json"
     },
     {
-        "id": 134,
-        "name": "Connecticut_Hartford_North",
-        "description": "Connecticut_Hartford_North",
+        "id": 474,
+        "name": "Massachusetts_Worcester_North",
+        "description": "Massachusetts_Worcester_North",
         "type": "work",
-        "startLocation": "41.757557, -72.704679",
-        "endLocation": "41.757151, -72.675712",
-        "outFile": "output/Connecticut_Hartford_North.json"
+        "startLocation": "42.260424, -71.792296",
+        "endLocation": "42.267467, -71.771578",
+        "outFile": "output/Massachusetts_Worcester_North.json"
     },
     {
-        "id": 135,
-        "name": "Connecticut_Hartford_Central",
-        "description": "Connecticut_Hartford_Central",
+        "id": 475,
+        "name": "Massachusetts_Worcester_Central",
+        "description": "Massachusetts_Worcester_Central",
         "type": "work",
-        "startLocation": "41.758770, -72.669502",
-        "endLocation": "41.743050, -72.682722",
-        "outFile": "output/Connecticut_Hartford_Central.json"
+        "startLocation": "42.256811, -71.790452",
+        "endLocation": "42.257478, -71.768980",
+        "outFile": "output/Massachusetts_Worcester_Central.json"
     },
     {
-        "id": 136,
-        "name": "Connecticut_Waterbury_West",
-        "description": "Connecticut_Waterbury_West",
+        "id": 476,
+        "name": "Massachusetts_Lowell_West",
+        "description": "Massachusetts_Lowell_West",
         "type": "work",
-        "startLocation": "41.572921, -73.081707",
-        "endLocation": "41.560814, -73.062001",
-        "outFile": "output/Connecticut_Waterbury_West.json"
+        "startLocation": "42.113516, -72.597157",
+        "endLocation": "42.128292, -72.580556",
+        "outFile": "output/Massachusetts_Lowell_West.json"
     },
     {
-        "id": 137,
-        "name": "Connecticut_Waterbury_East",
-        "description": "Connecticut_Waterbury_East",
+        "id": 477,
+        "name": "Massachusetts_Lowell_East",
+        "description": "Massachusetts_Lowell_East",
         "type": "work",
-        "startLocation": "41.574559, -73.067564",
-        "endLocation": "41.559782, -73.057460",
-        "outFile": "output/Connecticut_Waterbury_East.json"
+        "startLocation": "42.091513, -72.579557",
+        "endLocation": "42.085445, -72.553954",
+        "outFile": "output/Massachusetts_Lowell_East.json"
     },
     {
-        "id": 138,
-        "name": "Connecticut_Waterbury_South",
-        "description": "Connecticut_Waterbury_South",
+        "id": 478,
+        "name": "Massachusetts_Lowell_South",
+        "description": "Massachusetts_Lowell_South",
         "type": "work",
-        "startLocation": "41.586996, -73.049971",
-        "endLocation": "41.557920, -73.052112",
-        "outFile": "output/Connecticut_Waterbury_South.json"
+        "startLocation": "42.087865, -72.549636",
+        "endLocation": "42.081205, -72.529454",
+        "outFile": "output/Massachusetts_Lowell_South.json"
     },
     {
-        "id": 139,
-        "name": "Connecticut_Waterbury_North",
-        "description": "Connecticut_Waterbury_North",
+        "id": 479,
+        "name": "Massachusetts_Lowell_North",
+        "description": "Massachusetts_Lowell_North",
         "type": "work",
-        "startLocation": "41.584034, -73.042430",
-        "endLocation": "41.558337, -73.038645",
-        "outFile": "output/Connecticut_Waterbury_North.json"
+        "startLocation": "42.103246, -72.533117",
+        "endLocation": "42.107113, -72.507644",
+        "outFile": "output/Massachusetts_Lowell_North.json"
     },
     {
-        "id": 140,
-        "name": "Connecticut_Waterbury_Central",
-        "description": "Connecticut_Waterbury_Central",
+        "id": 480,
+        "name": "Massachusetts_Lowell_Central",
+        "description": "Massachusetts_Lowell_Central",
         "type": "work",
-        "startLocation": "41.555552, -73.046556",
-        "endLocation": "41.540383, -73.021519",
-        "outFile": "output/Connecticut_Waterbury_Central.json"
+        "startLocation": "42.111189, -72.563943",
+        "endLocation": "42.107031, -72.546525",
+        "outFile": "output/Massachusetts_Lowell_Central.json"
     },
     {
-        "id": 141,
-        "name": "Delaware_Wilmington_West",
-        "description": "Delaware_Wilmington_West",
+        "id": 481,
+        "name": "Massachusetts_Cambridge_West",
+        "description": "Massachusetts_Cambridge_West",
         "type": "work",
-        "startLocation": "39.746336, -75.573466",
-        "endLocation": "39.736897, -75.550130",
-        "outFile": "output/Delaware_Wilmington_West.json"
+        "startLocation": "42.374822, -71.114498",
+        "endLocation": "42.365843, -71.092085",
+        "outFile": "output/Massachusetts_Cambridge_West.json"
     },
     {
-        "id": 142,
-        "name": "Delaware_Wilmington_East",
-        "description": "Delaware_Wilmington_East",
+        "id": 482,
+        "name": "Massachusetts_Cambridge_East",
+        "description": "Massachusetts_Cambridge_East",
         "type": "work",
-        "startLocation": "39.748798, -75.571806",
-        "endLocation": "39.739363, -75.548548",
-        "outFile": "output/Delaware_Wilmington_East.json"
+        "startLocation": "42.397060, -71.129876",
+        "endLocation": "42.384994, -71.119433",
+        "outFile": "output/Massachusetts_Cambridge_East.json"
     },
     {
-        "id": 143,
-        "name": "Delaware_Wilmington_South",
-        "description": "Delaware_Wilmington_South",
+        "id": 483,
+        "name": "Massachusetts_Cambridge_South",
+        "description": "Massachusetts_Cambridge_South",
         "type": "work",
-        "startLocation": "39.756100, -75.567769",
-        "endLocation": "39.745805, -75.544119",
-        "outFile": "output/Delaware_Wilmington_South.json"
+        "startLocation": "42.387130, -71.140835",
+        "endLocation": "42.389834, -71.124419",
+        "outFile": "output/Massachusetts_Cambridge_South.json"
     },
     {
-        "id": 144,
-        "name": "Delaware_Wilmington_North",
-        "description": "Delaware_Wilmington_North",
+        "id": 484,
+        "name": "Massachusetts_Cambridge_North",
+        "description": "Massachusetts_Cambridge_North",
         "type": "work",
-        "startLocation": "39.761177, -75.542312",
-        "endLocation": "39.746121, -75.546287",
-        "outFile": "output/Delaware_Wilmington_North.json"
+        "startLocation": "42.386317, -71.139621",
+        "endLocation": "42.378432, -71.123794",
+        "outFile": "output/Massachusetts_Cambridge_North.json"
     },
     {
-        "id": 145,
-        "name": "Delaware_Wilmington_Central",
-        "description": "Delaware_Wilmington_Central",
+        "id": 485,
+        "name": "Massachusetts_Cambridge_Central",
+        "description": "Massachusetts_Cambridge_Central",
         "type": "work",
-        "startLocation": "39.755788, -75.541411",
-        "endLocation": "39.742508, -75.534807",
-        "outFile": "output/Delaware_Wilmington_Central.json"
+        "startLocation": "42.378032, -71.140330",
+        "endLocation": "42.373533, -71.123377",
+        "outFile": "output/Massachusetts_Cambridge_Central.json"
     },
     {
-        "id": 146,
-        "name": "Delaware_Dover_West",
-        "description": "Delaware_Dover_West",
+        "id": 486,
+        "name": "Michigan_Detroit_West",
+        "description": "Michigan_Detroit_West",
         "type": "work",
-        "startLocation": "39.167419, -75.555379",
-        "endLocation": "39.171323, -75.532107",
-        "outFile": "output/Delaware_Dover_West.json"
+        "startLocation": "42.332624, -83.121250",
+        "endLocation": "42.341235, -83.096856",
+        "outFile": "output/Michigan_Detroit_West.json"
     },
     {
-        "id": 147,
-        "name": "Delaware_Dover_East",
-        "description": "Delaware_Dover_East",
+        "id": 487,
+        "name": "Michigan_Detroit_East",
+        "description": "Michigan_Detroit_East",
         "type": "work",
-        "startLocation": "39.174775, -75.551366",
-        "endLocation": "39.161031, -75.541704",
-        "outFile": "output/Delaware_Dover_East.json"
+        "startLocation": "42.344605, -83.117986",
+        "endLocation": "42.348421, -83.090194",
+        "outFile": "output/Michigan_Detroit_East.json"
     },
     {
-        "id": 148,
-        "name": "Delaware_Dover_South",
-        "description": "Delaware_Dover_South",
+        "id": 488,
+        "name": "Michigan_Detroit_South",
+        "description": "Michigan_Detroit_South",
         "type": "work",
-        "startLocation": "39.159047, -75.557486",
-        "endLocation": "39.160856, -75.529483",
-        "outFile": "output/Delaware_Dover_South.json"
+        "startLocation": "42.333913, -83.096785",
+        "endLocation": "42.344195, -83.065175",
+        "outFile": "output/Michigan_Detroit_South.json"
     },
     {
-        "id": 149,
-        "name": "Delaware_Dover_North",
-        "description": "Delaware_Dover_North",
+        "id": 489,
+        "name": "Michigan_Detroit_North",
+        "description": "Michigan_Detroit_North",
         "type": "work",
-        "startLocation": "39.171871, -75.529621",
-        "endLocation": "39.151289, -75.522241",
-        "outFile": "output/Delaware_Dover_North.json"
+        "startLocation": "42.320338, -83.095720",
+        "endLocation": "42.327933, -83.069775",
+        "outFile": "output/Michigan_Detroit_North.json"
     },
     {
-        "id": 150,
-        "name": "Delaware_Dover_Central",
-        "description": "Delaware_Dover_Central",
+        "id": 490,
+        "name": "Michigan_Detroit_Central",
+        "description": "Michigan_Detroit_Central",
         "type": "work",
-        "startLocation": "39.180300, -75.519615",
-        "endLocation": "39.166913, -75.505085",
-        "outFile": "output/Delaware_Dover_Central.json"
+        "startLocation": "42.347486, -83.010923",
+        "endLocation": "42.336107, -83.027855",
+        "outFile": "output/Michigan_Detroit_Central.json"
     },
     {
-        "id": 151,
-        "name": "Delaware_Newark_West",
-        "description": "Delaware_Newark_West",
+        "id": 491,
+        "name": "Michigan_GrandRapids_West",
+        "description": "Michigan_GrandRapids_West",
         "type": "work",
-        "startLocation": "39.693797, -75.763804",
-        "endLocation": "39.687033, -75.747473",
-        "outFile": "output/Delaware_Newark_West.json"
+        "startLocation": "42.962758, -85.639754",
+        "endLocation": "42.963259, -85.673417",
+        "outFile": "output/Michigan_GrandRapids_West.json"
     },
     {
-        "id": 152,
-        "name": "Delaware_Newark_East",
-        "description": "Delaware_Newark_East",
+        "id": 492,
+        "name": "Michigan_GrandRapids_East",
+        "description": "Michigan_GrandRapids_East",
         "type": "work",
-        "startLocation": "39.690467, -75.776064",
-        "endLocation": "39.671069, -75.771101",
-        "outFile": "output/Delaware_Newark_East.json"
+        "startLocation": "42.970232, -85.656963",
+        "endLocation": "42.969972, -85.629979",
+        "outFile": "output/Michigan_GrandRapids_East.json"
     },
     {
-        "id": 153,
-        "name": "Delaware_Newark_South",
-        "description": "Delaware_Newark_South",
+        "id": 493,
+        "name": "Michigan_GrandRapids_South",
+        "description": "Michigan_GrandRapids_South",
         "type": "work",
-        "startLocation": "39.677743, -75.780009",
-        "endLocation": "39.682860, -75.757350",
-        "outFile": "output/Delaware_Newark_South.json"
+        "startLocation": "42.955985, -85.667616",
+        "endLocation": "42.955671, -85.639549",
+        "outFile": "output/Michigan_GrandRapids_South.json"
     },
     {
-        "id": 154,
-        "name": "Delaware_Newark_North",
-        "description": "Delaware_Newark_North",
+        "id": 494,
+        "name": "Michigan_GrandRapids_North",
+        "description": "Michigan_GrandRapids_North",
         "type": "work",
-        "startLocation": "39.674714, -75.760855",
-        "endLocation": "39.678434, -75.736305",
-        "outFile": "output/Delaware_Newark_North.json"
+        "startLocation": "42.958768, -85.673407",
+        "endLocation": "42.936087, -85.686625",
+        "outFile": "output/Michigan_GrandRapids_North.json"
     },
     {
-        "id": 155,
-        "name": "Delaware_Newark_Central",
-        "description": "Delaware_Newark_Central",
+        "id": 495,
+        "name": "Michigan_GrandRapids_Central",
+        "description": "Michigan_GrandRapids_Central",
         "type": "work",
-        "startLocation": "39.682551, -75.753642",
-        "endLocation": "39.667219, -75.752882",
-        "outFile": "output/Delaware_Newark_Central.json"
+        "startLocation": "42.941365, -85.658987",
+        "endLocation": "42.927383, -85.648130",
+        "outFile": "output/Michigan_GrandRapids_Central.json"
     },
     {
-        "id": 156,
-        "name": "Delaware_Middletown_West",
-        "description": "Delaware_Middletown_West",
+        "id": 496,
+        "name": "Michigan_Warren_West",
+        "description": "Michigan_Warren_West",
         "type": "work",
-        "startLocation": "39.450016, -75.722027",
-        "endLocation": "39.451479, -75.692562",
-        "outFile": "output/Delaware_Middletown_West.json"
+        "startLocation": "42.514188, -83.018087",
+        "endLocation": "42.514631, -82.987961",
+        "outFile": "output/Michigan_Warren_West.json"
     },
     {
-        "id": 157,
-        "name": "Delaware_Middletown_East",
-        "description": "Delaware_Middletown_East",
+        "id": 497,
+        "name": "Michigan_Warren_East",
+        "description": "Michigan_Warren_East",
         "type": "work",
-        "startLocation": "39.448140, -75.719844",
-        "endLocation": "39.438972, -75.709049",
-        "outFile": "output/Delaware_Middletown_East.json"
+        "startLocation": "42.508367, -82.977919",
+        "endLocation": "42.507291, -83.006929",
+        "outFile": "output/Michigan_Warren_East.json"
     },
     {
-        "id": 158,
-        "name": "Delaware_Middletown_South",
-        "description": "Delaware_Middletown_South",
+        "id": 498,
+        "name": "Michigan_Warren_South",
+        "description": "Michigan_Warren_South",
         "type": "work",
-        "startLocation": "39.461623, -75.720600",
-        "endLocation": "39.471788, -75.708811",
-        "outFile": "output/Delaware_Middletown_South.json"
+        "startLocation": "42.499450, -83.018213",
+        "endLocation": "42.499790, -82.987245",
+        "outFile": "output/Michigan_Warren_South.json"
     },
     {
-        "id": 159,
-        "name": "Delaware_Middletown_North",
-        "description": "Delaware_Middletown_North",
+        "id": 499,
+        "name": "Michigan_Warren_North",
+        "description": "Michigan_Warren_North",
         "type": "work",
-        "startLocation": "39.461284, -75.718785",
-        "endLocation": "39.452124, -75.708031",
-        "outFile": "output/Delaware_Middletown_North.json"
+        "startLocation": "42.505778, -83.067517",
+        "endLocation": "42.506101, -83.038949",
+        "outFile": "output/Michigan_Warren_North.json"
     },
     {
-        "id": 160,
-        "name": "Delaware_Middletown_Central",
-        "description": "Delaware_Middletown_Central",
+        "id": 500,
+        "name": "Michigan_Warren_Central",
+        "description": "Michigan_Warren_Central",
         "type": "work",
-        "startLocation": "39.460893, -75.729573",
-        "endLocation": "39.448424, -75.737664",
-        "outFile": "output/Delaware_Middletown_Central.json"
+        "startLocation": "42.520456, -83.067946",
+        "endLocation": "42.524473, -83.036232",
+        "outFile": "output/Michigan_Warren_Central.json"
     },
     {
-        "id": 161,
-        "name": "Delaware_Smyrna_West",
-        "description": "Delaware_Smyrna_West",
+        "id": 501,
+        "name": "Michigan_SterlingHeights_West",
+        "description": "Michigan_SterlingHeights_West",
         "type": "work",
-        "startLocation": "39.294782, -75.614621",
-        "endLocation": "39.305141, -75.596476",
-        "outFile": "output/Delaware_Smyrna_West.json"
+        "startLocation": "42.608473, -83.062607",
+        "endLocation": "42.608367, -83.031572",
+        "outFile": "output/Michigan_SterlingHeights_West.json"
     },
     {
-        "id": 162,
-        "name": "Delaware_Smyrna_East",
-        "description": "Delaware_Smyrna_East",
+        "id": 502,
+        "name": "Michigan_SterlingHeights_East",
+        "description": "Michigan_SterlingHeights_East",
         "type": "work",
-        "startLocation": "39.298469, -75.620958",
-        "endLocation": "39.302989, -75.605709",
-        "outFile": "output/Delaware_Smyrna_East.json"
+        "startLocation": "42.601748, -83.045968",
+        "endLocation": "42.600189, -83.071052",
+        "outFile": "output/Michigan_SterlingHeights_East.json"
     },
     {
-        "id": 163,
-        "name": "Delaware_Smyrna_South",
-        "description": "Delaware_Smyrna_South",
+        "id": 503,
+        "name": "Michigan_SterlingHeights_South",
+        "description": "Michigan_SterlingHeights_South",
         "type": "work",
-        "startLocation": "39.305319, -75.604624",
-        "endLocation": "39.294208, -75.603683",
-        "outFile": "output/Delaware_Smyrna_South.json"
+        "startLocation": "42.593652, -83.070746",
+        "endLocation": "42.594629, -83.043289",
+        "outFile": "output/Michigan_SterlingHeights_South.json"
     },
     {
-        "id": 164,
-        "name": "Delaware_Smyrna_North",
-        "description": "Delaware_Smyrna_North",
+        "id": 504,
+        "name": "Michigan_SterlingHeights_North",
+        "description": "Michigan_SterlingHeights_North",
         "type": "work",
-        "startLocation": "39.280447, -75.603636",
-        "endLocation": "39.272933, -75.605785",
-        "outFile": "output/Delaware_Smyrna_North.json"
+        "startLocation": "42.580012, -83.043442",
+        "endLocation": "42.579261, -83.070184",
+        "outFile": "output/Michigan_SterlingHeights_North.json"
     },
     {
-        "id": 165,
-        "name": "Delaware_Smyrna_Central",
-        "description": "Delaware_Smyrna_Central",
+        "id": 505,
+        "name": "Michigan_SterlingHeights_Central",
+        "description": "Michigan_SterlingHeights_Central",
         "type": "work",
-        "startLocation": "39.273838, -75.614515",
-        "endLocation": "39.273578, -75.606608",
-        "outFile": "output/Delaware_Smyrna_Central.json"
+        "startLocation": "42.613920, -83.021865",
+        "endLocation": "42.596866, -83.004717",
+        "outFile": "output/Michigan_SterlingHeights_Central.json"
     },
     {
-        "id": 166,
-        "name": "Florida_Jacksonville_West",
-        "description": "Florida_Jacksonville_West",
+        "id": 506,
+        "name": "Michigan_AnnArbor_West",
+        "description": "Michigan_AnnArbor_West",
         "type": "work",
-        "startLocation": "30.405022, -81.745841",
-        "endLocation": "30.400959, -81.731403",
-        "outFile": "output/Florida_Jacksonville_West.json"
+        "startLocation": "42.291236, -83.771528",
+        "endLocation": "42.283296, -83.748449",
+        "outFile": "output/Michigan_AnnArbor_West.json"
     },
     {
-        "id": 167,
-        "name": "Florida_Jacksonville_East",
-        "description": "Florida_Jacksonville_East",
+        "id": 507,
+        "name": "Michigan_AnnArbor_East",
+        "description": "Michigan_AnnArbor_East",
         "type": "work",
-        "startLocation": "30.394933, -81.736166",
-        "endLocation": "30.387507, -81.712329",
-        "outFile": "output/Florida_Jacksonville_East.json"
+        "startLocation": "42.283349, -83.772055",
+        "endLocation": "42.281284, -83.743864",
+        "outFile": "output/Michigan_AnnArbor_East.json"
     },
     {
-        "id": 168,
-        "name": "Florida_Jacksonville_South",
-        "description": "Florida_Jacksonville_South",
+        "id": 508,
+        "name": "Michigan_AnnArbor_South",
+        "description": "Michigan_AnnArbor_South",
         "type": "work",
-        "startLocation": "30.399577, -81.725602",
-        "endLocation": "30.402135, -81.697432",
-        "outFile": "output/Florida_Jacksonville_South.json"
+        "startLocation": "42.279405, -83.743226",
+        "endLocation": "42.275107, -83.772288",
+        "outFile": "output/Michigan_AnnArbor_South.json"
     },
     {
-        "id": 169,
-        "name": "Florida_Jacksonville_North",
-        "description": "Florida_Jacksonville_North",
+        "id": 509,
+        "name": "Michigan_AnnArbor_North",
+        "description": "Michigan_AnnArbor_North",
         "type": "work",
-        "startLocation": "30.405009, -81.720956",
-        "endLocation": "30.407626, -81.688110",
-        "outFile": "output/Florida_Jacksonville_North.json"
+        "startLocation": "42.274146, -83.744193",
+        "endLocation": "42.258910, -83.728474",
+        "outFile": "output/Michigan_AnnArbor_North.json"
     },
     {
-        "id": 170,
-        "name": "Florida_Jacksonville_Central",
-        "description": "Florida_Jacksonville_Central",
+        "id": 510,
+        "name": "Michigan_AnnArbor_Central",
+        "description": "Michigan_AnnArbor_Central",
         "type": "work",
-        "startLocation": "30.368081, -81.717259",
-        "endLocation": "30.370983, -81.687418",
-        "outFile": "output/Florida_Jacksonville_Central.json"
+        "startLocation": "42.267074, -83.770301",
+        "endLocation": "42.260998, -83.750201",
+        "outFile": "output/Michigan_AnnArbor_Central.json"
     },
     {
-        "id": 171,
-        "name": "Florida_Miami_West",
-        "description": "Florida_Miami_West",
+        "id": 511,
+        "name": "Minnesota_Minneapolis_West",
+        "description": "Minnesota_Minneapolis_West",
         "type": "work",
-        "startLocation": "25.794556, -80.231496",
-        "endLocation": "25.794228, -80.195728",
-        "outFile": "output/Florida_Miami_West.json"
+        "startLocation": "45.013233, -93.295762",
+        "endLocation": "45.013233, -93.263150",
+        "outFile": "output/Minnesota_Minneapolis_West.json"
     },
     {
-        "id": 172,
-        "name": "Florida_Miami_East",
-        "description": "Florida_Miami_East",
+        "id": 512,
+        "name": "Minnesota_Minneapolis_East",
+        "description": "Minnesota_Minneapolis_East",
         "type": "work",
-        "startLocation": "25.788182, -80.227214",
-        "endLocation": "25.787011, -80.195053",
-        "outFile": "output/Florida_Miami_East.json"
+        "startLocation": "44.998800, -93.257486",
+        "endLocation": "44.999305, -93.294282",
+        "outFile": "output/Minnesota_Minneapolis_East.json"
     },
     {
-        "id": 173,
-        "name": "Florida_Miami_South",
-        "description": "Florida_Miami_South",
+        "id": 513,
+        "name": "Minnesota_Minneapolis_South",
+        "description": "Minnesota_Minneapolis_South",
         "type": "work",
-        "startLocation": "25.779767, -80.230417",
-        "endLocation": "25.774894, -80.202741",
-        "outFile": "output/Florida_Miami_South.json"
+        "startLocation": "44.991943, -93.294078",
+        "endLocation": "44.996671, -93.262436",
+        "outFile": "output/Minnesota_Minneapolis_South.json"
     },
     {
-        "id": 174,
-        "name": "Florida_Miami_North",
-        "description": "Florida_Miami_North",
+        "id": 514,
+        "name": "Minnesota_Minneapolis_North",
+        "description": "Minnesota_Minneapolis_North",
         "type": "work",
-        "startLocation": "25.763012, -80.202712",
-        "endLocation": "25.747662, -80.219438",
-        "outFile": "output/Florida_Miami_North.json"
+        "startLocation": "44.948399, -93.298314",
+        "endLocation": "44.948435, -93.262691",
+        "outFile": "output/Minnesota_Minneapolis_North.json"
     },
     {
-        "id": 175,
-        "name": "Florida_Miami_Central",
-        "description": "Florida_Miami_Central",
+        "id": 515,
+        "name": "Minnesota_Minneapolis_Central",
+        "description": "Minnesota_Minneapolis_Central",
         "type": "work",
-        "startLocation": "25.761457, -80.193332",
-        "endLocation": "25.743376, -80.215387",
-        "outFile": "output/Florida_Miami_Central.json"
+        "startLocation": "44.957387, -93.240649",
+        "endLocation": "44.948367, -93.220409",
+        "outFile": "output/Minnesota_Minneapolis_Central.json"
     },
     {
-        "id": 176,
-        "name": "Florida_Tampa_West",
-        "description": "Florida_Tampa_West",
+        "id": 516,
+        "name": "Minnesota_SaintPaul_West",
+        "description": "Minnesota_SaintPaul_West",
         "type": "work",
-        "startLocation": "27.982140, -82.480678",
-        "endLocation": "27.982451, -82.449063",
-        "outFile": "output/Florida_Tampa_West.json"
+        "startLocation": "44.977490, -93.135443",
+        "endLocation": "44.977454, -93.098902",
+        "outFile": "output/Minnesota_SaintPaul_West.json"
     },
     {
-        "id": 177,
-        "name": "Florida_Tampa_East",
-        "description": "Florida_Tampa_East",
+        "id": 517,
+        "name": "Minnesota_SaintPaul_East",
+        "description": "Minnesota_SaintPaul_East",
         "type": "work",
-        "startLocation": "27.991577, -82.520108",
-        "endLocation": "27.974051, -82.503388",
-        "outFile": "output/Florida_Tampa_East.json"
+        "startLocation": "44.970204, -93.136535",
+        "endLocation": "44.970269, -93.105945",
+        "outFile": "output/Minnesota_SaintPaul_East.json"
     },
     {
-        "id": 178,
-        "name": "Florida_Tampa_South",
-        "description": "Florida_Tampa_South",
+        "id": 518,
+        "name": "Minnesota_SaintPaul_South",
+        "description": "Minnesota_SaintPaul_South",
         "type": "work",
-        "startLocation": "27.973959, -82.493035",
-        "endLocation": "27.966991, -82.467726",
-        "outFile": "output/Florida_Tampa_South.json"
+        "startLocation": "44.963074, -93.146563",
+        "endLocation": "44.963013, -93.116269",
+        "outFile": "output/Minnesota_SaintPaul_South.json"
     },
     {
-        "id": 179,
-        "name": "Florida_Tampa_North",
-        "description": "Florida_Tampa_North",
+        "id": 519,
+        "name": "Minnesota_SaintPaul_North",
+        "description": "Minnesota_SaintPaul_North",
         "type": "work",
-        "startLocation": "27.978558, -82.426303",
-        "endLocation": "27.970245, -82.403723",
-        "outFile": "output/Florida_Tampa_North.json"
+        "startLocation": "44.946643, -93.156797",
+        "endLocation": "44.946590, -93.123748",
+        "outFile": "output/Minnesota_SaintPaul_North.json"
     },
     {
-        "id": 180,
-        "name": "Florida_Tampa_Central",
-        "description": "Florida_Tampa_Central",
+        "id": 520,
+        "name": "Minnesota_SaintPaul_Central",
+        "description": "Minnesota_SaintPaul_Central",
         "type": "work",
-        "startLocation": "27.952083, -82.493188",
-        "endLocation": "27.948877, -82.470122",
-        "outFile": "output/Florida_Tampa_Central.json"
+        "startLocation": "44.977353, -93.083707",
+        "endLocation": "44.970384, -93.060864",
+        "outFile": "output/Minnesota_SaintPaul_Central.json"
     },
     {
-        "id": 181,
-        "name": "Florida_Orlando_West",
-        "description": "Florida_Orlando_West",
+        "id": 521,
+        "name": "Minnesota_Rochester_West",
+        "description": "Minnesota_Rochester_West",
         "type": "work",
-        "startLocation": "28.549398, -81.379096",
-        "endLocation": "28.549567, -81.352082",
-        "outFile": "output/Florida_Orlando_West.json"
+        "startLocation": "44.021771, -92.498980",
+        "endLocation": "44.021728, -92.464507",
+        "outFile": "output/Minnesota_Rochester_West.json"
     },
     {
-        "id": 182,
-        "name": "Florida_Orlando_East",
-        "description": "Florida_Orlando_East",
+        "id": 522,
+        "name": "Minnesota_Rochester_East",
+        "description": "Minnesota_Rochester_East",
         "type": "work",
-        "startLocation": "28.541983, -81.405539",
-        "endLocation": "28.542054, -81.384960",
-        "outFile": "output/Florida_Orlando_East.json"
+        "startLocation": "44.021640, -92.429185",
+        "endLocation": "44.019327, -92.461290",
+        "outFile": "output/Minnesota_Rochester_East.json"
     },
     {
-        "id": 183,
-        "name": "Florida_Orlando_South",
-        "description": "Florida_Orlando_South",
+        "id": 523,
+        "name": "Minnesota_Rochester_South",
+        "description": "Minnesota_Rochester_South",
         "type": "work",
-        "startLocation": "28.540148, -81.405474",
-        "endLocation": "28.540208, -81.384939",
-        "outFile": "output/Florida_Orlando_South.json"
+        "startLocation": "43.997996, -92.477049",
+        "endLocation": "43.984304, -92.488428",
+        "outFile": "output/Minnesota_Rochester_South.json"
     },
     {
-        "id": 184,
-        "name": "Florida_Orlando_North",
-        "description": "Florida_Orlando_North",
+        "id": 524,
+        "name": "Minnesota_Rochester_North",
+        "description": "Minnesota_Rochester_North",
         "type": "work",
-        "startLocation": "28.542076, -81.380809",
-        "endLocation": "28.542223, -81.363178",
-        "outFile": "output/Florida_Orlando_North.json"
+        "startLocation": "44.043735, -92.517543",
+        "endLocation": "44.047478, -92.492283",
+        "outFile": "output/Minnesota_Rochester_North.json"
     },
     {
-        "id": 185,
-        "name": "Florida_Orlando_Central",
-        "description": "Florida_Orlando_Central",
+        "id": 525,
+        "name": "Minnesota_Rochester_Central",
+        "description": "Minnesota_Rochester_Central",
         "type": "work",
-        "startLocation": "28.531168, -81.395112",
-        "endLocation": "28.531205, -81.374749",
-        "outFile": "output/Florida_Orlando_Central.json"
+        "startLocation": "44.038088, -92.501316",
+        "endLocation": "44.030485, -92.465861",
+        "outFile": "output/Minnesota_Rochester_Central.json"
     },
     {
-        "id": 186,
-        "name": "Florida_St.Petersburg_West",
-        "description": "Florida_St.Petersburg_West",
+        "id": 526,
+        "name": "Minnesota_Bloomington_West",
+        "description": "Minnesota_Bloomington_West",
         "type": "work",
-        "startLocation": "27.751981, -82.699695",
-        "endLocation": "27.752062, -82.671109",
-        "outFile": "output/Florida_St.Petersburg_West.json"
+        "startLocation": "44.837989, -93.344975",
+        "endLocation": "44.840815, -93.317697",
+        "outFile": "output/Minnesota_Bloomington_West.json"
     },
     {
-        "id": 187,
-        "name": "Florida_St.Petersburg_East",
-        "description": "Florida_St.Petersburg_East",
+        "id": 527,
+        "name": "Minnesota_Bloomington_East",
+        "description": "Minnesota_Bloomington_East",
         "type": "work",
-        "startLocation": "27.748410, -82.663016",
-        "endLocation": "27.748474, -82.654614",
-        "outFile": "output/Florida_St.Petersburg_East.json"
+        "startLocation": "44.825180, -93.338148",
+        "endLocation": "44.826412, -93.308829",
+        "outFile": "output/Minnesota_Bloomington_East.json"
     },
     {
-        "id": 188,
-        "name": "Florida_St.Petersburg_South",
-        "description": "Florida_St.Petersburg_South",
+        "id": 528,
+        "name": "Minnesota_Bloomington_South",
+        "description": "Minnesota_Bloomington_South",
         "type": "work",
-        "startLocation": "27.766446, -82.699775",
-        "endLocation": "27.766515, -82.671251",
-        "outFile": "output/Florida_St.Petersburg_South.json"
+        "startLocation": "44.819411, -93.309001",
+        "endLocation": "44.818985, -93.350371",
+        "outFile": "output/Minnesota_Bloomington_South.json"
     },
     {
-        "id": 189,
-        "name": "Florida_St.Petersburg_North",
-        "description": "Florida_St.Petersburg_North",
+        "id": 529,
+        "name": "Minnesota_Bloomington_North",
+        "description": "Minnesota_Bloomington_North",
         "type": "work",
-        "startLocation": "27.744718, -82.683336",
-        "endLocation": "27.744828, -82.646617",
-        "outFile": "output/Florida_St.Petersburg_North.json"
+        "startLocation": "44.811983, -93.319300",
+        "endLocation": "44.819168, -93.288659",
+        "outFile": "output/Minnesota_Bloomington_North.json"
     },
     {
-        "id": 190,
-        "name": "Florida_St.Petersburg_Central",
-        "description": "Florida_St.Petersburg_Central",
+        "id": 530,
+        "name": "Minnesota_Bloomington_Central",
+        "description": "Minnesota_Bloomington_Central",
         "type": "work",
-        "startLocation": "27.789646, -82.623547",
-        "endLocation": "27.771210, -82.638478",
-        "outFile": "output/Florida_St.Petersburg_Central.json"
+        "startLocation": "44.827486, -93.288730",
+        "endLocation": "44.848019, -93.288573",
+        "outFile": "output/Minnesota_Bloomington_Central.json"
     },
     {
-        "id": 191,
-        "name": "Georgia_Atlanta_West",
-        "description": "Georgia_Atlanta_West",
+        "id": 531,
+        "name": "Minnesota_Duluth_West",
+        "description": "Minnesota_Duluth_West",
         "type": "work",
-        "startLocation": "33.781560, -84.404214",
-        "endLocation": "33.781801, -84.380444",
-        "outFile": "output/Georgia_Atlanta_West.json"
+        "startLocation": "46.822057, -92.118902",
+        "endLocation": "46.825886, -92.079405",
+        "outFile": "output/Minnesota_Duluth_West.json"
     },
     {
-        "id": 192,
-        "name": "Georgia_Atlanta_East",
-        "description": "Georgia_Atlanta_East",
+        "id": 532,
+        "name": "Minnesota_Duluth_East",
+        "description": "Minnesota_Duluth_East",
         "type": "work",
-        "startLocation": "33.786272, -84.427824",
-        "endLocation": "33.775576, -84.418579",
-        "outFile": "output/Georgia_Atlanta_East.json"
+        "startLocation": "46.822178, -92.074101",
+        "endLocation": "46.816695, -92.100436",
+        "outFile": "output/Minnesota_Duluth_East.json"
     },
     {
-        "id": 193,
-        "name": "Georgia_Atlanta_South",
-        "description": "Georgia_Atlanta_South",
+        "id": 533,
+        "name": "Minnesota_Duluth_South",
+        "description": "Minnesota_Duluth_South",
         "type": "work",
-        "startLocation": "33.763512, -84.417433",
-        "endLocation": "33.763336, -84.388979",
-        "outFile": "output/Georgia_Atlanta_South.json"
+        "startLocation": "46.798810, -92.100487",
+        "endLocation": "46.813936, -92.078695",
+        "outFile": "output/Minnesota_Duluth_South.json"
     },
     {
-        "id": 194,
-        "name": "Georgia_Atlanta_North",
-        "description": "Georgia_Atlanta_North",
+        "id": 534,
+        "name": "Minnesota_Duluth_North",
+        "description": "Minnesota_Duluth_North",
         "type": "work",
-        "startLocation": "33.771876, -84.380309",
-        "endLocation": "33.770648, -84.350782",
-        "outFile": "output/Georgia_Atlanta_North.json"
+        "startLocation": "46.816711, -92.059139",
+        "endLocation": "46.826402, -92.036823",
+        "outFile": "output/Minnesota_Duluth_North.json"
     },
     {
-        "id": 195,
-        "name": "Georgia_Atlanta_Central",
-        "description": "Georgia_Atlanta_Central",
+        "id": 535,
+        "name": "Minnesota_Duluth_Central",
+        "description": "Minnesota_Duluth_Central",
         "type": "work",
-        "startLocation": "33.757307, -84.380254",
-        "endLocation": "33.758089, -84.352839",
-        "outFile": "output/Georgia_Atlanta_Central.json"
+        "startLocation": "46.786644, -92.136105",
+        "endLocation": "46.779503, -92.113960",
+        "outFile": "output/Minnesota_Duluth_Central.json"
     },
     {
-        "id": 196,
-        "name": "Georgia_Columbus_West",
-        "description": "Georgia_Columbus_West",
+        "id": 536,
+        "name": "Mississippi_Jackson_West",
+        "description": "Mississippi_Jackson_West",
         "type": "work",
-        "startLocation": "32.481333, -84.990080",
-        "endLocation": "32.492588, -84.966621",
-        "outFile": "output/Georgia_Columbus_West.json"
+        "startLocation": "32.355951, -90.222101",
+        "endLocation": "32.338866, -90.220731",
+        "outFile": "output/Mississippi_Jackson_West.json"
     },
     {
-        "id": 197,
-        "name": "Georgia_Columbus_East",
-        "description": "Georgia_Columbus_East",
+        "id": 537,
+        "name": "Mississippi_Jackson_East",
+        "description": "Mississippi_Jackson_East",
         "type": "work",
-        "startLocation": "32.480193, -84.979496",
-        "endLocation": "32.488195, -84.956760",
-        "outFile": "output/Georgia_Columbus_East.json"
+        "startLocation": "32.344808, -90.219477",
+        "endLocation": "32.336357, -90.196970",
+        "outFile": "output/Mississippi_Jackson_East.json"
     },
     {
-        "id": 198,
-        "name": "Georgia_Columbus_South",
-        "description": "Georgia_Columbus_South",
+        "id": 538,
+        "name": "Mississippi_Jackson_South",
+        "description": "Mississippi_Jackson_South",
         "type": "work",
-        "startLocation": "32.475409, -84.984698",
-        "endLocation": "32.478556, -84.948609",
-        "outFile": "output/Georgia_Columbus_South.json"
+        "startLocation": "32.335467, -90.182011",
+        "endLocation": "32.313824, -90.181769",
+        "outFile": "output/Mississippi_Jackson_South.json"
     },
     {
-        "id": 199,
-        "name": "Georgia_Columbus_North",
-        "description": "Georgia_Columbus_North",
+        "id": 539,
+        "name": "Mississippi_Jackson_North",
+        "description": "Mississippi_Jackson_North",
         "type": "work",
-        "startLocation": "32.464735, -84.986335",
-        "endLocation": "32.472507, -84.954864",
-        "outFile": "output/Georgia_Columbus_North.json"
+        "startLocation": "32.312147, -90.193048",
+        "endLocation": "32.312215, -90.169037",
+        "outFile": "output/Mississippi_Jackson_North.json"
     },
     {
-        "id": 200,
-        "name": "Georgia_Columbus_Central",
-        "description": "Georgia_Columbus_Central",
+        "id": 540,
+        "name": "Mississippi_Jackson_Central",
+        "description": "Mississippi_Jackson_Central",
         "type": "work",
-        "startLocation": "32.463874, -84.978112",
-        "endLocation": "32.455426, -84.946051",
-        "outFile": "output/Georgia_Columbus_Central.json"
+        "startLocation": "32.297686, -90.227812",
+        "endLocation": "32.302993, -90.201396",
+        "outFile": "output/Mississippi_Jackson_Central.json"
     },
     {
-        "id": 201,
-        "name": "Georgia_Augusta_West",
-        "description": "Georgia_Augusta_West",
+        "id": 541,
+        "name": "Mississippi_Gulfport_West",
+        "description": "Mississippi_Gulfport_West",
         "type": "work",
-        "startLocation": "33.487614, -82.073086",
-        "endLocation": "33.494627, -82.038199",
-        "outFile": "output/Georgia_Augusta_West.json"
+        "startLocation": "30.383992, -89.108689",
+        "endLocation": "30.383919, -89.136545",
+        "outFile": "output/Mississippi_Gulfport_West.json"
     },
     {
-        "id": 202,
-        "name": "Georgia_Augusta_East",
-        "description": "Georgia_Augusta_East",
+        "id": 542,
+        "name": "Mississippi_Gulfport_East",
+        "description": "Mississippi_Gulfport_East",
         "type": "work",
-        "startLocation": "33.484062, -82.071156",
-        "endLocation": "33.480799, -82.039695",
-        "outFile": "output/Georgia_Augusta_East.json"
+        "startLocation": "30.380338, -89.090197",
+        "endLocation": "30.387772, -89.065040",
+        "outFile": "output/Mississippi_Gulfport_East.json"
     },
     {
-        "id": 203,
-        "name": "Georgia_Augusta_South",
-        "description": "Georgia_Augusta_South",
+        "id": 543,
+        "name": "Mississippi_Gulfport_South",
+        "description": "Mississippi_Gulfport_South",
         "type": "work",
-        "startLocation": "33.470839, -82.031340",
-        "endLocation": "33.467273, -81.993296",
-        "outFile": "output/Georgia_Augusta_South.json"
+        "startLocation": "30.406947, -89.060705",
+        "endLocation": "30.387526, -89.061009",
+        "outFile": "output/Mississippi_Gulfport_South.json"
     },
     {
-        "id": 204,
-        "name": "Georgia_Augusta_North",
-        "description": "Georgia_Augusta_North",
+        "id": 544,
+        "name": "Mississippi_Gulfport_North",
+        "description": "Mississippi_Gulfport_North",
         "type": "work",
-        "startLocation": "33.471499, -81.996518",
-        "endLocation": "33.462096, -81.969524",
-        "outFile": "output/Georgia_Augusta_North.json"
+        "startLocation": "30.429874, -89.087907",
+        "endLocation": "30.420676, -89.064686",
+        "outFile": "output/Mississippi_Gulfport_North.json"
     },
     {
-        "id": 205,
-        "name": "Georgia_Augusta_Central",
-        "description": "Georgia_Augusta_Central",
+        "id": 545,
+        "name": "Mississippi_Gulfport_Central",
+        "description": "Mississippi_Gulfport_Central",
         "type": "work",
-        "startLocation": "33.469933, -82.029784",
-        "endLocation": "33.465993, -81.996852",
-        "outFile": "output/Georgia_Augusta_Central.json"
+        "startLocation": "30.410156, -89.052686",
+        "endLocation": "30.396609, -89.035601",
+        "outFile": "output/Mississippi_Gulfport_Central.json"
     },
     {
-        "id": 206,
-        "name": "Georgia_Macon_West",
-        "description": "Georgia_Macon_West",
+        "id": 546,
+        "name": "Mississippi_Southaven_West",
+        "description": "Mississippi_Southaven_West",
         "type": "work",
-        "startLocation": "32.856748, -83.643345",
-        "endLocation": "32.840800, -83.627772",
-        "outFile": "output/Georgia_Macon_West.json"
+        "startLocation": "34.977382, -90.013802",
+        "endLocation": "34.977323, -89.992113",
+        "outFile": "output/Mississippi_Southaven_West.json"
     },
     {
-        "id": 207,
-        "name": "Georgia_Macon_East",
-        "description": "Georgia_Macon_East",
+        "id": 547,
+        "name": "Mississippi_Southaven_East",
+        "description": "Mississippi_Southaven_East",
         "type": "work",
-        "startLocation": "32.850409, -83.672204",
-        "endLocation": "32.838675, -83.648485",
-        "outFile": "output/Georgia_Macon_East.json"
+        "startLocation": "34.962530, -89.960536",
+        "endLocation": "34.962744, -89.990056",
+        "outFile": "output/Mississippi_Southaven_East.json"
     },
     {
-        "id": 208,
-        "name": "Georgia_Macon_South",
-        "description": "Georgia_Macon_South",
+        "id": 548,
+        "name": "Mississippi_Southaven_South",
+        "description": "Mississippi_Southaven_South",
         "type": "work",
-        "startLocation": "32.852814, -83.681437",
-        "endLocation": "32.839876, -83.651695",
-        "outFile": "output/Georgia_Macon_South.json"
+        "startLocation": "34.979586, -89.936685",
+        "endLocation": "34.977019, -89.956126",
+        "outFile": "output/Mississippi_Southaven_South.json"
     },
     {
-        "id": 209,
-        "name": "Georgia_Macon_North",
-        "description": "Georgia_Macon_North",
+        "id": 549,
+        "name": "Mississippi_Southaven_North",
+        "description": "Mississippi_Southaven_North",
         "type": "work",
-        "startLocation": "32.835785, -83.634284",
-        "endLocation": "32.829709, -83.652124",
-        "outFile": "output/Georgia_Macon_North.json"
+        "startLocation": "34.949795, -89.954469",
+        "endLocation": "34.933749, -89.963274",
+        "outFile": "output/Mississippi_Southaven_North.json"
     },
     {
-        "id": 210,
-        "name": "Georgia_Macon_Central",
-        "description": "Georgia_Macon_Central",
+        "id": 550,
+        "name": "Mississippi_Southaven_Central",
+        "description": "Mississippi_Southaven_Central",
         "type": "work",
-        "startLocation": "32.835421, -83.620554",
-        "endLocation": "32.815145, -83.629181",
-        "outFile": "output/Georgia_Macon_Central.json"
+        "startLocation": "34.960214, -89.989881",
+        "endLocation": "34.938128, -89.981106",
+        "outFile": "output/Mississippi_Southaven_Central.json"
     },
     {
-        "id": 211,
-        "name": "Georgia_Savannah_West",
-        "description": "Georgia_Savannah_West",
+        "id": 551,
+        "name": "Mississippi_Hattiesburg_West",
+        "description": "Mississippi_Hattiesburg_West",
         "type": "work",
-        "startLocation": "32.090172, -81.121026",
-        "endLocation": "32.082935, -81.096347",
-        "outFile": "output/Georgia_Savannah_West.json"
+        "startLocation": "31.335842, -89.347564",
+        "endLocation": "31.331954, -89.326505",
+        "outFile": "output/Mississippi_Hattiesburg_West.json"
     },
     {
-        "id": 212,
-        "name": "Georgia_Savannah_East",
-        "description": "Georgia_Savannah_East",
+        "id": 552,
+        "name": "Mississippi_Hattiesburg_East",
+        "description": "Mississippi_Hattiesburg_East",
         "type": "work",
-        "startLocation": "32.082289, -81.138756",
-        "endLocation": "32.069223, -81.115193",
-        "outFile": "output/Georgia_Savannah_East.json"
+        "startLocation": "31.324855, -89.297113",
+        "endLocation": "31.324768, -89.325234",
+        "outFile": "output/Mississippi_Hattiesburg_East.json"
     },
     {
-        "id": 213,
-        "name": "Georgia_Savannah_South",
-        "description": "Georgia_Savannah_South",
+        "id": 553,
+        "name": "Mississippi_Hattiesburg_South",
+        "description": "Mississippi_Hattiesburg_South",
         "type": "work",
-        "startLocation": "32.089197, -81.138982",
-        "endLocation": "32.077519, -81.109649",
-        "outFile": "output/Georgia_Savannah_South.json"
+        "startLocation": "31.332179, -89.296450",
+        "endLocation": "31.317618, -89.286243",
+        "outFile": "output/Mississippi_Hattiesburg_South.json"
     },
     {
-        "id": 214,
-        "name": "Georgia_Savannah_North",
-        "description": "Georgia_Savannah_North",
+        "id": 554,
+        "name": "Mississippi_Hattiesburg_North",
+        "description": "Mississippi_Hattiesburg_North",
         "type": "work",
-        "startLocation": "32.078956, -81.084034",
-        "endLocation": "32.064859, -81.084617",
-        "outFile": "output/Georgia_Savannah_North.json"
+        "startLocation": "31.309367, -89.331154",
+        "endLocation": "31.292012, -89.327072",
+        "outFile": "output/Mississippi_Hattiesburg_North.json"
     },
     {
-        "id": 215,
-        "name": "Georgia_Savannah_Central",
-        "description": "Georgia_Savannah_Central",
+        "id": 555,
+        "name": "Mississippi_Hattiesburg_Central",
+        "description": "Mississippi_Hattiesburg_Central",
         "type": "work",
-        "startLocation": "32.054457, -81.135724",
-        "endLocation": "32.041197, -81.110914",
-        "outFile": "output/Georgia_Savannah_Central.json"
+        "startLocation": "31.309711, -89.285098",
+        "endLocation": "31.281148, -89.287978",
+        "outFile": "output/Mississippi_Hattiesburg_Central.json"
     },
     {
-        "id": 216,
-        "name": "Hawaii_Honolulu_West",
-        "description": "Hawaii_Honolulu_West",
+        "id": 556,
+        "name": "Mississippi_Biloxi_West",
+        "description": "Mississippi_Biloxi_West",
         "type": "work",
-        "startLocation": "21.307586, -157.862782",
-        "endLocation": "21.293035, -157.846555",
-        "outFile": "output/Hawaii_Honolulu_West.json"
+        "startLocation": "30.400785, -88.988605",
+        "endLocation": "30.402462, -88.967315",
+        "outFile": "output/Mississippi_Biloxi_West.json"
     },
     {
-        "id": 217,
-        "name": "Hawaii_Honolulu_East",
-        "description": "Hawaii_Honolulu_East",
+        "id": 557,
+        "name": "Mississippi_Biloxi_East",
+        "description": "Mississippi_Biloxi_East",
         "type": "work",
-        "startLocation": "21.303280, -157.861063",
-        "endLocation": "21.293035, -157.850296",
-        "outFile": "output/Hawaii_Honolulu_East.json"
+        "startLocation": "30.397708, -88.938531",
+        "endLocation": "30.402602, -88.959249",
+        "outFile": "output/Mississippi_Biloxi_East.json"
     },
     {
-        "id": 218,
-        "name": "Hawaii_Honolulu_South",
-        "description": "Hawaii_Honolulu_South",
+        "id": 558,
+        "name": "Mississippi_Biloxi_South",
+        "description": "Mississippi_Biloxi_South",
         "type": "work",
-        "startLocation": "21.302858, -157.858620",
-        "endLocation": "21.292349, -157.844867",
-        "outFile": "output/Hawaii_Honolulu_South.json"
+        "startLocation": "30.398227, -88.916111",
+        "endLocation": "30.403123, -88.893773",
+        "outFile": "output/Mississippi_Biloxi_South.json"
     },
     {
-        "id": 219,
-        "name": "Hawaii_Honolulu_North",
-        "description": "Hawaii_Honolulu_North",
+        "id": 559,
+        "name": "Mississippi_Biloxi_North",
+        "description": "Mississippi_Biloxi_North",
         "type": "work",
-        "startLocation": "21.303446, -157.855483",
-        "endLocation": "21.291122, -157.834297",
-        "outFile": "output/Hawaii_Honolulu_North.json"
+        "startLocation": "30.403255, -88.891374",
+        "endLocation": "30.403299, -88.869021",
+        "outFile": "output/Mississippi_Biloxi_North.json"
     },
     {
-        "id": 220,
-        "name": "Hawaii_Honolulu_Central",
-        "description": "Hawaii_Honolulu_Central",
+        "id": 560,
+        "name": "Mississippi_Biloxi_Central",
+        "description": "Mississippi_Biloxi_Central",
         "type": "work",
-        "startLocation": "21.317577, -157.849714",
-        "endLocation": "21.308521, -157.833660",
-        "outFile": "output/Hawaii_Honolulu_Central.json"
+        "startLocation": "30.406028, -88.868051",
+        "endLocation": "30.411706, -88.891731",
+        "outFile": "output/Mississippi_Biloxi_Central.json"
     },
     {
-        "id": 221,
-        "name": "Hawaii_Hilo_West",
-        "description": "Hawaii_Hilo_West",
+        "id": 561,
+        "name": "Missouri_KansasCity_West",
+        "description": "Missouri_KansasCity_West",
         "type": "work",
-        "startLocation": "19.725941, -155.089555",
-        "endLocation": "19.717955, -155.110696",
-        "outFile": "output/Hawaii_Hilo_West.json"
+        "startLocation": "39.110384, -94.580938",
+        "endLocation": "39.118091, -94.554851",
+        "outFile": "output/Missouri_KansasCity_West.json"
     },
     {
-        "id": 222,
-        "name": "Hawaii_Hilo_East",
-        "description": "Hawaii_Hilo_East",
+        "id": 562,
+        "name": "Missouri_KansasCity_East",
+        "description": "Missouri_KansasCity_East",
         "type": "work",
-        "startLocation": "19.716390, -155.104888",
-        "endLocation": "19.698347, -155.116931",
-        "outFile": "output/Hawaii_Hilo_East.json"
+        "startLocation": "39.078336, -94.584609",
+        "endLocation": "39.076967, -94.543345",
+        "outFile": "output/Missouri_KansasCity_East.json"
     },
     {
-        "id": 223,
-        "name": "Hawaii_Hilo_South",
-        "description": "Hawaii_Hilo_South",
+        "id": 563,
+        "name": "Missouri_KansasCity_South",
+        "description": "Missouri_KansasCity_South",
         "type": "work",
-        "startLocation": "19.716213, -155.097850",
-        "endLocation": "19.699678, -155.091620",
-        "outFile": "output/Hawaii_Hilo_South.json"
+        "startLocation": "39.084564, -94.552286",
+        "endLocation": "39.083228, -94.519925",
+        "outFile": "output/Missouri_KansasCity_South.json"
     },
     {
-        "id": 224,
-        "name": "Hawaii_Hilo_North",
-        "description": "Hawaii_Hilo_North",
+        "id": 564,
+        "name": "Missouri_KansasCity_North",
+        "description": "Missouri_KansasCity_North",
         "type": "work",
-        "startLocation": "19.720911, -155.088978",
-        "endLocation": "19.701981, -155.080127",
-        "outFile": "output/Hawaii_Hilo_North.json"
+        "startLocation": "39.090567, -94.519564",
+        "endLocation": "39.090903, -94.551971",
+        "outFile": "output/Missouri_KansasCity_North.json"
     },
     {
-        "id": 225,
-        "name": "Hawaii_Hilo_Central",
-        "description": "Hawaii_Hilo_Central",
+        "id": 565,
+        "name": "Missouri_KansasCity_Central",
+        "description": "Missouri_KansasCity_Central",
         "type": "work",
-        "startLocation": "19.724376, -155.086332",
-        "endLocation": "19.713947, -155.075895",
-        "outFile": "output/Hawaii_Hilo_Central.json"
+        "startLocation": "39.052313, -94.567660",
+        "endLocation": "39.034452, -94.573488",
+        "outFile": "output/Missouri_KansasCity_Central.json"
     },
     {
-        "id": 226,
-        "name": "Hawaii_Kailua_West",
-        "description": "Hawaii_Kailua_West",
+        "id": 566,
+        "name": "Missouri_SaintLouis_West",
+        "description": "Missouri_SaintLouis_West",
         "type": "work",
-        "startLocation": "21.416437, -157.746203",
-        "endLocation": "21.401972, -157.737915",
-        "outFile": "output/Hawaii_Kailua_West.json"
+        "startLocation": "38.609672, -90.200479",
+        "endLocation": "38.591404, -90.215075",
+        "outFile": "output/Missouri_SaintLouis_West.json"
     },
     {
-        "id": 227,
-        "name": "Hawaii_Kailua_East",
-        "description": "Hawaii_Kailua_East",
+        "id": 567,
+        "name": "Missouri_SaintLouis_East",
+        "description": "Missouri_SaintLouis_East",
         "type": "work",
-        "startLocation": "21.410527, -157.745950",
-        "endLocation": "21.397469, -157.740219",
-        "outFile": "output/Hawaii_Kailua_East.json"
+        "startLocation": "38.583907, -90.223915",
+        "endLocation": "38.576816, -90.240567",
+        "outFile": "output/Missouri_SaintLouis_East.json"
     },
     {
-        "id": 228,
-        "name": "Hawaii_Kailua_South",
-        "description": "Hawaii_Kailua_South",
+        "id": 568,
+        "name": "Missouri_SaintLouis_South",
+        "description": "Missouri_SaintLouis_South",
         "type": "work",
-        "startLocation": "21.407272, -157.752833",
-        "endLocation": "21.396474, -157.743574",
-        "outFile": "output/Hawaii_Kailua_South.json"
+        "startLocation": "38.585320, -90.244976",
+        "endLocation": "38.570525, -90.252709",
+        "outFile": "output/Missouri_SaintLouis_South.json"
     },
     {
-        "id": 229,
-        "name": "Hawaii_Kailua_North",
-        "description": "Hawaii_Kailua_North",
+        "id": 569,
+        "name": "Missouri_SaintLouis_North",
+        "description": "Missouri_SaintLouis_North",
         "type": "work",
-        "startLocation": "21.405309, -157.755709",
-        "endLocation": "21.394175, -157.747403",
-        "outFile": "output/Hawaii_Kailua_North.json"
+        "startLocation": "38.575193, -90.255006",
+        "endLocation": "38.588199, -90.251893",
+        "outFile": "output/Missouri_SaintLouis_North.json"
     },
     {
-        "id": 230,
-        "name": "Hawaii_Kailua_Central",
-        "description": "Hawaii_Kailua_Central",
+        "id": 570,
+        "name": "Missouri_SaintLouis_Central",
+        "description": "Missouri_SaintLouis_Central",
         "type": "work",
-        "startLocation": "21.392427, -157.742998",
-        "endLocation": "21.389265, -157.730382",
-        "outFile": "output/Hawaii_Kailua_Central.json"
+        "startLocation": "38.613446, -90.240002",
+        "endLocation": "38.601960, -90.235357",
+        "outFile": "output/Missouri_SaintLouis_Central.json"
     },
     {
-        "id": 231,
-        "name": "Hawaii_Kapolei_West",
-        "description": "Hawaii_Kapolei_West",
+        "id": 571,
+        "name": "Missouri_Springfield_West",
+        "description": "Missouri_Springfield_West",
         "type": "work",
-        "startLocation": "21.355446, -158.062140",
-        "endLocation": "21.344314, -158.068289",
-        "outFile": "output/Hawaii_Kapolei_West.json"
+        "startLocation": "37.226267, -93.314129",
+        "endLocation": "37.226924, -93.343705",
+        "outFile": "output/Missouri_Springfield_West.json"
     },
     {
-        "id": 232,
-        "name": "Hawaii_Kapolei_East",
-        "description": "Hawaii_Kapolei_East",
+        "id": 572,
+        "name": "Missouri_Springfield_East",
+        "description": "Missouri_Springfield_East",
         "type": "work",
-        "startLocation": "21.340279, -158.069031",
-        "endLocation": "21.335399, -158.057862",
-        "outFile": "output/Hawaii_Kapolei_East.json"
+        "startLocation": "37.212169, -93.342992",
+        "endLocation": "37.208682, -93.315796",
+        "outFile": "output/Missouri_Springfield_East.json"
     },
     {
-        "id": 233,
-        "name": "Hawaii_Kapolei_South",
-        "description": "Hawaii_Kapolei_South",
+        "id": 573,
+        "name": "Missouri_Springfield_South",
+        "description": "Missouri_Springfield_South",
         "type": "work",
-        "startLocation": "21.337746, -158.072654",
-        "endLocation": "21.332649, -158.060689",
-        "outFile": "output/Hawaii_Kapolei_South.json"
+        "startLocation": "37.174992, -93.295214",
+        "endLocation": "37.167431, -93.277008",
+        "outFile": "output/Missouri_Springfield_South.json"
     },
     {
-        "id": 234,
-        "name": "Hawaii_Kapolei_North",
-        "description": "Hawaii_Kapolei_North",
+        "id": 574,
+        "name": "Missouri_Springfield_North",
+        "description": "Missouri_Springfield_North",
         "type": "work",
-        "startLocation": "21.331308, -158.081263",
-        "endLocation": "21.328658, -158.060521",
-        "outFile": "output/Hawaii_Kapolei_North.json"
+        "startLocation": "37.205339, -93.286827",
+        "endLocation": "37.182196, -93.287426",
+        "outFile": "output/Missouri_Springfield_North.json"
     },
     {
-        "id": 235,
-        "name": "Hawaii_Kapolei_Central",
-        "description": "Hawaii_Kapolei_Central",
+        "id": 575,
+        "name": "Missouri_Springfield_Central",
+        "description": "Missouri_Springfield_Central",
         "type": "work",
-        "startLocation": "21.328667, -158.092815",
-        "endLocation": "21.313645, -158.093949",
-        "outFile": "output/Hawaii_Kapolei_Central.json"
+        "startLocation": "37.144973, -93.304722",
+        "endLocation": "37.145581, -93.285681",
+        "outFile": "output/Missouri_Springfield_Central.json"
     },
     {
-        "id": 236,
-        "name": "Hawaii_Kaneohe_West",
-        "description": "Hawaii_Kaneohe_West",
+        "id": 576,
+        "name": "Missouri_Independence_West",
+        "description": "Missouri_Independence_West",
         "type": "work",
-        "startLocation": "21.410536, -157.818862",
-        "endLocation": "21.403183, -157.810243",
-        "outFile": "output/Hawaii_Kaneohe_West.json"
+        "startLocation": "39.091378, -94.445796",
+        "endLocation": "39.090021, -94.415876",
+        "outFile": "output/Missouri_Independence_West.json"
     },
     {
-        "id": 237,
-        "name": "Hawaii_Kaneohe_East",
-        "description": "Hawaii_Kaneohe_East",
+        "id": 577,
+        "name": "Missouri_Independence_East",
+        "description": "Missouri_Independence_East",
         "type": "work",
-        "startLocation": "21.418218, -157.801517",
-        "endLocation": "21.399933, -157.796418",
-        "outFile": "output/Hawaii_Kaneohe_East.json"
+        "startLocation": "39.077690, -94.413895",
+        "endLocation": "39.057280, -94.414869",
+        "outFile": "output/Missouri_Independence_East.json"
     },
     {
-        "id": 238,
-        "name": "Hawaii_Kaneohe_South",
-        "description": "Hawaii_Kaneohe_South",
+        "id": 578,
+        "name": "Missouri_Independence_South",
+        "description": "Missouri_Independence_South",
         "type": "work",
-        "startLocation": "21.393897, -157.796415",
-        "endLocation": "21.404917, -157.788093",
-        "outFile": "output/Hawaii_Kaneohe_South.json"
+        "startLocation": "39.113411, -94.416268",
+        "endLocation": "39.097293, -94.413092",
+        "outFile": "output/Missouri_Independence_South.json"
     },
     {
-        "id": 239,
-        "name": "Hawaii_Kaneohe_North",
-        "description": "Hawaii_Kaneohe_North",
+        "id": 579,
+        "name": "Missouri_Independence_North",
+        "description": "Missouri_Independence_North",
         "type": "work",
-        "startLocation": "21.406329, -157.791608",
-        "endLocation": "21.411417, -157.777546",
-        "outFile": "output/Hawaii_Kaneohe_North.json"
+        "startLocation": "39.091675, -94.353364",
+        "endLocation": "39.080887, -94.370176",
+        "outFile": "output/Missouri_Independence_North.json"
     },
     {
-        "id": 240,
-        "name": "Hawaii_Kaneohe_Central",
-        "description": "Hawaii_Kaneohe_Central",
+        "id": 580,
+        "name": "Missouri_Independence_Central",
+        "description": "Missouri_Independence_Central",
         "type": "work",
-        "startLocation": "21.422009, -157.789547",
-        "endLocation": "21.411759, -157.792481",
-        "outFile": "output/Hawaii_Kaneohe_Central.json"
+        "startLocation": "39.064869, -94.391281",
+        "endLocation": "39.049019, -94.387255",
+        "outFile": "output/Missouri_Independence_Central.json"
     },
     {
-        "id": 241,
-        "name": "Idaho_Boise_West",
-        "description": "Idaho_Boise_West",
+        "id": 581,
+        "name": "Missouri_Columbia_West",
+        "description": "Missouri_Columbia_West",
         "type": "work",
-        "startLocation": "43.665961, -116.248305",
-        "endLocation": "43.644416, -116.220926",
-        "outFile": "output/Idaho_Boise_West.json"
+        "startLocation": "38.953772, -92.369775",
+        "endLocation": "38.951695, -92.338956",
+        "outFile": "output/Missouri_Columbia_West.json"
     },
     {
-        "id": 242,
-        "name": "Idaho_Boise_East",
-        "description": "Idaho_Boise_East",
+        "id": 582,
+        "name": "Missouri_Columbia_East",
+        "description": "Missouri_Columbia_East",
         "type": "work",
-        "startLocation": "43.655551, -116.248356",
-        "endLocation": "43.630328, -116.224576",
-        "outFile": "output/Idaho_Boise_East.json"
+        "startLocation": "38.957701, -92.335745",
+        "endLocation": "38.960759, -92.366708",
+        "outFile": "output/Missouri_Columbia_East.json"
     },
     {
-        "id": 243,
-        "name": "Idaho_Boise_South",
-        "description": "Idaho_Boise_South",
+        "id": 583,
+        "name": "Missouri_Columbia_South",
+        "description": "Missouri_Columbia_South",
         "type": "work",
-        "startLocation": "43.646556, -116.203114",
-        "endLocation": "43.624557, -116.205390",
-        "outFile": "output/Idaho_Boise_South.json"
+        "startLocation": "38.958871, -92.317903",
+        "endLocation": "38.943832, -92.306845",
+        "outFile": "output/Missouri_Columbia_South.json"
     },
     {
-        "id": 244,
-        "name": "Idaho_Boise_North",
-        "description": "Idaho_Boise_North",
+        "id": 584,
+        "name": "Missouri_Columbia_North",
+        "description": "Missouri_Columbia_North",
         "type": "work",
-        "startLocation": "43.626611, -116.203407",
-        "endLocation": "43.611611, -116.186000",
-        "outFile": "output/Idaho_Boise_North.json"
+        "startLocation": "38.963844, -92.306828",
+        "endLocation": "38.937706, -92.307014",
+        "outFile": "output/Missouri_Columbia_North.json"
     },
     {
-        "id": 245,
-        "name": "Idaho_Boise_Central",
-        "description": "Idaho_Boise_Central",
+        "id": 585,
+        "name": "Missouri_Columbia_Central",
+        "description": "Missouri_Columbia_Central",
         "type": "work",
-        "startLocation": "43.617048, -116.238496",
-        "endLocation": "43.600845, -116.218596",
-        "outFile": "output/Idaho_Boise_Central.json"
+        "startLocation": "38.933702, -92.390373",
+        "endLocation": "38.931814, -92.368616",
+        "outFile": "output/Missouri_Columbia_Central.json"
     },
     {
-        "id": 246,
-        "name": "Idaho_Nampa_West",
-        "description": "Idaho_Nampa_West",
+        "id": 586,
+        "name": "Montana_Billings_West",
+        "description": "Montana_Billings_West",
         "type": "work",
-        "startLocation": "43.597726, -116.593088",
-        "endLocation": "43.570291, -116.591724",
-        "outFile": "output/Idaho_Nampa_West.json"
+        "startLocation": "45.791404, -108.585768",
+        "endLocation": "45.790052, -108.548695",
+        "outFile": "output/Montana_Billings_West.json"
     },
     {
-        "id": 247,
-        "name": "Idaho_Nampa_East",
-        "description": "Idaho_Nampa_East",
+        "id": 587,
+        "name": "Montana_Billings_East",
+        "description": "Montana_Billings_East",
         "type": "work",
-        "startLocation": "43.579377, -116.568960",
-        "endLocation": "43.558503, -116.550793",
-        "outFile": "output/Idaho_Nampa_East.json"
+        "startLocation": "45.784214, -108.576410",
+        "endLocation": "45.784163, -108.535992",
+        "outFile": "output/Montana_Billings_East.json"
     },
     {
-        "id": 248,
-        "name": "Idaho_Nampa_South",
-        "description": "Idaho_Nampa_South",
+        "id": 588,
+        "name": "Montana_Billings_South",
+        "description": "Montana_Billings_South",
         "type": "work",
-        "startLocation": "43.563506, -116.577956",
-        "endLocation": "43.561449, -116.547372",
-        "outFile": "output/Idaho_Nampa_South.json"
+        "startLocation": "45.781194, -108.527981",
+        "endLocation": "45.780741, -108.564140",
+        "outFile": "output/Montana_Billings_South.json"
     },
     {
-        "id": 249,
-        "name": "Idaho_Nampa_North",
-        "description": "Idaho_Nampa_North",
+        "id": 589,
+        "name": "Montana_Billings_North",
+        "description": "Montana_Billings_North",
         "type": "work",
-        "startLocation": "43.575816, -116.561684",
-        "endLocation": "43.563823, -116.537958",
-        "outFile": "output/Idaho_Nampa_North.json"
+        "startLocation": "45.777016, -108.576410",
+        "endLocation": "45.777167, -108.535704",
+        "outFile": "output/Montana_Billings_North.json"
     },
     {
-        "id": 250,
-        "name": "Idaho_Nampa_Central",
-        "description": "Idaho_Nampa_Central",
+        "id": 590,
+        "name": "Montana_Billings_Central",
+        "description": "Montana_Billings_Central",
         "type": "work",
-        "startLocation": "43.554437, -116.592761",
-        "endLocation": "43.543965, -116.560476",
-        "outFile": "output/Idaho_Nampa_Central.json"
+        "startLocation": "45.762504, -108.566655",
+        "endLocation": "45.767589, -108.542332",
+        "outFile": "output/Montana_Billings_Central.json"
     },
     {
-        "id": 251,
-        "name": "Idaho_Meridian_West",
-        "description": "Idaho_Meridian_West",
+        "id": 591,
+        "name": "Montana_Missoula_West",
+        "description": "Montana_Missoula_West",
         "type": "work",
-        "startLocation": "43.648521, -116.433606",
-        "endLocation": "43.648369, -116.393526",
-        "outFile": "output/Idaho_Meridian_West.json"
+        "startLocation": "46.887145, -114.026866",
+        "endLocation": "46.878052, -114.007825",
+        "outFile": "output/Montana_Missoula_West.json"
     },
     {
-        "id": 252,
-        "name": "Idaho_Meridian_East",
-        "description": "Idaho_Meridian_East",
+        "id": 592,
+        "name": "Montana_Missoula_East",
+        "description": "Montana_Missoula_East",
         "type": "work",
-        "startLocation": "43.633897, -116.413708",
-        "endLocation": "43.633784, -116.374519",
-        "outFile": "output/Idaho_Meridian_East.json"
+        "startLocation": "46.867000, -114.032025",
+        "endLocation": "46.867059, -114.003529",
+        "outFile": "output/Montana_Missoula_East.json"
     },
     {
-        "id": 253,
-        "name": "Idaho_Meridian_South",
-        "description": "Idaho_Meridian_South",
+        "id": 593,
+        "name": "Montana_Missoula_South",
+        "description": "Montana_Missoula_South",
         "type": "work",
-        "startLocation": "43.619209, -116.391570",
-        "endLocation": "43.617951, -116.361553",
-        "outFile": "output/Idaho_Meridian_South.json"
+        "startLocation": "46.859919, -114.007980",
+        "endLocation": "46.875333, -113.997020",
+        "outFile": "output/Montana_Missoula_South.json"
     },
     {
-        "id": 254,
-        "name": "Idaho_Meridian_North",
-        "description": "Idaho_Meridian_North",
+        "id": 594,
+        "name": "Montana_Missoula_North",
+        "description": "Montana_Missoula_North",
         "type": "work",
-        "startLocation": "43.612845, -116.398310",
-        "endLocation": "43.609728, -116.372051",
-        "outFile": "output/Idaho_Meridian_North.json"
+        "startLocation": "46.856010, -114.002590",
+        "endLocation": "46.856588, -114.034144",
+        "outFile": "output/Montana_Missoula_North.json"
     },
     {
-        "id": 255,
-        "name": "Idaho_Meridian_Central",
-        "description": "Idaho_Meridian_Central",
+        "id": 595,
+        "name": "Montana_Missoula_Central",
+        "description": "Montana_Missoula_Central",
         "type": "work",
-        "startLocation": "43.626277, -116.433717",
-        "endLocation": "43.611999, -116.413645",
-        "outFile": "output/Idaho_Meridian_Central.json"
+        "startLocation": "46.861169, -113.997594",
+        "endLocation": "46.848849, -114.002596",
+        "outFile": "output/Montana_Missoula_Central.json"
     },
     {
-        "id": 256,
-        "name": "Idaho_IdahoFalls_West",
-        "description": "Idaho_IdahoFalls_West",
+        "id": 596,
+        "name": "Montana_GreatFalls_West",
+        "description": "Montana_GreatFalls_West",
         "type": "work",
-        "startLocation": "43.513863, -112.037432",
-        "endLocation": "43.510752, -112.003848",
-        "outFile": "output/Idaho_IdahoFalls_West.json"
+        "startLocation": "47.514042, -111.292129",
+        "endLocation": "47.513993, -111.262610",
+        "outFile": "output/Montana_GreatFalls_West.json"
     },
     {
-        "id": 257,
-        "name": "Idaho_IdahoFalls_East",
-        "description": "Idaho_IdahoFalls_East",
+        "id": 597,
+        "name": "Montana_GreatFalls_East",
+        "description": "Montana_GreatFalls_East",
         "type": "work",
-        "startLocation": "43.496952, -112.031066",
-        "endLocation": "43.493660, -112.013150",
-        "outFile": "output/Idaho_IdahoFalls_East.json"
+        "startLocation": "47.507412, -111.269322",
+        "endLocation": "47.507558, -111.304327",
+        "outFile": "output/Montana_GreatFalls_East.json"
     },
     {
-        "id": 258,
-        "name": "Idaho_IdahoFalls_South",
-        "description": "Idaho_IdahoFalls_South",
+        "id": 598,
+        "name": "Montana_GreatFalls_South",
+        "description": "Montana_GreatFalls_South",
         "type": "work",
-        "startLocation": "43.495818, -112.006394",
-        "endLocation": "43.500050, -111.984089",
-        "outFile": "output/Idaho_IdahoFalls_South.json"
+        "startLocation": "47.506388, -111.288665",
+        "endLocation": "47.506290, -111.258857",
+        "outFile": "output/Montana_GreatFalls_South.json"
     },
     {
-        "id": 259,
-        "name": "Idaho_IdahoFalls_North",
-        "description": "Idaho_IdahoFalls_North",
+        "id": 599,
+        "name": "Montana_GreatFalls_North",
+        "description": "Montana_GreatFalls_North",
         "type": "work",
-        "startLocation": "43.485152, -112.046829",
-        "endLocation": "43.478551, -112.026089",
-        "outFile": "output/Idaho_IdahoFalls_North.json"
+        "startLocation": "47.510821, -111.292109",
+        "endLocation": "47.495361, -111.292236",
+        "outFile": "output/Montana_GreatFalls_North.json"
     },
     {
-        "id": 260,
-        "name": "Idaho_IdahoFalls_Central",
-        "description": "Idaho_IdahoFalls_Central",
+        "id": 600,
+        "name": "Montana_GreatFalls_Central",
+        "description": "Montana_GreatFalls_Central",
         "type": "work",
-        "startLocation": "43.485297, -112.023821",
-        "endLocation": "43.468182, -112.004047",
-        "outFile": "output/Idaho_IdahoFalls_Central.json"
+        "startLocation": "47.495192, -111.241771",
+        "endLocation": "47.513844, -111.241520",
+        "outFile": "output/Montana_GreatFalls_Central.json"
     },
     {
-        "id": 261,
-        "name": "Idaho_Pocatello_West",
-        "description": "Idaho_Pocatello_West",
+        "id": 601,
+        "name": "Montana_Bozeman_West",
+        "description": "Montana_Bozeman_West",
         "type": "work",
-        "startLocation": "42.905728, -112.468810",
-        "endLocation": "42.884687, -112.463675",
-        "outFile": "output/Idaho_Pocatello_West.json"
+        "startLocation": "45.693104, -111.056854",
+        "endLocation": "45.689643, -111.031012",
+        "outFile": "output/Montana_Bozeman_West.json"
     },
     {
-        "id": 262,
-        "name": "Idaho_Pocatello_East",
-        "description": "Idaho_Pocatello_East",
+        "id": 602,
+        "name": "Montana_Bozeman_East",
+        "description": "Montana_Bozeman_East",
         "type": "work",
-        "startLocation": "42.899048, -112.446193",
-        "endLocation": "42.891391, -112.441554",
-        "outFile": "output/Idaho_Pocatello_East.json"
+        "startLocation": "45.685731, -111.056798",
+        "endLocation": "45.685587, -111.033718",
+        "outFile": "output/Montana_Bozeman_East.json"
     },
     {
-        "id": 263,
-        "name": "Idaho_Pocatello_South",
-        "description": "Idaho_Pocatello_South",
+        "id": 603,
+        "name": "Montana_Bozeman_South",
+        "description": "Montana_Bozeman_South",
         "type": "work",
-        "startLocation": "42.895078, -112.456209",
-        "endLocation": "42.884176, -112.444038",
-        "outFile": "output/Idaho_Pocatello_South.json"
+        "startLocation": "45.677284, -111.038762",
+        "endLocation": "45.663186, -111.035397",
+        "outFile": "output/Montana_Bozeman_South.json"
     },
     {
-        "id": 264,
-        "name": "Idaho_Pocatello_North",
-        "description": "Idaho_Pocatello_North",
+        "id": 604,
+        "name": "Montana_Bozeman_North",
+        "description": "Montana_Bozeman_North",
         "type": "work",
-        "startLocation": "42.877181, -112.449001",
-        "endLocation": "42.873999, -112.427473",
-        "outFile": "output/Idaho_Pocatello_North.json"
+        "startLocation": "45.675335, -111.042356",
+        "endLocation": "45.674650, -111.067508",
+        "outFile": "output/Montana_Bozeman_North.json"
     },
     {
-        "id": 265,
-        "name": "Idaho_Pocatello_Central",
-        "description": "Idaho_Pocatello_Central",
+        "id": 605,
+        "name": "Montana_Bozeman_Central",
+        "description": "Montana_Bozeman_Central",
         "type": "work",
-        "startLocation": "42.865206, -112.433225",
-        "endLocation": "42.871794, -112.418603",
-        "outFile": "output/Idaho_Pocatello_Central.json"
+        "startLocation": "45.695198, -111.051456",
+        "endLocation": "45.682169, -111.056940",
+        "outFile": "output/Montana_Bozeman_Central.json"
     },
     {
-        "id": 266,
-        "name": "Illinois_Chicago_West",
-        "description": "Illinois_Chicago_West",
+        "id": 606,
+        "name": "Montana_Butte_West",
+        "description": "Montana_Butte_West",
         "type": "work",
-        "startLocation": "41.957025, -87.757275",
-        "endLocation": "41.952728, -87.727573",
-        "outFile": "output/Illinois_Chicago_West.json"
+        "startLocation": "46.008666, -112.549510",
+        "endLocation": "46.010126, -112.531821",
+        "outFile": "output/Montana_Butte_West.json"
     },
     {
-        "id": 267,
-        "name": "Illinois_Chicago_East",
-        "description": "Illinois_Chicago_East",
+        "id": 607,
+        "name": "Montana_Butte_East",
+        "description": "Montana_Butte_East",
         "type": "work",
-        "startLocation": "41.938685, -87.756689",
-        "endLocation": "41.939284, -87.712441",
-        "outFile": "output/Illinois_Chicago_East.json"
+        "startLocation": "46.012388, -112.549401",
+        "endLocation": "46.019520, -112.535651",
+        "outFile": "output/Montana_Butte_East.json"
     },
     {
-        "id": 268,
-        "name": "Illinois_Chicago_South",
-        "description": "Illinois_Chicago_South",
+        "id": 608,
+        "name": "Montana_Butte_South",
+        "description": "Montana_Butte_South",
         "type": "work",
-        "startLocation": "41.911185, -87.765537",
-        "endLocation": "41.908109, -87.726427",
-        "outFile": "output/Illinois_Chicago_South.json"
+        "startLocation": "46.013367, -112.528086",
+        "endLocation": "46.004099, -112.511369",
+        "outFile": "output/Montana_Butte_South.json"
     },
     {
-        "id": 269,
-        "name": "Illinois_Chicago_North",
-        "description": "Illinois_Chicago_North",
+        "id": 609,
+        "name": "Montana_Butte_North",
+        "description": "Montana_Butte_North",
         "type": "work",
-        "startLocation": "41.915993, -87.676353",
-        "endLocation": "41.899712, -87.667282",
-        "outFile": "output/Illinois_Chicago_North.json"
+        "startLocation": "46.006987, -112.549422",
+        "endLocation": "46.003867, -112.527847",
+        "outFile": "output/Montana_Butte_North.json"
     },
     {
-        "id": 270,
-        "name": "Illinois_Chicago_Central",
-        "description": "Illinois_Chicago_Central",
+        "id": 610,
+        "name": "Montana_Butte_Central",
+        "description": "Montana_Butte_Central",
         "type": "work",
-        "startLocation": "41.886820, -87.626311",
-        "endLocation": "41.864076, -87.625731",
-        "outFile": "output/Illinois_Chicago_Central.json"
+        "startLocation": "45.987619, -112.529108",
+        "endLocation": "45.974953, -112.509434",
+        "outFile": "output/Montana_Butte_Central.json"
     },
     {
-        "id": 271,
-        "name": "Illinois_Aurora_West",
-        "description": "Illinois_Aurora_West",
+        "id": 611,
+        "name": "Nebraska_Omaha_West",
+        "description": "Nebraska_Omaha_West",
         "type": "work",
-        "startLocation": "39.744518, -104.833157",
-        "endLocation": "39.743825, -104.810107",
-        "outFile": "output/Illinois_Aurora_West.json"
+        "startLocation": "41.277826, -96.028630",
+        "endLocation": "41.277907, -95.995186",
+        "outFile": "output/Nebraska_Omaha_West.json"
     },
     {
-        "id": 272,
-        "name": "Illinois_Aurora_East",
-        "description": "Illinois_Aurora_East",
+        "id": 612,
+        "name": "Nebraska_Omaha_East",
+        "description": "Nebraska_Omaha_East",
         "type": "work",
-        "startLocation": "39.730689, -104.813876",
-        "endLocation": "39.726185, -104.781837",
-        "outFile": "output/Illinois_Aurora_East.json"
+        "startLocation": "41.270543, -96.045200",
+        "endLocation": "41.270773, -96.004882",
+        "outFile": "output/Nebraska_Omaha_East.json"
     },
     {
-        "id": 273,
-        "name": "Illinois_Aurora_South",
-        "description": "Illinois_Aurora_South",
+        "id": 613,
+        "name": "Nebraska_Omaha_South",
+        "description": "Nebraska_Omaha_South",
         "type": "work",
-        "startLocation": "39.711122, -104.854709",
-        "endLocation": "39.701417, -104.830157",
-        "outFile": "output/Illinois_Aurora_South.json"
+        "startLocation": "41.265019, -95.995084",
+        "endLocation": "41.263254, -96.030706",
+        "outFile": "output/Nebraska_Omaha_South.json"
     },
     {
-        "id": 274,
-        "name": "Illinois_Aurora_North",
-        "description": "Illinois_Aurora_North",
+        "id": 614,
+        "name": "Nebraska_Omaha_North",
+        "description": "Nebraska_Omaha_North",
         "type": "work",
-        "startLocation": "39.713569, -104.825739",
-        "endLocation": "39.700296, -104.790944",
-        "outFile": "output/Illinois_Aurora_North.json"
+        "startLocation": "41.252512, -95.990388",
+        "endLocation": "41.248752, -96.015498",
+        "outFile": "output/Nebraska_Omaha_North.json"
     },
     {
-        "id": 275,
-        "name": "Illinois_Aurora_Central",
-        "description": "Illinois_Aurora_Central",
+        "id": 615,
+        "name": "Nebraska_Omaha_Central",
+        "description": "Nebraska_Omaha_Central",
         "type": "work",
-        "startLocation": "39.732893, -104.875270",
-        "endLocation": "39.753013, -104.858760",
-        "outFile": "output/Illinois_Aurora_Central.json"
+        "startLocation": "41.237883, -96.008340",
+        "endLocation": "41.245298, -95.975690",
+        "outFile": "output/Nebraska_Omaha_Central.json"
     },
     {
-        "id": 276,
-        "name": "Illinois_Rockford_West",
-        "description": "Illinois_Rockford_West",
+        "id": 616,
+        "name": "Nebraska_Lincoln_West",
+        "description": "Nebraska_Lincoln_West",
         "type": "work",
-        "startLocation": "42.290511, -89.088278",
-        "endLocation": "42.288843, -89.050497",
-        "outFile": "output/Illinois_Rockford_West.json"
+        "startLocation": "40.837296, -96.672813",
+        "endLocation": "40.835285, -96.638909",
+        "outFile": "output/Nebraska_Lincoln_West.json"
     },
     {
-        "id": 277,
-        "name": "Illinois_Rockford_East",
-        "description": "Illinois_Rockford_East",
+        "id": 617,
+        "name": "Nebraska_Lincoln_East",
+        "description": "Nebraska_Lincoln_East",
         "type": "work",
-        "startLocation": "42.282224, -89.106325",
-        "endLocation": "42.286656, -89.071312",
-        "outFile": "output/Illinois_Rockford_East.json"
+        "startLocation": "40.828067, -96.644104",
+        "endLocation": "40.828007, -96.682100",
+        "outFile": "output/Nebraska_Lincoln_East.json"
     },
     {
-        "id": 278,
-        "name": "Illinois_Rockford_South",
-        "description": "Illinois_Rockford_South",
+        "id": 618,
+        "name": "Nebraska_Lincoln_South",
+        "description": "Nebraska_Lincoln_South",
         "type": "work",
-        "startLocation": "42.273988, -89.078238",
-        "endLocation": "42.277096, -89.040806",
-        "outFile": "output/Illinois_Rockford_South.json"
+        "startLocation": "40.827072, -96.630516",
+        "endLocation": "40.820826, -96.661078",
+        "outFile": "output/Nebraska_Lincoln_South.json"
     },
     {
-        "id": 279,
-        "name": "Illinois_Rockford_North",
-        "description": "Illinois_Rockford_North",
+        "id": 619,
+        "name": "Nebraska_Lincoln_North",
+        "description": "Nebraska_Lincoln_North",
         "type": "work",
-        "startLocation": "42.277251, -89.116053",
-        "endLocation": "42.264830, -89.080816",
-        "outFile": "output/Illinois_Rockford_North.json"
+        "startLocation": "40.799284, -96.713011",
+        "endLocation": "40.799014, -96.682314",
+        "outFile": "output/Nebraska_Lincoln_North.json"
     },
     {
-        "id": 280,
-        "name": "Illinois_Rockford_Central",
-        "description": "Illinois_Rockford_Central",
+        "id": 620,
+        "name": "Nebraska_Lincoln_Central",
+        "description": "Nebraska_Lincoln_Central",
         "type": "work",
-        "startLocation": "42.263337, -89.116084",
-        "endLocation": "42.259778, -89.080838",
-        "outFile": "output/Illinois_Rockford_Central.json"
+        "startLocation": "40.798955, -96.663307",
+        "endLocation": "40.809837, -96.642255",
+        "outFile": "output/Nebraska_Lincoln_Central.json"
     },
     {
-        "id": 281,
-        "name": "Illinois_Joliet_West",
-        "description": "Illinois_Joliet_West",
+        "id": 621,
+        "name": "Nebraska_Bellevue_West",
+        "description": "Nebraska_Bellevue_West",
         "type": "work",
-        "startLocation": "41.543647, -88.122197",
-        "endLocation": "41.546424, -88.088134",
-        "outFile": "output/Illinois_Joliet_West.json"
+        "startLocation": "41.176522, -95.933506",
+        "endLocation": "41.166009, -95.916328",
+        "outFile": "output/Nebraska_Bellevue_West.json"
     },
     {
-        "id": 282,
-        "name": "Illinois_Joliet_East",
-        "description": "Illinois_Joliet_East",
+        "id": 622,
+        "name": "Nebraska_Bellevue_East",
+        "description": "Nebraska_Bellevue_East",
         "type": "work",
-        "startLocation": "41.537501, -88.132968",
-        "endLocation": "41.538100, -88.088973",
-        "outFile": "output/Illinois_Joliet_East.json"
+        "startLocation": "41.160196, -95.920658",
+        "endLocation": "41.141726, -95.909584",
+        "outFile": "output/Nebraska_Bellevue_East.json"
     },
     {
-        "id": 283,
-        "name": "Illinois_Joliet_South",
-        "description": "Illinois_Joliet_South",
+        "id": 623,
+        "name": "Nebraska_Bellevue_South",
+        "description": "Nebraska_Bellevue_South",
         "type": "work",
-        "startLocation": "41.530506, -88.137779",
-        "endLocation": "41.529430, -88.103333",
-        "outFile": "output/Illinois_Joliet_South.json"
+        "startLocation": "41.142451, -95.907305",
+        "endLocation": "41.160079, -95.909098",
+        "outFile": "output/Nebraska_Bellevue_South.json"
     },
     {
-        "id": 284,
-        "name": "Illinois_Joliet_North",
-        "description": "Illinois_Joliet_North",
+        "id": 624,
+        "name": "Nebraska_Bellevue_North",
+        "description": "Nebraska_Bellevue_North",
         "type": "work",
-        "startLocation": "41.524715, -88.120027",
-        "endLocation": "41.523547, -88.092323",
-        "outFile": "output/Illinois_Joliet_North.json"
+        "startLocation": "41.149215, -95.904058",
+        "endLocation": "41.136538, -95.893635",
+        "outFile": "output/Nebraska_Bellevue_North.json"
     },
     {
-        "id": 285,
-        "name": "Illinois_Joliet_Central",
-        "description": "Illinois_Joliet_Central",
+        "id": 625,
+        "name": "Nebraska_Bellevue_Central",
+        "description": "Nebraska_Bellevue_Central",
         "type": "work",
-        "startLocation": "41.537363, -88.070433",
-        "endLocation": "41.520693, -88.072071",
-        "outFile": "output/Illinois_Joliet_Central.json"
+        "startLocation": "41.146823, -95.932720",
+        "endLocation": "41.146293, -95.915308",
+        "outFile": "output/Nebraska_Bellevue_Central.json"
     },
     {
-        "id": 286,
-        "name": "Illinois_Naperville_West",
-        "description": "Illinois_Naperville_West",
+        "id": 626,
+        "name": "Nebraska_GrandIsland_West",
+        "description": "Nebraska_GrandIsland_West",
         "type": "work",
-        "startLocation": "41.770822, -88.182042",
-        "endLocation": "41.772975, -88.149541",
-        "outFile": "output/Illinois_Naperville_West.json"
+        "startLocation": "40.938620, -98.397647",
+        "endLocation": "40.938565, -98.359034",
+        "outFile": "output/Nebraska_GrandIsland_West.json"
     },
     {
-        "id": 287,
-        "name": "Illinois_Naperville_East",
-        "description": "Illinois_Naperville_East",
+        "id": 627,
+        "name": "Nebraska_GrandIsland_East",
+        "description": "Nebraska_GrandIsland_East",
         "type": "work",
-        "startLocation": "41.767964, -88.169685",
-        "endLocation": "41.771895, -88.143857",
-        "outFile": "output/Illinois_Naperville_East.json"
+        "startLocation": "40.931586, -98.368561",
+        "endLocation": "40.936274, -98.339527",
+        "outFile": "output/Nebraska_GrandIsland_East.json"
     },
     {
-        "id": 288,
-        "name": "Illinois_Naperville_South",
-        "description": "Illinois_Naperville_South",
+        "id": 628,
+        "name": "Nebraska_GrandIsland_South",
+        "description": "Nebraska_GrandIsland_South",
         "type": "work",
-        "startLocation": "41.767936, -88.149788",
-        "endLocation": "41.756950, -88.139235",
-        "outFile": "output/Illinois_Naperville_South.json"
+        "startLocation": "40.929012, -98.340643",
+        "endLocation": "40.924213, -98.368023",
+        "outFile": "output/Nebraska_GrandIsland_South.json"
     },
     {
-        "id": 289,
-        "name": "Illinois_Naperville_North",
-        "description": "Illinois_Naperville_North",
+        "id": 629,
+        "name": "Nebraska_GrandIsland_North",
+        "description": "Nebraska_GrandIsland_North",
         "type": "work",
-        "startLocation": "41.750201, -88.164204",
-        "endLocation": "41.743892, -88.147044",
-        "outFile": "output/Illinois_Naperville_North.json"
+        "startLocation": "40.924537, -98.378408",
+        "endLocation": "40.902562, -98.378344",
+        "outFile": "output/Nebraska_GrandIsland_North.json"
     },
     {
-        "id": 290,
-        "name": "Illinois_Naperville_Central",
-        "description": "Illinois_Naperville_Central",
+        "id": 630,
+        "name": "Nebraska_GrandIsland_Central",
+        "description": "Nebraska_GrandIsland_Central",
         "type": "work",
-        "startLocation": "41.774785, -88.195891",
-        "endLocation": "41.749590, -88.197603",
-        "outFile": "output/Illinois_Naperville_Central.json"
+        "startLocation": "40.911176, -98.353979",
+        "endLocation": "40.916458, -98.320724",
+        "outFile": "output/Nebraska_GrandIsland_Central.json"
     },
     {
-        "id": 291,
-        "name": "Indiana_Indianapolis_West",
-        "description": "Indiana_Indianapolis_West",
+        "id": 631,
+        "name": "Nebraska_Kearney_West",
+        "description": "Nebraska_Kearney_West",
         "type": "work",
-        "startLocation": "39.790388, -86.177059",
-        "endLocation": "39.786615, -86.147683",
-        "outFile": "output/Indiana_Indianapolis_West.json"
+        "startLocation": "40.714017, -99.102962",
+        "endLocation": "40.698693, -99.081656",
+        "outFile": "output/Nebraska_Kearney_West.json"
     },
     {
-        "id": 292,
-        "name": "Indiana_Indianapolis_East",
-        "description": "Indiana_Indianapolis_East",
+        "id": 632,
+        "name": "Nebraska_Kearney_East",
+        "description": "Nebraska_Kearney_East",
         "type": "work",
-        "startLocation": "39.797318, -86.160261",
-        "endLocation": "39.803381, -86.131052",
-        "outFile": "output/Indiana_Indianapolis_East.json"
+        "startLocation": "40.706426, -99.076137",
+        "endLocation": "40.710566, -99.103023",
+        "outFile": "output/Nebraska_Kearney_East.json"
     },
     {
-        "id": 293,
-        "name": "Indiana_Indianapolis_South",
-        "description": "Indiana_Indianapolis_South",
+        "id": 633,
+        "name": "Nebraska_Kearney_South",
+        "description": "Nebraska_Kearney_South",
         "type": "work",
-        "startLocation": "39.770490, -86.163391",
-        "endLocation": "39.770468, -86.130642",
-        "outFile": "output/Indiana_Indianapolis_South.json"
+        "startLocation": "40.704723, -99.088275",
+        "endLocation": "40.685245, -99.088795",
+        "outFile": "output/Nebraska_Kearney_South.json"
     },
     {
-        "id": 294,
-        "name": "Indiana_Indianapolis_North",
-        "description": "Indiana_Indianapolis_North",
+        "id": 634,
+        "name": "Nebraska_Kearney_North",
+        "description": "Nebraska_Kearney_North",
         "type": "work",
-        "startLocation": "39.751038, -86.196727",
-        "endLocation": "39.759227, -86.169569",
-        "outFile": "output/Indiana_Indianapolis_North.json"
+        "startLocation": "40.681917, -99.082160",
+        "endLocation": "40.702155, -99.081650",
+        "outFile": "output/Nebraska_Kearney_North.json"
     },
     {
-        "id": 295,
-        "name": "Indiana_Indianapolis_Central",
-        "description": "Indiana_Indianapolis_Central",
+        "id": 635,
+        "name": "Nebraska_Kearney_Central",
+        "description": "Nebraska_Kearney_Central",
         "type": "work",
-        "startLocation": "39.768105, -86.135294",
-        "endLocation": "39.760063, -86.099690",
-        "outFile": "output/Indiana_Indianapolis_Central.json"
+        "startLocation": "40.705250, -99.074607",
+        "endLocation": "40.687064, -99.071035",
+        "outFile": "output/Nebraska_Kearney_Central.json"
     },
     {
-        "id": 296,
-        "name": "Indiana_FortWayne_West",
-        "description": "Indiana_FortWayne_West",
+        "id": 636,
+        "name": "Nevada_LasVegas_West",
+        "description": "Nevada_LasVegas_West",
         "type": "work",
-        "startLocation": "41.064113, -85.152327",
-        "endLocation": "41.065105, -85.114093",
-        "outFile": "output/Indiana_FortWayne_West.json"
+        "startLocation": "36.180826, -115.080375",
+        "endLocation": "36.182277, -115.112067",
+        "outFile": "output/Nevada_LasVegas_West.json"
     },
     {
-        "id": 297,
-        "name": "Indiana_FortWayne_East",
-        "description": "Indiana_FortWayne_East",
+        "id": 637,
+        "name": "Nevada_LasVegas_East",
+        "description": "Nevada_LasVegas_East",
         "type": "work",
-        "startLocation": "41.060644, -85.137140",
-        "endLocation": "41.060688, -85.107845",
-        "outFile": "output/Indiana_FortWayne_East.json"
+        "startLocation": "36.188263, -115.103098",
+        "endLocation": "36.188546, -115.070788",
+        "outFile": "output/Nevada_LasVegas_East.json"
     },
     {
-        "id": 298,
-        "name": "Indiana_FortWayne_South",
-        "description": "Indiana_FortWayne_South",
+        "id": 638,
+        "name": "Nevada_LasVegas_South",
+        "description": "Nevada_LasVegas_South",
         "type": "work",
-        "startLocation": "41.067596, -85.180701",
-        "endLocation": "41.067814, -85.145301",
-        "outFile": "output/Indiana_FortWayne_South.json"
+        "startLocation": "36.166450, -115.125080",
+        "endLocation": "36.166204, -115.089283",
+        "outFile": "output/Nevada_LasVegas_South.json"
     },
     {
-        "id": 299,
-        "name": "Indiana_FortWayne_North",
-        "description": "Indiana_FortWayne_North",
+        "id": 639,
+        "name": "Nevada_LasVegas_North",
+        "description": "Nevada_LasVegas_North",
         "type": "work",
-        "startLocation": "41.076948, -85.169235",
-        "endLocation": "41.072377, -85.145448",
-        "outFile": "output/Indiana_FortWayne_North.json"
+        "startLocation": "36.159029, -115.183448",
+        "endLocation": "36.158997, -115.153682",
+        "outFile": "output/Nevada_LasVegas_North.json"
     },
     {
-        "id": 300,
-        "name": "Indiana_FortWayne_Central",
-        "description": "Indiana_FortWayne_Central",
+        "id": 640,
+        "name": "Nevada_LasVegas_Central",
+        "description": "Nevada_LasVegas_Central",
         "type": "work",
-        "startLocation": "41.079477, -85.167621",
-        "endLocation": "41.080020, -85.136662",
-        "outFile": "output/Indiana_FortWayne_Central.json"
+        "startLocation": "36.136498, -115.161976",
+        "endLocation": "36.163527, -115.144209",
+        "outFile": "output/Nevada_LasVegas_Central.json"
     },
     {
-        "id": 301,
-        "name": "Indiana_Evansville_West",
-        "description": "Indiana_Evansville_West",
+        "id": 641,
+        "name": "Nevada_Henderson_West",
+        "description": "Nevada_Henderson_West",
         "type": "work",
-        "startLocation": "37.984306, -87.600484",
-        "endLocation": "37.980290, -87.575031",
-        "outFile": "output/Indiana_Evansville_West.json"
+        "startLocation": "36.012601, -114.965431",
+        "endLocation": "36.027276, -114.949901",
+        "outFile": "output/Nevada_Henderson_West.json"
     },
     {
-        "id": 302,
-        "name": "Indiana_Evansville_East",
-        "description": "Indiana_Evansville_East",
+        "id": 642,
+        "name": "Nevada_Henderson_East",
+        "description": "Nevada_Henderson_East",
         "type": "work",
-        "startLocation": "37.980142, -87.563895",
-        "endLocation": "37.981356, -87.543102",
-        "outFile": "output/Indiana_Evansville_East.json"
+        "startLocation": "36.049104, -114.949828",
+        "endLocation": "36.029144, -114.963181",
+        "outFile": "output/Nevada_Henderson_East.json"
     },
     {
-        "id": 303,
-        "name": "Indiana_Evansville_South",
-        "description": "Indiana_Evansville_South",
+        "id": 643,
+        "name": "Nevada_Henderson_South",
+        "description": "Nevada_Henderson_South",
         "type": "work",
-        "startLocation": "37.970482, -87.573293",
-        "endLocation": "37.973514, -87.544921",
-        "outFile": "output/Indiana_Evansville_South.json"
+        "startLocation": "36.048901, -114.959082",
+        "endLocation": "36.032841, -114.969722",
+        "outFile": "output/Nevada_Henderson_South.json"
     },
     {
-        "id": 304,
-        "name": "Indiana_Evansville_North",
-        "description": "Indiana_Evansville_North",
+        "id": 644,
+        "name": "Nevada_Henderson_North",
+        "description": "Nevada_Henderson_North",
         "type": "work",
-        "startLocation": "37.964912, -87.570356",
-        "endLocation": "37.970007, -87.547624",
-        "outFile": "output/Indiana_Evansville_North.json"
+        "startLocation": "36.051030, -114.992061",
+        "endLocation": "36.050249, -114.963288",
+        "outFile": "output/Nevada_Henderson_North.json"
     },
     {
-        "id": 305,
-        "name": "Indiana_Evansville_Central",
-        "description": "Indiana_Evansville_Central",
+        "id": 645,
+        "name": "Nevada_Henderson_Central",
+        "description": "Nevada_Henderson_Central",
         "type": "work",
-        "startLocation": "37.963794, -87.565990",
-        "endLocation": "37.962730, -87.529596",
-        "outFile": "output/Indiana_Evansville_Central.json"
+        "startLocation": "36.063558, -114.949721",
+        "endLocation": "36.036309, -114.949802",
+        "outFile": "output/Nevada_Henderson_Central.json"
     },
     {
-        "id": 306,
-        "name": "Indiana_SouthBend_West",
-        "description": "Indiana_SouthBend_West",
+        "id": 646,
+        "name": "Nevada_Reno_West",
+        "description": "Nevada_Reno_West",
         "type": "work",
-        "startLocation": "41.693278, -86.262278",
-        "endLocation": "41.688381, -86.235482",
-        "outFile": "output/Indiana_SouthBend_West.json"
+        "startLocation": "39.544361, -119.840884",
+        "endLocation": "39.530231, -119.844916",
+        "outFile": "output/Nevada_Reno_West.json"
     },
     {
-        "id": 307,
-        "name": "Indiana_SouthBend_East",
-        "description": "Indiana_SouthBend_East",
+        "id": 647,
+        "name": "Nevada_Reno_East",
+        "description": "Nevada_Reno_East",
         "type": "work",
-        "startLocation": "41.680557, -86.255364",
-        "endLocation": "41.685686, -86.236576",
-        "outFile": "output/Indiana_SouthBend_East.json"
+        "startLocation": "39.525050, -119.835749",
+        "endLocation": "39.531152, -119.807746",
+        "outFile": "output/Nevada_Reno_East.json"
     },
     {
-        "id": 308,
-        "name": "Indiana_SouthBend_South",
-        "description": "Indiana_SouthBend_South",
+        "id": 648,
+        "name": "Nevada_Reno_South",
+        "description": "Nevada_Reno_South",
         "type": "work",
-        "startLocation": "41.678881, -86.284927",
-        "endLocation": "41.679001, -86.259457",
-        "outFile": "output/Indiana_SouthBend_South.json"
+        "startLocation": "39.526229, -119.817223",
+        "endLocation": "39.509150, -119.817193",
+        "outFile": "output/Nevada_Reno_South.json"
     },
     {
-        "id": 309,
-        "name": "Indiana_SouthBend_North",
-        "description": "Indiana_SouthBend_North",
+        "id": 649,
+        "name": "Nevada_Reno_North",
+        "description": "Nevada_Reno_North",
         "type": "work",
-        "startLocation": "41.676500, -86.236844",
-        "endLocation": "41.671987, -86.202689",
-        "outFile": "output/Indiana_SouthBend_North.json"
+        "startLocation": "39.529908, -119.814280",
+        "endLocation": "39.509793, -119.805205",
+        "outFile": "output/Nevada_Reno_North.json"
     },
     {
-        "id": 310,
-        "name": "Indiana_SouthBend_Central",
-        "description": "Indiana_SouthBend_Central",
+        "id": 650,
+        "name": "Nevada_Reno_Central",
+        "description": "Nevada_Reno_Central",
         "type": "work",
-        "startLocation": "41.666693, -86.273491",
-        "endLocation": "41.658095, -86.242696",
-        "outFile": "output/Indiana_SouthBend_Central.json"
+        "startLocation": "39.512893, -119.803172",
+        "endLocation": "39.527183, -119.803011",
+        "outFile": "output/Nevada_Reno_Central.json"
     },
     {
-        "id": 311,
-        "name": "Indiana_Carmel_West",
-        "description": "Indiana_Carmel_West",
+        "id": 651,
+        "name": "Nevada_NorthLasVegas_West",
+        "description": "Nevada_NorthLasVegas_West",
         "type": "work",
-        "startLocation": "39.981003, -86.141041",
-        "endLocation": "39.977249, -86.118865",
-        "outFile": "output/Indiana_Carmel_West.json"
+        "startLocation": "36.193733, -115.131217",
+        "endLocation": "36.209325, -115.107695",
+        "outFile": "output/Nevada_NorthLasVegas_West.json"
     },
     {
-        "id": 312,
-        "name": "Indiana_Carmel_East",
-        "description": "Indiana_Carmel_East",
+        "id": 652,
+        "name": "Nevada_NorthLasVegas_East",
+        "description": "Nevada_NorthLasVegas_East",
         "type": "work",
-        "startLocation": "39.965377, -86.151717",
-        "endLocation": "39.971153, -86.131232",
-        "outFile": "output/Indiana_Carmel_East.json"
+        "startLocation": "36.214143, -115.120811",
+        "endLocation": "36.203230, -115.147400",
+        "outFile": "output/Nevada_NorthLasVegas_East.json"
     },
     {
-        "id": 313,
-        "name": "Indiana_Carmel_South",
-        "description": "Indiana_Carmel_South",
+        "id": 653,
+        "name": "Nevada_NorthLasVegas_South",
+        "description": "Nevada_NorthLasVegas_South",
         "type": "work",
-        "startLocation": "39.965261, -86.140975",
-        "endLocation": "39.960621, -86.117957",
-        "outFile": "output/Indiana_Carmel_South.json"
+        "startLocation": "36.217686, -115.188116",
+        "endLocation": "36.217780, -115.156632",
+        "outFile": "output/Nevada_NorthLasVegas_South.json"
     },
     {
-        "id": 314,
-        "name": "Indiana_Carmel_North",
-        "description": "Indiana_Carmel_North",
+        "id": 654,
+        "name": "Nevada_NorthLasVegas_North",
+        "description": "Nevada_NorthLasVegas_North",
         "type": "work",
-        "startLocation": "39.956473, -86.145928",
-        "endLocation": "39.958429, -86.109123",
-        "outFile": "output/Indiana_Carmel_North.json"
+        "startLocation": "36.225180, -115.133916",
+        "endLocation": "36.225015, -115.170662",
+        "outFile": "output/Nevada_NorthLasVegas_North.json"
     },
     {
-        "id": 315,
-        "name": "Indiana_Carmel_Central",
-        "description": "Indiana_Carmel_Central",
+        "id": 655,
+        "name": "Nevada_NorthLasVegas_Central",
+        "description": "Nevada_NorthLasVegas_Central",
         "type": "work",
-        "startLocation": "39.986803, -86.089474",
-        "endLocation": "39.968246, -86.090161",
-        "outFile": "output/Indiana_Carmel_Central.json"
+        "startLocation": "36.241816, -115.116820",
+        "endLocation": "36.217888, -115.127088",
+        "outFile": "output/Nevada_NorthLasVegas_Central.json"
     },
     {
-        "id": 316,
-        "name": "Iowa_DesMoines_West",
-        "description": "Iowa_DesMoines_West",
+        "id": 656,
+        "name": "Nevada_Sparks_West",
+        "description": "Nevada_Sparks_West",
         "type": "work",
-        "startLocation": "41.622306, -93.619885",
-        "endLocation": "41.628764, -93.590739",
-        "outFile": "output/Iowa_DesMoines_West.json"
+        "startLocation": "39.527643, -119.771457",
+        "endLocation": "39.527485, -119.743405",
+        "outFile": "output/Nevada_Sparks_West.json"
     },
     {
-        "id": 317,
-        "name": "Iowa_DesMoines_East",
-        "description": "Iowa_DesMoines_East",
+        "id": 657,
+        "name": "Nevada_Sparks_East",
+        "description": "Nevada_Sparks_East",
         "type": "work",
-        "startLocation": "41.600822, -93.626952",
-        "endLocation": "41.604043, -93.625752",
-        "outFile": "output/Iowa_DesMoines_East.json"
+        "startLocation": "39.521723, -119.743293",
+        "endLocation": "39.523409, -119.764535",
+        "outFile": "output/Nevada_Sparks_East.json"
     },
     {
-        "id": 318,
-        "name": "Iowa_DesMoines_South",
-        "description": "Iowa_DesMoines_South",
+        "id": 658,
+        "name": "Nevada_Sparks_South",
+        "description": "Nevada_Sparks_South",
         "type": "work",
-        "startLocation": "41.611320, -93.703735",
-        "endLocation": "41.611318, -93.672998",
-        "outFile": "output/Iowa_DesMoines_South.json"
+        "startLocation": "39.537569, -119.767114",
+        "endLocation": "39.541968, -119.743202",
+        "outFile": "output/Nevada_Sparks_South.json"
     },
     {
-        "id": 319,
-        "name": "Iowa_DesMoines_North",
-        "description": "Iowa_DesMoines_North",
+        "id": 659,
+        "name": "Nevada_Sparks_North",
+        "description": "Nevada_Sparks_North",
         "type": "work",
-        "startLocation": "41.602136, -93.700115",
-        "endLocation": "41.602142, -93.669869",
-        "outFile": "output/Iowa_DesMoines_North.json"
+        "startLocation": "39.558394, -119.752427",
+        "endLocation": "39.543902, -119.752701",
+        "outFile": "output/Nevada_Sparks_North.json"
     },
     {
-        "id": 320,
-        "name": "Iowa_DesMoines_Central",
-        "description": "Iowa_DesMoines_Central",
+        "id": 660,
+        "name": "Nevada_Sparks_Central",
+        "description": "Nevada_Sparks_Central",
         "type": "work",
-        "startLocation": "41.583639, -93.587148",
-        "endLocation": "41.579947, -93.558372",
-        "outFile": "output/Iowa_DesMoines_Central.json"
+        "startLocation": "39.580312, -119.718016",
+        "endLocation": "39.590491, -119.729636",
+        "outFile": "output/Nevada_Sparks_Central.json"
     },
     {
-        "id": 321,
-        "name": "Iowa_CedarRapids_West",
-        "description": "Iowa_CedarRapids_West",
+        "id": 661,
+        "name": "NewHampshire_Manchester_West",
+        "description": "NewHampshire_Manchester_West",
         "type": "work",
-        "startLocation": "41.980370, -91.725627",
-        "endLocation": "41.980637, -91.686237",
-        "outFile": "output/Iowa_CedarRapids_West.json"
+        "startLocation": "42.995061, -71.460891",
+        "endLocation": "42.995571, -71.441439",
+        "outFile": "output/NewHampshire_Manchester_West.json"
     },
     {
-        "id": 322,
-        "name": "Iowa_CedarRapids_East",
-        "description": "Iowa_CedarRapids_East",
+        "id": 662,
+        "name": "NewHampshire_Manchester_East",
+        "description": "NewHampshire_Manchester_East",
         "type": "work",
-        "startLocation": "41.978322, -91.725627",
-        "endLocation": "41.977942, -91.676939",
-        "outFile": "output/Iowa_CedarRapids_East.json"
+        "startLocation": "42.988250, -71.431442",
+        "endLocation": "42.990961, -71.455369",
+        "outFile": "output/NewHampshire_Manchester_East.json"
     },
     {
-        "id": 323,
-        "name": "Iowa_CedarRapids_South",
-        "description": "Iowa_CedarRapids_South",
+        "id": 663,
+        "name": "NewHampshire_Manchester_South",
+        "description": "NewHampshire_Manchester_South",
         "type": "work",
-        "startLocation": "41.970890, -91.689176",
-        "endLocation": "41.977972, -91.653810",
-        "outFile": "output/Iowa_CedarRapids_South.json"
+        "startLocation": "42.987565, -71.433338",
+        "endLocation": "42.987243, -71.460695",
+        "outFile": "output/NewHampshire_Manchester_South.json"
     },
     {
-        "id": 324,
-        "name": "Iowa_CedarRapids_North",
-        "description": "Iowa_CedarRapids_North",
+        "id": 664,
+        "name": "NewHampshire_Manchester_North",
+        "description": "NewHampshire_Manchester_North",
         "type": "work",
-        "startLocation": "41.978753, -91.668678",
-        "endLocation": "41.992780, -91.644297",
-        "outFile": "output/Iowa_CedarRapids_North.json"
+        "startLocation": "42.981345, -71.461908",
+        "endLocation": "42.981340, -71.434310",
+        "outFile": "output/NewHampshire_Manchester_North.json"
     },
     {
-        "id": 325,
-        "name": "Iowa_CedarRapids_Central",
-        "description": "Iowa_CedarRapids_Central",
+        "id": 665,
+        "name": "NewHampshire_Manchester_Central",
+        "description": "NewHampshire_Manchester_Central",
         "type": "work",
-        "startLocation": "41.962559, -91.658570",
-        "endLocation": "41.969675, -91.629731",
-        "outFile": "output/Iowa_CedarRapids_Central.json"
+        "startLocation": "42.973958, -71.427492",
+        "endLocation": "42.972795, -71.454660",
+        "outFile": "output/NewHampshire_Manchester_Central.json"
     },
     {
-        "id": 326,
-        "name": "Iowa_Davenport_West",
-        "description": "Iowa_Davenport_West",
+        "id": 666,
+        "name": "NewHampshire_Nashua_West",
+        "description": "NewHampshire_Nashua_West",
         "type": "work",
-        "startLocation": "41.560069, -90.563568",
-        "endLocation": "41.554800, -90.527256",
-        "outFile": "output/Iowa_Davenport_West.json"
+        "startLocation": "42.774615, -71.488342",
+        "endLocation": "42.766166, -71.470173",
+        "outFile": "output/NewHampshire_Nashua_West.json"
     },
     {
-        "id": 327,
-        "name": "Iowa_Davenport_East",
-        "description": "Iowa_Davenport_East",
+        "id": 667,
+        "name": "NewHampshire_Nashua_East",
+        "description": "NewHampshire_Nashua_East",
         "type": "work",
-        "startLocation": "41.555595, -90.600634",
-        "endLocation": "41.554785, -90.569598",
-        "outFile": "output/Iowa_Davenport_East.json"
+        "startLocation": "42.767759, -71.467035",
+        "endLocation": "42.784906, -71.467470",
+        "outFile": "output/NewHampshire_Nashua_East.json"
     },
     {
-        "id": 328,
-        "name": "Iowa_Davenport_South",
-        "description": "Iowa_Davenport_South",
+        "id": 668,
+        "name": "NewHampshire_Nashua_South",
+        "description": "NewHampshire_Nashua_South",
         "type": "work",
-        "startLocation": "41.545540, -90.591222",
-        "endLocation": "41.545948, -90.557994",
-        "outFile": "output/Iowa_Davenport_South.json"
+        "startLocation": "42.764909, -71.473372",
+        "endLocation": "42.763808, -71.456997",
+        "outFile": "output/NewHampshire_Nashua_South.json"
     },
     {
-        "id": 329,
-        "name": "Iowa_Davenport_North",
-        "description": "Iowa_Davenport_North",
+        "id": 669,
+        "name": "NewHampshire_Nashua_North",
+        "description": "NewHampshire_Nashua_North",
         "type": "work",
-        "startLocation": "41.540089, -90.563475",
-        "endLocation": "41.536369, -90.525479",
-        "outFile": "output/Iowa_Davenport_North.json"
+        "startLocation": "42.762726, -71.466140",
+        "endLocation": "42.760866, -71.446947",
+        "outFile": "output/NewHampshire_Nashua_North.json"
     },
     {
-        "id": 330,
-        "name": "Iowa_Davenport_Central",
-        "description": "Iowa_Davenport_Central",
+        "id": 670,
+        "name": "NewHampshire_Nashua_Central",
+        "description": "NewHampshire_Nashua_Central",
         "type": "work",
-        "startLocation": "41.521163, -90.611014",
-        "endLocation": "41.521360, -90.569662",
-        "outFile": "output/Iowa_Davenport_Central.json"
+        "startLocation": "42.740700, -71.461513",
+        "endLocation": "42.755052, -71.462613",
+        "outFile": "output/NewHampshire_Nashua_Central.json"
     },
     {
-        "id": 331,
-        "name": "Iowa_SiouxCity_West",
-        "description": "Iowa_SiouxCity_West",
+        "id": 671,
+        "name": "NewHampshire_Concord_West",
+        "description": "NewHampshire_Concord_West",
         "type": "work",
-        "startLocation": "42.507853, -96.455693",
-        "endLocation": "42.510504, -96.421213",
-        "outFile": "output/Iowa_SiouxCity_West.json"
+        "startLocation": "43.208849, -71.528234",
+        "endLocation": "43.214898, -71.509888",
+        "outFile": "output/NewHampshire_Concord_West.json"
     },
     {
-        "id": 332,
-        "name": "Iowa_SiouxCity_East",
-        "description": "Iowa_SiouxCity_East",
+        "id": 672,
+        "name": "NewHampshire_Concord_East",
+        "description": "NewHampshire_Concord_East",
         "type": "work",
-        "startLocation": "42.500741, -96.454729",
-        "endLocation": "42.498245, -96.425394",
-        "outFile": "output/Iowa_SiouxCity_East.json"
+        "startLocation": "43.217994, -71.506156",
+        "endLocation": "43.234056, -71.523066",
+        "outFile": "output/NewHampshire_Concord_East.json"
     },
     {
-        "id": 333,
-        "name": "Iowa_SiouxCity_South",
-        "description": "Iowa_SiouxCity_South",
+        "id": 673,
+        "name": "NewHampshire_Concord_South",
+        "description": "NewHampshire_Concord_South",
         "type": "work",
-        "startLocation": "42.518776, -96.415568",
-        "endLocation": "42.506214, -96.418114",
-        "outFile": "output/Iowa_SiouxCity_South.json"
+        "startLocation": "43.212038, -71.514060",
+        "endLocation": "43.213864, -71.485039",
+        "outFile": "output/NewHampshire_Concord_South.json"
     },
     {
-        "id": 334,
-        "name": "Iowa_SiouxCity_North",
-        "description": "Iowa_SiouxCity_North",
+        "id": 674,
+        "name": "NewHampshire_Concord_North",
+        "description": "NewHampshire_Concord_North",
         "type": "work",
-        "startLocation": "42.506127, -96.425445",
-        "endLocation": "42.498570, -96.402009",
-        "outFile": "output/Iowa_SiouxCity_North.json"
+        "startLocation": "43.188960, -71.498800",
+        "endLocation": "43.208479, -71.513283",
+        "outFile": "output/NewHampshire_Concord_North.json"
     },
     {
-        "id": 335,
-        "name": "Iowa_SiouxCity_Central",
-        "description": "Iowa_SiouxCity_Central",
+        "id": 675,
+        "name": "NewHampshire_Concord_Central",
+        "description": "NewHampshire_Concord_Central",
         "type": "work",
-        "startLocation": "42.516086, -96.369792",
-        "endLocation": "42.496479, -96.385909",
-        "outFile": "output/Iowa_SiouxCity_Central.json"
+        "startLocation": "43.187836, -71.555082",
+        "endLocation": "43.200901, -71.539076",
+        "outFile": "output/NewHampshire_Concord_Central.json"
     },
     {
-        "id": 336,
-        "name": "Iowa_Waterloo_West",
-        "description": "Iowa_Waterloo_West",
+        "id": 676,
+        "name": "NewHampshire_Derry_West",
+        "description": "NewHampshire_Derry_West",
         "type": "work",
-        "startLocation": "42.504549, -92.394034",
-        "endLocation": "42.498476, -92.367191",
-        "outFile": "output/Iowa_Waterloo_West.json"
+        "startLocation": "42.892211, -71.310324",
+        "endLocation": "42.894652, -71.289833",
+        "outFile": "output/NewHampshire_Derry_West.json"
     },
     {
-        "id": 337,
-        "name": "Iowa_Waterloo_East",
-        "description": "Iowa_Waterloo_East",
+        "id": 677,
+        "name": "NewHampshire_Derry_East",
+        "description": "NewHampshire_Derry_East",
         "type": "work",
-        "startLocation": "42.482359, -92.367051",
-        "endLocation": "42.494823, -92.347772",
-        "outFile": "output/Iowa_Waterloo_East.json"
+        "startLocation": "42.912331, -71.300978",
+        "endLocation": "42.895540, -71.309394",
+        "outFile": "output/NewHampshire_Derry_East.json"
     },
     {
-        "id": 338,
-        "name": "Iowa_Waterloo_South",
-        "description": "Iowa_Waterloo_South",
+        "id": 678,
+        "name": "NewHampshire_Derry_South",
+        "description": "NewHampshire_Derry_South",
         "type": "work",
-        "startLocation": "42.500321, -92.347479",
-        "endLocation": "42.483973, -92.322965",
-        "outFile": "output/Iowa_Waterloo_South.json"
+        "startLocation": "42.894364, -71.313514",
+        "endLocation": "42.907002, -71.323336",
+        "outFile": "output/NewHampshire_Derry_South.json"
     },
     {
-        "id": 339,
-        "name": "Iowa_Waterloo_North",
-        "description": "Iowa_Waterloo_North",
+        "id": 679,
+        "name": "NewHampshire_Derry_North",
+        "description": "NewHampshire_Derry_North",
         "type": "work",
-        "startLocation": "42.498392, -92.326587",
-        "endLocation": "42.498316, -92.278386",
-        "outFile": "output/Iowa_Waterloo_North.json"
+        "startLocation": "42.891200, -71.327057",
+        "endLocation": "42.875274, -71.317022",
+        "outFile": "output/NewHampshire_Derry_North.json"
     },
     {
-        "id": 340,
-        "name": "Iowa_Waterloo_Central",
-        "description": "Iowa_Waterloo_Central",
+        "id": 680,
+        "name": "NewHampshire_Derry_Central",
+        "description": "NewHampshire_Derry_Central",
         "type": "work",
-        "startLocation": "42.483918, -92.336423",
-        "endLocation": "42.492132, -92.320002",
-        "outFile": "output/Iowa_Waterloo_Central.json"
-    },
-    {
-        "id": 341,
-        "name": "Kansas_Wichita_West",
-        "description": "Kansas_Wichita_West",
-        "type": "work",
-        "startLocation": "37.697544, -97.341313",
-        "endLocation": "37.701064, -97.299144",
-        "outFile": "output/Kansas_Wichita_West.json"
-    },
-    {
-        "id": 342,
-        "name": "Kansas_Wichita_East",
-        "description": "Kansas_Wichita_East",
-        "type": "work",
-        "startLocation": "37.708043, -97.348195",
-        "endLocation": "37.708199, -97.308183",
-        "outFile": "output/Kansas_Wichita_East.json"
-    },
-    {
-        "id": 343,
-        "name": "Kansas_Wichita_South",
-        "description": "Kansas_Wichita_South",
-        "type": "work",
-        "startLocation": "37.715347, -97.335508",
-        "endLocation": "37.715498, -97.299064",
-        "outFile": "output/Kansas_Wichita_South.json"
-    },
-    {
-        "id": 344,
-        "name": "Kansas_Wichita_North",
-        "description": "Kansas_Wichita_North",
-        "type": "work",
-        "startLocation": "37.673331, -97.352833",
-        "endLocation": "37.671675, -97.329059",
-        "outFile": "output/Kansas_Wichita_North.json"
-    },
-    {
-        "id": 345,
-        "name": "Kansas_Wichita_Central",
-        "description": "Kansas_Wichita_Central",
-        "type": "work",
-        "startLocation": "37.687645, -97.371232",
-        "endLocation": "37.680484, -97.360105",
-        "outFile": "output/Kansas_Wichita_Central.json"
-    },
-    {
-        "id": 346,
-        "name": "Kansas_OverlandPark_West",
-        "description": "Kansas_OverlandPark_West",
-        "type": "work",
-        "startLocation": "38.958058, -94.692872",
-        "endLocation": "38.956747, -94.658377",
-        "outFile": "output/Kansas_OverlandPark_West.json"
-    },
-    {
-        "id": 347,
-        "name": "Kansas_OverlandPark_East",
-        "description": "Kansas_OverlandPark_East",
-        "type": "work",
-        "startLocation": "38.943224, -94.690941",
-        "endLocation": "38.942153, -94.657944",
-        "outFile": "output/Kansas_OverlandPark_East.json"
-    },
-    {
-        "id": 348,
-        "name": "Kansas_OverlandPark_South",
-        "description": "Kansas_OverlandPark_South",
-        "type": "work",
-        "startLocation": "38.927117, -94.700507",
-        "endLocation": "38.926589, -94.665463",
-        "outFile": "output/Kansas_OverlandPark_South.json"
-    },
-    {
-        "id": 349,
-        "name": "Kansas_OverlandPark_North",
-        "description": "Kansas_OverlandPark_North",
-        "type": "work",
-        "startLocation": "38.898210, -94.723718",
-        "endLocation": "38.898210, -94.686484",
-        "outFile": "output/Kansas_OverlandPark_North.json"
-    },
-    {
-        "id": 350,
-        "name": "Kansas_OverlandPark_Central",
-        "description": "Kansas_OverlandPark_Central",
-        "type": "work",
-        "startLocation": "38.883824, -94.700509",
-        "endLocation": "38.854648, -94.705099",
-        "outFile": "output/Kansas_OverlandPark_Central.json"
-    },
-    {
-        "id": 351,
-        "name": "Kansas_KansasCity_West",
-        "description": "Kansas_KansasCity_West",
-        "type": "work",
-        "startLocation": "39.140185, -94.659050",
-        "endLocation": "39.130273, -94.621505",
-        "outFile": "output/Kansas_KansasCity_West.json"
-    },
-    {
-        "id": 352,
-        "name": "Kansas_KansasCity_East",
-        "description": "Kansas_KansasCity_East",
-        "type": "work",
-        "startLocation": "39.127100, -94.643019",
-        "endLocation": "39.123814, -94.621428",
-        "outFile": "output/Kansas_KansasCity_East.json"
-    },
-    {
-        "id": 353,
-        "name": "Kansas_KansasCity_South",
-        "description": "Kansas_KansasCity_South",
-        "type": "work",
-        "startLocation": "39.120480, -94.649388",
-        "endLocation": "39.116568, -94.621337",
-        "outFile": "output/Kansas_KansasCity_South.json"
-    },
-    {
-        "id": 354,
-        "name": "Kansas_KansasCity_North",
-        "description": "Kansas_KansasCity_North",
-        "type": "work",
-        "startLocation": "39.116779, -94.661495",
-        "endLocation": "39.102469, -94.640041",
-        "outFile": "output/Kansas_KansasCity_North.json"
-    },
-    {
-        "id": 355,
-        "name": "Kansas_KansasCity_Central",
-        "description": "Kansas_KansasCity_Central",
-        "type": "work",
-        "startLocation": "39.100474, -94.643603",
-        "endLocation": "39.103519, -94.623400",
-        "outFile": "output/Kansas_KansasCity_Central.json"
-    },
-    {
-        "id": 356,
-        "name": "Kansas_Olathe_West",
-        "description": "Kansas_Olathe_West",
-        "type": "work",
-        "startLocation": "38.898117, -94.834510",
-        "endLocation": "38.898230, -94.806578",
-        "outFile": "output/Kansas_Olathe_West.json"
-    },
-    {
-        "id": 357,
-        "name": "Kansas_Olathe_East",
-        "description": "Kansas_Olathe_East",
-        "type": "work",
-        "startLocation": "38.920231, -94.800522",
-        "endLocation": "38.898182, -94.797410",
-        "outFile": "output/Kansas_Olathe_East.json"
-    },
-    {
-        "id": 358,
-        "name": "Kansas_Olathe_South",
-        "description": "Kansas_Olathe_South",
-        "type": "work",
-        "startLocation": "38.889126, -94.803891",
-        "endLocation": "38.905862, -94.782252",
-        "outFile": "output/Kansas_Olathe_South.json"
-    },
-    {
-        "id": 359,
-        "name": "Kansas_Olathe_North",
-        "description": "Kansas_Olathe_North",
-        "type": "work",
-        "startLocation": "38.883801, -94.849628",
-        "endLocation": "38.882027, -94.824241",
-        "outFile": "output/Kansas_Olathe_North.json"
-    },
-    {
-        "id": 360,
-        "name": "Kansas_Olathe_Central",
-        "description": "Kansas_Olathe_Central",
-        "type": "work",
-        "startLocation": "38.898402, -94.779637",
-        "endLocation": "38.883852, -94.760883",
-        "outFile": "output/Kansas_Olathe_Central.json"
-    },
-    {
-        "id": 361,
-        "name": "Kansas_Topeka_West",
-        "description": "Kansas_Topeka_West",
-        "type": "work",
-        "startLocation": "39.062397, -95.724644",
-        "endLocation": "39.058647, -95.700255",
-        "outFile": "output/Kansas_Topeka_West.json"
-    },
-    {
-        "id": 362,
-        "name": "Kansas_Topeka_East",
-        "description": "Kansas_Topeka_East",
-        "type": "work",
-        "startLocation": "39.049455, -95.722899",
-        "endLocation": "39.054558, -95.702635",
-        "outFile": "output/Kansas_Topeka_East.json"
-    },
-    {
-        "id": 363,
-        "name": "Kansas_Topeka_South",
-        "description": "Kansas_Topeka_South",
-        "type": "work",
-        "startLocation": "39.043932, -95.743129",
-        "endLocation": "39.041224, -95.730429",
-        "outFile": "output/Kansas_Topeka_South.json"
-    },
-    {
-        "id": 364,
-        "name": "Kansas_Topeka_North",
-        "description": "Kansas_Topeka_North",
-        "type": "work",
-        "startLocation": "39.038102, -95.722207",
-        "endLocation": "39.036923, -95.696931",
-        "outFile": "output/Kansas_Topeka_North.json"
-    },
-    {
-        "id": 365,
-        "name": "Kansas_Topeka_Central",
-        "description": "Kansas_Topeka_Central",
-        "type": "work",
-        "startLocation": "39.029329, -95.743566",
-        "endLocation": "39.029611, -95.710975",
-        "outFile": "output/Kansas_Topeka_Central.json"
+        "startLocation": "42.881275, -71.292946",
+        "endLocation": "42.873077, -71.273350",
+        "outFile": "output/NewHampshire_Derry_Central.json"
     }
 ]

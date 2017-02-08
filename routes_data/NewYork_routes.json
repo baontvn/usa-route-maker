@@ -1,1 +1,157 @@
-[{"State":"New York","City":"New York City","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New York","City":"Buffalo","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New York","City":"Rochester","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New York","City":"Yonkers","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New York","City":"Syracuse","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "New York",
+        "City": "New York City",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.728795, -74.007097",
+                "Destination": "40.721491, -73.997419"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.716546, -73.996961",
+                "Destination": "40.730368, -74.008195"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.760932, -73.998338",
+                "Destination": "40.778496, -73.985469"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.814866, -73.928811",
+                "Destination": "40.824231, -73.913868"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.810775, -73.903239",
+                "Destination": "40.829420, -73.897483"
+            }
+        ]
+    },
+    {
+        "State": "New York",
+        "City": "Buffalo",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.904798, -78.881818",
+                "Destination": "42.903900, -78.853922"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.915556, -78.876946",
+                "Destination": "42.914682, -78.839095"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.896214, -78.853960",
+                "Destination": "42.909718, -78.820986"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.906337, -78.802938",
+                "Destination": "42.897732, -78.839291"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.884901, -78.824093",
+                "Destination": "42.885200, -78.853945"
+            }
+        ]
+    },
+    {
+        "State": "New York",
+        "City": "Rochester",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.173952, -77.659428",
+                "Destination": "43.164734, -77.632564"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.193906, -77.638779",
+                "Destination": "43.173923, -77.629204"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.151225, -77.620642",
+                "Destination": "43.135117, -77.628881"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.170111, -77.611777",
+                "Destination": "43.168481, -77.589372"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.174929, -77.613259",
+                "Destination": "43.175789, -77.576195"
+            }
+        ]
+    },
+    {
+        "State": "New York",
+        "City": "Yonkers",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.929279, -73.900709",
+                "Destination": "40.921233, -73.890670"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.918119, -73.901521",
+                "Destination": "40.909730, -73.888978"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.938002, -73.884308",
+                "Destination": "40.923609, -73.889982"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.928454, -73.870670",
+                "Destination": "40.915704, -73.859634"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.950262, -73.863208",
+                "Destination": "40.946269, -73.877749"
+            }
+        ]
+    },
+    {
+        "State": "New York",
+        "City": "Syracuse",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.051911, -76.170629",
+                "Destination": "43.030035, -76.175252"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.042248, -76.155215",
+                "Destination": "43.026567, -76.162278"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.031826, -76.154004",
+                "Destination": "43.010568, -76.147743"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.068507, -76.158130",
+                "Destination": "43.063269, -76.136079"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.046984, -76.137703",
+                "Destination": "43.040496, -76.130205"
+            }
+        ]
+    }
+]

@@ -1,1 +1,157 @@
-[{"State":"North Dakota","City":"Fargo","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"North Dakota","City":"Bismarck","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"North Dakota","City":"Grand Forks","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"North Dakota","City":"Minot","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"North Dakota","City":"West Fargo","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "North Dakota",
+        "City": "Fargo",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "46.905027, -96.834416",
+                "Destination": "46.904793, -96.793488"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "46.890391, -96.795264",
+                "Destination": "46.890529, -96.833193"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "46.883241, -96.819550",
+                "Destination": "46.883156, -96.781677"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "46.861604, -96.787861",
+                "Destination": "46.861604, -96.819590"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "46.875760, -96.851055",
+                "Destination": "46.849792, -96.851196"
+            }
+        ]
+    },
+    {
+        "State": "North Dakota",
+        "City": "Bismarck",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "46.805581, -100.794283",
+                "Destination": "46.805131, -100.752265"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "46.795043, -100.781747",
+                "Destination": "46.795788, -100.744888"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "46.823704, -100.794072",
+                "Destination": "46.823605, -100.753556"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "46.823572, -100.730575",
+                "Destination": "46.809113, -100.715600"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "46.798414, -100.794459",
+                "Destination": "46.811837, -100.794316"
+            }
+        ]
+    },
+    {
+        "State": "North Dakota",
+        "City": "Grand Forks",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "47.922257, -97.087984",
+                "Destination": "47.922343, -97.066371"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "47.903960, -97.045498",
+                "Destination": "47.904021, -97.077391"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "47.889388, -97.082902",
+                "Destination": "47.889419, -97.043658"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "47.918491, -97.028762",
+                "Destination": "47.899614, -97.028923"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "47.942563, -97.063809",
+                "Destination": "47.922317, -97.044943"
+            }
+        ]
+    },
+    {
+        "State": "North Dakota",
+        "City": "Minot",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "48.258612, -101.320298",
+                "Destination": "48.258440, -101.295794"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "48.240030, -101.296869",
+                "Destination": "48.240137, -101.320995"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "48.238293, -101.318901",
+                "Destination": "48.227157, -101.313568"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "48.225429, -101.279820",
+                "Destination": "48.225553, -101.310037"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "48.218208, -101.274393",
+                "Destination": "48.218281, -101.295948"
+            }
+        ]
+    },
+    {
+        "State": "North Dakota",
+        "City": "West Fargo",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "46.875853, -96.904008",
+                "Destination": "46.852386, -96.904932"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "46.851250, -96.882997",
+                "Destination": "46.869329, -96.882944"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "46.853868, -96.904280",
+                "Destination": "46.842326, -96.907819"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "46.851226, -96.880824",
+                "Destination": "46.854654, -96.865989"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "46.811481, -96.903086",
+                "Destination": "46.829910, -96.905525"
+            }
+        ]
+    }
+]

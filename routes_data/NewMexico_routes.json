@@ -1,1 +1,157 @@
-[{"State":"New Mexico","City":"Albuquerque","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Mexico","City":"Las Cruces","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Mexico","City":"Rio Rancho","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Mexico","City":"Santa Fe","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Mexico","City":"Roswell","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "New Mexico",
+        "City": "Albuquerque",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.130737, -106.550973",
+                "Destination": "35.130668, -106.524538"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.123277, -106.583737",
+                "Destination": "35.123541, -106.548826"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.065647, -106.586286",
+                "Destination": "35.072855, -106.577529"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.098361, -106.595264",
+                "Destination": "35.102013, -106.613033"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.109286, -106.559714",
+                "Destination": "35.101881, -106.541880"
+            }
+        ]
+    },
+    {
+        "State": "New Mexico",
+        "City": "Las Cruces",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.290144, -106.775750",
+                "Destination": "32.296198, -106.754629"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.300969, -106.756207",
+                "Destination": "32.296271, -106.776183"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.327933, -106.778921",
+                "Destination": "32.313051, -106.764919"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.309269, -106.781230",
+                "Destination": "32.330373, -106.788953"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.308598, -106.805625",
+                "Destination": "32.305548, -106.785128"
+            }
+        ]
+    },
+    {
+        "State": "New Mexico",
+        "City": "Rio Rancho",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.306245, -106.656044",
+                "Destination": "35.309237, -106.630096"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.356408, -106.665943",
+                "Destination": "35.344045, -106.687684"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.276096, -106.696703",
+                "Destination": "35.295792, -106.696946"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.274386, -106.657114",
+                "Destination": "35.274425, -106.691909"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.241604, -106.677024",
+                "Destination": "35.248453, -106.652927"
+            }
+        ]
+    },
+    {
+        "State": "New Mexico",
+        "City": "Santa Fe",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.680117, -105.978601",
+                "Destination": "35.688843, -105.957185"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.683700, -105.956693",
+                "Destination": "35.672800, -105.979174"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.672811, -105.961391",
+                "Destination": "35.656048, -105.990590"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.660337, -105.975539",
+                "Destination": "35.655891, -105.941448"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.691288, -105.945447",
+                "Destination": "35.676174, -105.948345"
+            }
+        ]
+    },
+    {
+        "State": "New Mexico",
+        "City": "Roswell",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "33.408634, -104.522801",
+                "Destination": "33.430765, -104.522998"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.394126, -104.566846",
+                "Destination": "33.394272, -104.539017"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "33.401050, -104.521128",
+                "Destination": "33.394198, -104.509944"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "33.379679, -104.535872",
+                "Destination": "33.379819, -104.516496"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.372633, -104.523101",
+                "Destination": "33.350970, -104.523163"
+            }
+        ]
+    }
+]

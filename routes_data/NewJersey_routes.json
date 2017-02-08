@@ -1,1 +1,157 @@
-[{"State":"New Jersey","City":"Newark","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Jersey","City":"Jersey City","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Jersey","City":"Paterson","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Jersey","City":"Elizabeth","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"New Jersey","City":"Edison","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "New Jersey",
+        "City": "Newark",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.749517, -74.198143",
+                "Destination": "40.742114, -74.171712"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.735214, -74.170869",
+                "Destination": "40.739010, -74.193158"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.728213, -74.220635",
+                "Destination": "40.732320, -74.200202"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.722584, -74.190273",
+                "Destination": "40.723573, -74.216735"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.732734, -74.163481",
+                "Destination": "40.721833, -74.149608"
+            }
+        ]
+    },
+    {
+        "State": "New Jersey",
+        "City": "Jersey City",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.734019, -74.079101",
+                "Destination": "40.735633, -74.065024"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.729416, -74.065957",
+                "Destination": "40.720126, -74.077204"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.708816, -74.059372",
+                "Destination": "40.718259, -74.074992"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.704287, -74.090229",
+                "Destination": "40.716888, -74.080965"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.719118, -74.082860",
+                "Destination": "40.705777, -74.098032"
+            }
+        ]
+    },
+    {
+        "State": "New Jersey",
+        "City": "Paterson",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.918624, -74.161878",
+                "Destination": "40.918208, -74.141660"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.935004, -74.154838",
+                "Destination": "40.922424, -74.165953"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.920575, -74.153207",
+                "Destination": "40.932857, -74.153296"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.912630, -74.193874",
+                "Destination": "40.921940, -74.179065"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.929850, -74.175271",
+                "Destination": "40.920037, -74.187168"
+            }
+        ]
+    },
+    {
+        "State": "New Jersey",
+        "City": "Elizabeth",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.666109, -74.201226",
+                "Destination": "40.667529, -74.187929"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.659617, -74.189349",
+                "Destination": "40.667081, -74.209926"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.663269, -74.208863",
+                "Destination": "40.655778, -74.195033"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.662127, -74.213303",
+                "Destination": "40.654093, -74.198095"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.673367, -74.223467",
+                "Destination": "40.664827, -74.229349"
+            }
+        ]
+    },
+    {
+        "State": "New Jersey",
+        "City": "Edison",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.514163, -74.432023",
+                "Destination": "40.520604, -74.417325"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.517694, -74.422939",
+                "Destination": "40.507218, -74.412170"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.520236, -74.411939",
+                "Destination": "40.506086, -74.399103"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.527605, -74.376216",
+                "Destination": "40.517102, -74.391284"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.500557, -74.398329",
+                "Destination": "40.497096, -74.369774"
+            }
+        ]
+    }
+]
