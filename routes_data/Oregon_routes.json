@@ -1,1 +1,157 @@
-[{"State":"Oregon","City":"Portland","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Oregon","City":"Salem","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Oregon","City":"Eugene","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Oregon","City":"Gresham","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Oregon","City":"Hillsboro","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Oregon",
+        "City": "Portland",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "45.555501, -122.656617",
+                "Destination": "45.555392, -122.630712"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "45.548311, -122.630676",
+                "Destination": "45.543642, -122.650440"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "45.562750, -122.594284",
+                "Destination": "45.548261, -122.604600"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "45.552473, -122.578620",
+                "Destination": "45.542250, -122.604581"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "45.523013, -122.614997",
+                "Destination": "45.522893, -122.637241"
+            }
+        ]
+    },
+    {
+        "State": "Oregon",
+        "City": "Salem",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.951714, -123.033933",
+                "Destination": "44.948770, -123.013514"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.939251, -123.019830",
+                "Destination": "44.939841, -122.996635"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.953946, -122.993914",
+                "Destination": "44.956560, -123.017599"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.936303, -123.024327",
+                "Destination": "44.929154, -123.003607"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.950186, -123.051634",
+                "Destination": "44.951449, -123.082535"
+            }
+        ]
+    },
+    {
+        "State": "Oregon",
+        "City": "Eugene",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.040805, -123.148004",
+                "Destination": "44.040550, -123.124205"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.040386, -123.112502",
+                "Destination": "44.027111, -123.117729"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.026540, -123.100033",
+                "Destination": "44.040271, -123.101281"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.038951, -123.089682",
+                "Destination": "44.030453, -123.081483"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.047791, -123.122984",
+                "Destination": "44.063241, -123.122625"
+            }
+        ]
+    },
+    {
+        "State": "Oregon",
+        "City": "Gresham",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "45.519119, -122.455176",
+                "Destination": "45.519102, -122.435566"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "45.506620, -122.421056",
+                "Destination": "45.515021, -122.455146"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "45.509561, -122.399988",
+                "Destination": "45.491871, -122.398891"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "45.504545, -122.435642",
+                "Destination": "45.487054, -122.447891"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "45.504476, -122.455024",
+                "Destination": "45.513678, -122.475745"
+            }
+        ]
+    },
+    {
+        "State": "Oregon",
+        "City": "Hillsboro",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "45.528427, -122.989626",
+                "Destination": "45.527627, -122.968868"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "45.533738, -122.926025",
+                "Destination": "45.530723, -122.953902"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "45.521497, -122.964471",
+                "Destination": "45.519957, -122.941945"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "45.519832, -122.936624",
+                "Destination": "45.507723, -122.931358"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "45.514923, -122.973990",
+                "Destination": "45.503302, -122.952573"
+            }
+        ]
+    }
+]

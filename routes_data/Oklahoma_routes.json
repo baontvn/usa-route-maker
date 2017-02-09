@@ -1,1 +1,157 @@
-[{"State":"Oklahoma","City":"Oklahoma City","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Oklahoma","City":"Tulsa","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Oklahoma","City":"Norman","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Oklahoma","City":"Broken Arrow","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Oklahoma","City":"Lawton","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Oklahoma",
+        "City": "Oklahoma City",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.486014, -97.583344",
+                "Destination": "35.485986, -97.549460"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.435238, -97.601010",
+                "Destination": "35.435241, -97.628657"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.398952, -97.508135",
+                "Destination": "35.377375, -97.503515"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.449767, -97.463245",
+                "Destination": "35.429632, -97.476986"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.439466, -97.530140",
+                "Destination": "35.413979, -97.530185"
+            }
+        ]
+    },
+    {
+        "State": "Oklahoma",
+        "City": "Tulsa",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.176946, -95.993503",
+                "Destination": "36.177128, -95.958228"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.155052, -95.922487",
+                "Destination": "36.155236, -95.895622"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.118802, -95.952057",
+                "Destination": "36.118810, -95.925502"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.187024, -96.032957",
+                "Destination": "36.176576, -96.019734"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.133367, -95.975631",
+                "Destination": "36.104322, -95.975740"
+            }
+        ]
+    },
+    {
+        "State": "Oklahoma",
+        "City": "Norman",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.232934, -97.458998",
+                "Destination": "35.232875, -97.421886"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.260058, -97.472580",
+                "Destination": "35.241155, -97.456933"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.247437, -97.453987",
+                "Destination": "35.247429, -97.432405"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.256576, -97.478370",
+                "Destination": "35.237228, -97.481906"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.218343, -97.411737",
+                "Destination": "35.218291, -97.436422"
+            }
+        ]
+    },
+    {
+        "State": "Oklahoma",
+        "City": "Broken Arrow",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.075499, -95.803775",
+                "Destination": "36.075417, -95.782863"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.061045, -95.779552",
+                "Destination": "36.060947, -95.753231"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.046516, -95.753309",
+                "Destination": "36.053756, -95.770617"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.046501, -95.790802",
+                "Destination": "36.046389, -95.815346"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.060980, -95.791386",
+                "Destination": "36.060894, -95.815303"
+            }
+        ]
+    },
+    {
+        "State": "Oklahoma",
+        "City": "Lawton",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "34.609002, -98.492087",
+                "Destination": "34.608970, -98.457833"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "34.623455, -98.458911",
+                "Destination": "34.623442, -98.479942"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "34.594582, -98.492307",
+                "Destination": "34.594358, -98.457260"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "34.600851, -98.422304",
+                "Destination": "34.594279, -98.407780"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "34.599126, -98.390442",
+                "Destination": "34.579857, -98.404650"
+            }
+        ]
+    }
+]

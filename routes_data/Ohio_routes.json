@@ -1,1 +1,157 @@
-[{"State":"Ohio","City":"Columbus","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Ohio","City":"Cleveland","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Ohio","City":"Cincinnati","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Ohio","City":"Toledo","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Ohio","City":"Akron","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Ohio",
+        "City": "Columbus",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.939874, -82.994569",
+                "Destination": "39.935005, -82.972556"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.006910, -82.929604",
+                "Destination": "39.985095, -82.931561"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.999260, -82.954576",
+                "Destination": "39.979066, -82.960515"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.985623, -82.966816",
+                "Destination": "40.013439, -82.961324"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.986067, -82.979716",
+                "Destination": "39.987592, -83.016548"
+            }
+        ]
+    },
+    {
+        "State": "Ohio",
+        "City": "Cleveland",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.485080, -81.726341",
+                "Destination": "41.479964, -81.750254"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.483758, -81.704362",
+                "Destination": "41.473075, -81.734905"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.469866, -81.707561",
+                "Destination": "41.447007, -81.717898"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.501619, -81.651747",
+                "Destination": "41.493364, -81.633374"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.512919, -81.651886",
+                "Destination": "41.526858, -81.641839"
+            }
+        ]
+    },
+    {
+        "State": "Ohio",
+        "City": "Cincinnati",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.105460, -84.524738",
+                "Destination": "39.118824, -84.526521"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.113149, -84.512664",
+                "Destination": "39.125398, -84.532110"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.127070, -84.508384",
+                "Destination": "39.113991, -84.510727"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.138042, -84.511677",
+                "Destination": "39.145085, -84.526494"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.121082, -84.485293",
+                "Destination": "39.134099, -84.478644"
+            }
+        ]
+    },
+    {
+        "State": "Ohio",
+        "City": "Toledo",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.699516, -83.585136",
+                "Destination": "41.700818, -83.549113"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.692527, -83.569736",
+                "Destination": "41.692167, -83.603792"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.678374, -83.555491",
+                "Destination": "41.679108, -83.519146"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.677085, -83.596496",
+                "Destination": "41.665724, -83.572640"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.655978, -83.530966",
+                "Destination": "41.678510, -83.550153"
+            }
+        ]
+    },
+    {
+        "State": "Ohio",
+        "City": "Akron",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.102148, -81.519070",
+                "Destination": "41.105585, -81.542580"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.095190, -81.515817",
+                "Destination": "41.101856, -81.490786"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.087975, -81.493122",
+                "Destination": "41.084588, -81.459760"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.067417, -81.499010",
+                "Destination": "41.073356, -81.482778"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.065991, -81.508505",
+                "Destination": "41.066025, -81.537241"
+            }
+        ]
+    }
+]
