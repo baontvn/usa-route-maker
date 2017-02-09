@@ -1,1 +1,157 @@
-[{"State":"Pennsylvania","City":"Philadelphia","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Pennsylvania","City":"Pittsburgh","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Pennsylvania","City":"Allentown","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Pennsylvania","City":"Erie","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Pennsylvania","City":"Reading","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Pennsylvania",
+        "City": "Philadelphia",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.997048, -75.178580",
+                "Destination": "39.994395, -75.158342"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.984302, -75.153618",
+                "Destination": "39.987062, -75.174372"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.997677, -75.185071",
+                "Destination": "39.985274, -75.178797"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.981816, -75.181905",
+                "Destination": "39.972322, -75.176538"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.970449, -75.164724",
+                "Destination": "39.959678, -75.155845"
+            }
+        ]
+    },
+    {
+        "State": "Pennsylvania",
+        "City": "Pittsburgh",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.465958, -79.966609",
+                "Destination": "40.450360, -79.986805"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.469785, -79.960914",
+                "Destination": "40.464718, -79.936382"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.470612, -79.932831",
+                "Destination": "40.478698, -79.922840"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.437755, -79.932804",
+                "Destination": "40.435290, -79.918989"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.456256, -79.954718",
+                "Destination": "40.444535, -79.946298"
+            }
+        ]
+    },
+    {
+        "State": "Pennsylvania",
+        "City": "Allentown",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.600148, -75.518882",
+                "Destination": "40.607396, -75.492593"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.600793, -75.494228",
+                "Destination": "40.595329, -75.514236"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.596610, -75.492243",
+                "Destination": "40.588138, -75.504855"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.611860, -75.476228",
+                "Destination": "40.593874, -75.470069"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.616120, -75.460213",
+                "Destination": "40.605536, -75.459862"
+            }
+        ]
+    },
+    {
+        "State": "Pennsylvania",
+        "City": "Erie",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.120117, -80.110705",
+                "Destination": "42.128130, -80.089025"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.126718, -80.072666",
+                "Destination": "42.134213, -80.051067"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.121711, -80.069381",
+                "Destination": "42.110043, -80.101103"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.094343, -80.104987",
+                "Destination": "42.095791, -80.084119"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.104153, -80.061663",
+                "Destination": "42.114611, -80.033153"
+            }
+        ]
+    },
+    {
+        "State": "Pennsylvania",
+        "City": "Reading",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.350542, -75.932595",
+                "Destination": "40.350183, -75.911881"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.345819, -75.915860",
+                "Destination": "40.344648, -75.935421"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.353427, -75.946494",
+                "Destination": "40.341642, -75.936743"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.349439, -75.911911",
+                "Destination": "40.334441, -75.910998"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.335176, -75.918137",
+                "Destination": "40.328808, -75.902420"
+            }
+        ]
+    }
+]

@@ -1,1 +1,157 @@
-[{"State":"Tennessee","City":"Memphis","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Tennessee","City":"Nashville","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Tennessee","City":"Knoxville","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Tennessee","City":"Chattanooga","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Tennessee","City":"Clarksville","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Tennessee",
+        "City": "Memphis",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.155486, -90.035360",
+                "Destination": "35.152942, -90.002018"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.158132, -90.011816",
+                "Destination": "35.157946, -89.979566"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.163255, -89.995969",
+                "Destination": "35.166501, -90.026912"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.136176, -89.985527",
+                "Destination": "35.138603, -90.013166"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.132987, -90.028358",
+                "Destination": "35.131992, -90.000579"
+            }
+        ]
+    },
+    {
+        "State": "Tennessee",
+        "City": "Nashville",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.144072, -86.799672",
+                "Destination": "36.141713, -86.778701"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.135404, -86.785920",
+                "Destination": "36.138061, -86.804999"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.176939, -86.776135",
+                "Destination": "36.171748, -86.797693"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.163877, -86.804204",
+                "Destination": "36.180113, -86.811092"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.134781, -86.746849",
+                "Destination": "36.154357, -86.742126"
+            }
+        ]
+    },
+    {
+        "State": "Tennessee",
+        "City": "Knoxville",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.974528, -83.973951",
+                "Destination": "35.970559, -83.955557"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.974168, -83.947447",
+                "Destination": "35.980733, -83.928503"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.980462, -83.939870",
+                "Destination": "35.993372, -83.922069"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.967438, -83.889006",
+                "Destination": "35.979330, -83.897608"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.948690, -83.891343",
+                "Destination": "35.957927, -83.907907"
+            }
+        ]
+    },
+    {
+        "State": "Tennessee",
+        "City": "Chattanooga",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "35.050169, -85.296142",
+                "Destination": "35.038573, -85.264959"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "35.037466, -85.278855",
+                "Destination": "35.047472, -85.305632"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "35.031392, -85.286976",
+                "Destination": "35.021450, -85.282635"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "35.034423, -85.308304",
+                "Destination": "35.014871, -85.314333"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "35.060420, -85.321434",
+                "Destination": "35.070191, -85.308752"
+            }
+        ]
+    },
+    {
+        "State": "Tennessee",
+        "City": "Clarksville",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.530128, -87.359575",
+                "Destination": "36.536886, -87.338465"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.528876, -87.352932",
+                "Destination": "36.520383, -87.331840"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.518962, -87.339304",
+                "Destination": "36.520511, -87.361729"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.516020, -87.311293",
+                "Destination": "36.522130, -87.286564"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.551363, -87.382450",
+                "Destination": "36.569662, -87.386014"
+            }
+        ]
+    }
+]

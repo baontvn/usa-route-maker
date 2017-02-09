@@ -1,1 +1,157 @@
-[{"State":"Texas","City":"Houston","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Texas","City":"San Antonio","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Texas","City":"Dallas","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Texas","City":"Austin","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Texas","City":"Fort Worth","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Texas",
+        "City": "Houston",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "29.790513, -95.409743",
+                "Destination": "29.790538, -95.380846"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "29.783380, -95.350598",
+                "Destination": "29.779562, -95.367330"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "29.757637, -95.385695",
+                "Destination": "29.757153, -95.406375"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "29.742789, -95.408737",
+                "Destination": "29.744583, -95.385947"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "29.747494, -95.354654",
+                "Destination": "29.738744, -95.334900"
+            }
+        ]
+    },
+    {
+        "State": "Texas",
+        "City": "San Antonio",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "29.432084, -98.526459",
+                "Destination": "29.434666, -98.553339"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "29.416137, -98.555897",
+                "Destination": "29.419702, -98.528019"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "29.425118, -98.473249",
+                "Destination": "29.425019, -98.443356"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "29.413354, -98.447956",
+                "Destination": "29.412026, -98.473276"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "29.456744, -98.499340",
+                "Destination": "29.485161, -98.499311"
+            }
+        ]
+    },
+    {
+        "State": "Texas",
+        "City": "Dallas",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.778669, -96.856624",
+                "Destination": "32.749542, -96.856826"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.766872, -96.749718",
+                "Destination": "32.765745, -96.719402"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.775359, -96.712099",
+                "Destination": "32.783242, -96.748160"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.828020, -96.844399",
+                "Destination": "32.815226, -96.829071"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.820714, -96.822375",
+                "Destination": "32.805576, -96.804319"
+            }
+        ]
+    },
+    {
+        "State": "Texas",
+        "City": "Austin",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "30.271998, -97.730967",
+                "Destination": "30.276918, -97.700323"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "30.260069, -97.709459",
+                "Destination": "30.266392, -97.733212"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "30.260858, -97.758541",
+                "Destination": "30.248411, -97.770060"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "30.238823, -97.753579",
+                "Destination": "30.257127, -97.746884"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "30.304815, -97.719637",
+                "Destination": "30.325448, -97.726663"
+            }
+        ]
+    },
+    {
+        "State": "Texas",
+        "City": "Fort Worth",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.726642, -97.343692",
+                "Destination": "32.725902, -97.326411"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.730665, -97.272901",
+                "Destination": "32.731609, -97.303175"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.763750, -97.337329",
+                "Destination": "32.776994, -97.346224"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.759045, -97.352794",
+                "Destination": "32.760297, -97.377120"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.769360, -97.287442",
+                "Destination": "32.760240, -97.301736"
+            }
+        ]
+    }
+]

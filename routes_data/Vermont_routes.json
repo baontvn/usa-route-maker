@@ -1,1 +1,157 @@
-[{"State":"Vermont","City":"Burlington","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Vermont","City":"Essex","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Vermont","City":"South Burlington","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Vermont","City":"Colchester","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Vermont","City":"Rutland","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Vermont",
+        "City": "Burlington",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.506256, -73.243897",
+                "Destination": "44.484424, -73.222295"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.480297, -73.219025",
+                "Destination": "44.483641, -73.189461"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.475715, -73.218663",
+                "Destination": "44.476357, -73.200683"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.473671, -73.213816",
+                "Destination": "44.460721, -73.208061"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.484098, -73.205856",
+                "Destination": "44.469643, -73.205003"
+            }
+        ]
+    },
+    {
+        "State": "Vermont",
+        "City": "Essex",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.490535, -73.111273",
+                "Destination": "44.498996, -73.129526"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.506055, -73.090455",
+                "Destination": "44.493905, -73.105551"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.483494, -73.079198",
+                "Destination": "44.489166, -73.063559"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.511877, -73.059381",
+                "Destination": "44.510162, -73.083493"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.515398, -73.122478",
+                "Destination": "44.511130, -73.093588"
+            }
+        ]
+    },
+    {
+        "State": "Vermont",
+        "City": "South Burlington",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.455179, -73.166218",
+                "Destination": "44.465712, -73.171105"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.457500, -73.159741",
+                "Destination": "44.453041, -73.176507"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.439834, -73.157633",
+                "Destination": "44.453253, -73.162803"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.467652, -73.173737",
+                "Destination": "44.472322, -73.158442"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.473317, -73.164437",
+                "Destination": "44.477560, -73.175397"
+            }
+        ]
+    },
+    {
+        "State": "Vermont",
+        "City": "Colchester",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.531277, -73.178619",
+                "Destination": "44.538660, -73.209214"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.551452, -73.233761",
+                "Destination": "44.536450, -73.247816"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.536118, -73.136115",
+                "Destination": "44.548014, -73.158946"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.551494, -73.156422",
+                "Destination": "44.565530, -73.144019"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.545308, -73.138962",
+                "Destination": "44.553503, -73.139456"
+            }
+        ]
+    },
+    {
+        "State": "Vermont",
+        "City": "Rutland",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.608449, -72.974405",
+                "Destination": "43.605562, -72.994756"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.603205, -72.971262",
+                "Destination": "43.605636, -72.947741"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.603626, -72.972734",
+                "Destination": "43.602794, -72.986259"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.614413, -72.969346",
+                "Destination": "43.616035, -72.976983"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.626160, -72.983320",
+                "Destination": "43.615623, -72.981248"
+            }
+        ]
+    }
+]

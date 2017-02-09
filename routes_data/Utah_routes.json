@@ -1,1 +1,157 @@
-[{"State":"Utah","City":"Salt Lake City","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Utah","City":"West Valley City","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Utah","City":"Provo","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Utah","City":"West Jordan","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Utah","City":"Orem","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Utah",
+        "City": "Salt Lake City",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.760627, -111.905462",
+                "Destination": "40.759084, -111.943657"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.751255, -111.939028",
+                "Destination": "40.751959, -111.899689"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.740445, -111.937116",
+                "Destination": "40.741565, -111.911072"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.741663, -111.853914",
+                "Destination": "40.762876, -111.853903"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.767027, -111.859604",
+                "Destination": "40.749809, -111.859529"
+            }
+        ]
+    },
+    {
+        "State": "Utah",
+        "City": "West Valley City",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.703805, -112.043973",
+                "Destination": "40.703911, -112.005682"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.696594, -112.024858",
+                "Destination": "40.696614, -111.986625"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.689728, -112.015317",
+                "Destination": "40.682118, -112.024765"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.682174, -111.967535",
+                "Destination": "40.682126, -111.996146"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.703954, -111.938945",
+                "Destination": "40.712232, -111.958047"
+            }
+        ]
+    },
+    {
+        "State": "Utah",
+        "City": "Provo",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.253516, -111.694738",
+                "Destination": "40.256929, -111.670561"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.244334, -111.662106",
+                "Destination": "40.245233, -111.689532"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.233822, -111.713014",
+                "Destination": "40.225788, -111.694975"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.233705, -111.648243",
+                "Destination": "40.232375, -111.671009"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.235701, -111.643167",
+                "Destination": "40.250620, -111.643193"
+            }
+        ]
+    },
+    {
+        "State": "Utah",
+        "City": "West Jordan",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.609376, -111.929204",
+                "Destination": "40.609498, -111.957769"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.624030, -111.967393",
+                "Destination": "40.624033, -111.941162"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.594084, -111.938766",
+                "Destination": "40.595128, -111.967327"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.587799, -111.957825",
+                "Destination": "40.587868, -111.986427"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.602465, -112.005460",
+                "Destination": "40.609499, -112.020703"
+            }
+        ]
+    },
+    {
+        "State": "Utah",
+        "City": "Orem",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "",
+                "Destination": ""
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "",
+                "Destination": ""
+            }
+        ]
+    }
+]

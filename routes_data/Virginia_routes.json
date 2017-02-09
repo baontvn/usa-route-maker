@@ -1,1 +1,157 @@
-[{"State":"Virginia","City":"Virginia Beach","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Virginia","City":"Norfolk","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Virginia","City":"Chesapeake","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Virginia","City":"Arlington","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Virginia","City":"Richmond","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Virginia",
+        "City": "Virginia Beach",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.838229, -76.017889",
+                "Destination": "36.819105, -76.007809"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.816082, -75.997704",
+                "Destination": "36.837961, -75.998588"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.845123, -75.975548",
+                "Destination": "36.842674, -76.004468"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.784008, -75.993438",
+                "Destination": "36.762565, -75.992690"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.767663, -76.010417",
+                "Destination": "36.773888, -76.030493"
+            }
+        ]
+    },
+    {
+        "State": "Virginia",
+        "City": "Norfolk",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.854424, -76.266689",
+                "Destination": "36.860376, -76.286003"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.859662, -76.296083",
+                "Destination": "36.872942, -76.290126"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.881249, -76.302213",
+                "Destination": "36.866404, -76.300579"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.881200, -76.262173",
+                "Destination": "36.866362, -76.269140"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.858695, -76.242224",
+                "Destination": "36.868015, -76.249840"
+            }
+        ]
+    },
+    {
+        "State": "Virginia",
+        "City": "Chesapeake",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.811720, -76.264802",
+                "Destination": "36.791470, -76.260531"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.797613, -76.257975",
+                "Destination": "36.806781, -76.228487"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.798145, -76.243776",
+                "Destination": "36.789744, -76.231809"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.812897, -76.271425",
+                "Destination": "36.797042, -76.268429"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.789090, -76.263231",
+                "Destination": "36.772930, -76.271087"
+            }
+        ]
+    },
+    {
+        "State": "Virginia",
+        "City": "Arlington",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "38.899035, -77.141991",
+                "Destination": "38.887577, -77.138222"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "38.894239, -77.131750",
+                "Destination": "38.885272, -77.121203"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.913044, -77.115455",
+                "Destination": "38.895392, -77.107705"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "38.859298, -77.101727",
+                "Destination": "38.871723, -77.108199"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "38.856666, -77.088212",
+                "Destination": "38.871343, -77.085481"
+            }
+        ]
+    },
+    {
+        "State": "Virginia",
+        "City": "Richmond",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "37.584175, -77.462556",
+                "Destination": "37.571767, -77.438006"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "37.569098, -77.460715",
+                "Destination": "37.551911, -77.444912"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "37.566544, -77.468024",
+                "Destination": "37.549237, -77.477557"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "37.575728, -77.508327",
+                "Destination": "37.566005, -77.489374"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "37.533917, -77.422381",
+                "Destination": "37.534588, -77.396599"
+            }
+        ]
+    }
+]

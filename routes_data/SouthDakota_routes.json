@@ -1,1 +1,157 @@
-[{"State":"South Dakota","City":"Sioux Falls","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"South Dakota","City":"Rapid City","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"South Dakota","City":"Aberdeen","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"South Dakota","City":"Brookings","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"South Dakota","City":"Watertown","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "South Dakota",
+        "City": "Sioux Falls",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.558402, -96.761157",
+                "Destination": "43.551227, -96.734239"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.529435, -96.761190",
+                "Destination": "43.529440, -96.730044"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.514789, -96.681324",
+                "Destination": "43.536660, -96.681419"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.551263, -96.671531",
+                "Destination": "43.564390, -96.691504"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.517411, -96.711268",
+                "Destination": "43.536695, -96.711361"
+            }
+        ]
+    },
+    {
+        "State": "South Dakota",
+        "City": "Rapid City",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.067560, -103.226639",
+                "Destination": "44.067539, -103.191707"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.052983, -103.192252",
+                "Destination": "44.059014, -103.226661"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.042961, -103.218974",
+                "Destination": "44.045719, -103.192210"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.083886, -103.191700",
+                "Destination": "44.093939, -103.201776"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.075409, -103.226617",
+                "Destination": "44.096701, -103.221836"
+            }
+        ]
+    },
+    {
+        "State": "South Dakota",
+        "City": "Aberdeen",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "45.488115, -98.495289",
+                "Destination": "45.473926, -98.501788"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "45.488230, -98.474572",
+                "Destination": "45.473733, -98.474606"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "45.480981, -98.454089",
+                "Destination": "45.473618, -98.441210"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "45.464149, -98.490906",
+                "Destination": "45.451709, -98.495277"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "45.452673, -98.474687",
+                "Destination": "45.467961, -98.474629"
+            }
+        ]
+    },
+    {
+        "State": "South Dakota",
+        "City": "Brookings",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.304151, -96.788585",
+                "Destination": "44.318754, -96.788407"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.304364, -96.798656",
+                "Destination": "44.314364, -96.808788"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.310012, -96.776363",
+                "Destination": "44.292216, -96.777751"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.299318, -96.768304",
+                "Destination": "44.315214, -96.768136"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.292314, -96.788603",
+                "Destination": "44.282477, -96.781707"
+            }
+        ]
+    },
+    {
+        "State": "South Dakota",
+        "City": "Watertown",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.904715, -97.131314",
+                "Destination": "44.904672, -97.108112"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.904661, -97.094135",
+                "Destination": "44.915227, -97.086476"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.899811, -97.104526",
+                "Destination": "44.893936, -97.075518"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.908985, -97.106824",
+                "Destination": "44.890858, -97.109574"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.892696, -97.086204",
+                "Destination": "44.890098, -97.104649"
+            }
+        ]
+    }
+]

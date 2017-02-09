@@ -1,1 +1,157 @@
-[{"State":"Rhode Island","City":"Providence","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Rhode Island","City":"Warwick","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Rhode Island","City":"Cranston","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Rhode Island","City":"Pawtucket","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Rhode Island","City":"East Providence","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Rhode Island",
+        "City": "Providence",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.834275, -71.430161",
+                "Destination": "41.832734, -71.449730"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.816936, -71.428373",
+                "Destination": "41.804436, -71.419362"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.802777, -71.431080",
+                "Destination": "41.814918, -71.436743"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.840854, -71.419870",
+                "Destination": "41.850490, -71.434108"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.835662, -71.405470",
+                "Destination": "41.846908, -71.396060"
+            }
+        ]
+    },
+    {
+        "State": "Rhode Island",
+        "City": "Warwick",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.691232, -71.425181",
+                "Destination": "41.697531, -71.440189"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.699728, -71.447055",
+                "Destination": "41.703314, -71.424286"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.711012, -71.444889",
+                "Destination": "41.714056, -71.431933"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.706132, -71.417063",
+                "Destination": "41.718099, -71.401627"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.712747, -71.379992",
+                "Destination": "41.700726, -71.395542"
+            }
+        ]
+    },
+    {
+        "State": "Rhode Island",
+        "City": "Cranston",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.790369, -71.457179",
+                "Destination": "41.780993, -71.472289"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.776048, -71.469503",
+                "Destination": "41.758722, -71.476476"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.766752, -71.471838",
+                "Destination": "41.766642, -71.458944"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.771912, -71.452668",
+                "Destination": "41.765631, -71.440884"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.801901, -71.445050",
+                "Destination": "41.788272, -71.451786"
+            }
+        ]
+    },
+    {
+        "State": "Rhode Island",
+        "City": "Pawtucket",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.880957, -71.390226",
+                "Destination": "41.877624, -71.409477"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.874368, -71.398910",
+                "Destination": "41.860508, -71.398999"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.865734, -71.396469",
+                "Destination": "41.857190, -71.390998"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.871110, -71.385737",
+                "Destination": "41.857356, -71.385991"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.870444, -71.364488",
+                "Destination": "41.871040, -71.378352"
+            }
+        ]
+    },
+    {
+        "State": "Rhode Island",
+        "City": "East Providence",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "41.813698, -71.387748",
+                "Destination": "41.800411, -71.375163"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "41.802783, -71.374059",
+                "Destination": "41.792289, -71.365765"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "41.801883, -71.369327",
+                "Destination": "41.795886, -71.353285"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "41.813250, -71.367918",
+                "Destination": "41.802634, -71.361768"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "41.827120, -71.376090",
+                "Destination": "41.818558, -71.363533"
+            }
+        ]
+    }
+]

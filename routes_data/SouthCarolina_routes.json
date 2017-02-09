@@ -1,1 +1,157 @@
-[{"State":"South Carolina","City":"Columbia","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"South Carolina","City":"Charleston","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"South Carolina","City":"North Charleston","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"South Carolina","City":"Mount Pleasant","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"South Carolina","City":"Rock Hill","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "South Carolina",
+        "City": "Columbia",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "34.006134, -81.037578",
+                "Destination": "34.011993, -81.018489"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "33.996333, -81.014777",
+                "Destination": "33.987963, -81.001937"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "33.997533, -80.994541",
+                "Destination": "33.998949, -81.015840"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "34.006183, -81.037383",
+                "Destination": "34.012653, -81.016427"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "33.988888, -80.988697",
+                "Destination": "34.002608, -80.979738"
+            }
+        ]
+    },
+    {
+        "State": "South Carolina",
+        "City": "Charleston",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.776853, -79.927122",
+                "Destination": "32.776456, -79.946179"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.771872, -79.930417",
+                "Destination": "32.786688, -79.934258"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.785857, -79.936265",
+                "Destination": "32.800244, -79.948412"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.807883, -79.947815",
+                "Destination": "32.793131, -79.938514"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.782511, -79.974943",
+                "Destination": "32.795163, -79.993154"
+            }
+        ]
+    },
+    {
+        "State": "South Carolina",
+        "City": "North Charleston",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.846836, -79.999827",
+                "Destination": "32.846822, -80.014592"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.837844, -79.955643",
+                "Destination": "32.852200, -79.963802"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.874089, -79.980092",
+                "Destination": "32.858198, -79.971749"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.881352, -79.989359",
+                "Destination": "32.874241, -79.997123"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.870239, -80.054510",
+                "Destination": "32.857887, -80.030838"
+            }
+        ]
+    },
+    {
+        "State": "South Carolina",
+        "City": "Mount Pleasant",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.825882, -79.818227",
+                "Destination": "32.812743, -79.831138"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.814113, -79.857141",
+                "Destination": "32.805084, -79.843284"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.801499, -79.846666",
+                "Destination": "32.794443, -79.861433"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.775845, -79.843882",
+                "Destination": "32.791551, -79.853435"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.812727, -79.874234",
+                "Destination": "32.822261, -79.852792"
+            }
+        ]
+    },
+    {
+        "State": "South Carolina",
+        "City": "Rock Hill",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "34.921463, -81.026371",
+                "Destination": "34.902892, -81.031582"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "34.917489, -81.048992",
+                "Destination": "34.922146, -81.031381"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "34.926607, -81.028529",
+                "Destination": "34.938199, -81.045834"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "34.941080, -81.036910",
+                "Destination": "34.953278, -81.015400"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "34.934512, -81.010367",
+                "Destination": "34.940903, -80.986941"
+            }
+        ]
+    }
+]
