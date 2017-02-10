@@ -44,7 +44,7 @@ namespace Mapper
             #endregion
 
 
-            GenerateRequestData(@"D:\lab\usa-route-maker\routes_data");
+            GenerateFileName(@"D:\lab\usa-route-maker\route_json");
 
             Console.WriteLine("Done");
             Console.ReadLine();
@@ -477,6 +477,16 @@ Wyoming: WY";
             return result;
         }
 
+        static void GenerateFileName(string directoryFolder)
+        {
+            var filenames = Directory.GetFiles(directoryFolder, "*.json")
+                .Select(filename =>
+                    Path.GetFileNameWithoutExtension(filename));
+
+            var result = JsonConvert.SerializeObject(filenames);
+
+            WriteFile(result, @"D:\lab\usa-route-maker\name_of_route_requests.json");
+        }
         static void GenerateRequestData(string directoryFolder)
         {
             var counter = 1;
