@@ -1,1 +1,157 @@
-[{"State":"Washington","City":"Seattle","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Washington","City":"Spokane","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Washington","City":"Tacoma","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Washington","City":"Vancouver","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Washington","City":"Bellevue","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Washington",
+        "City": "Seattle",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "47.612844, -122.316846",
+                "Destination": "47.623338, -122.296378"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "47.608061, -122.316758",
+                "Destination": "47.607959, -122.289405"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "47.601698, -122.314151",
+                "Destination": "47.601650, -122.291310"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "47.593295, -122.292789",
+                "Destination": "47.599244, -122.306328"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "47.618522, -122.332992",
+                "Destination": "47.618593, -122.356733"
+            }
+        ]
+    },
+    {
+        "State": "Washington",
+        "City": "Spokane",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "47.671723, -117.443448",
+                "Destination": "47.671279, -117.420881"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "47.674739, -117.390434",
+                "Destination": "47.674942, -117.425118"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "47.668031, -117.458168",
+                "Destination": "47.668032, -117.428183"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "47.664397, -117.425135",
+                "Destination": "47.664447, -117.454044"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "47.671842, -117.381214",
+                "Destination": "47.655235, -117.381189"
+            }
+        ]
+    },
+    {
+        "State": "Washington",
+        "City": "Tacoma",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "47.267357, -122.484058",
+                "Destination": "47.262317, -122.451758"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "47.255448, -122.465957",
+                "Destination": "47.255369, -122.505109"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "47.250168, -122.505069",
+                "Destination": "47.250097, -122.465628"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "47.246523, -122.476252",
+                "Destination": "47.249203, -122.438500"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "47.242670, -122.465591",
+                "Destination": "47.242823, -122.494492"
+            }
+        ]
+    },
+    {
+        "State": "Washington",
+        "City": "Vancouver",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "45.645543, -122.680871",
+                "Destination": "45.645032, -122.653129"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "45.640166, -122.671426",
+                "Destination": "45.641670, -122.647749"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "45.638063, -122.641854",
+                "Destination": "45.641249, -122.616602"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "45.634845, -122.637540",
+                "Destination": "45.635137, -122.615175"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "45.621100, -122.621657",
+                "Destination": "45.626082, -122.640577"
+            }
+        ]
+    },
+    {
+        "State": "Washington",
+        "City": "Bellevue",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "47.617435, -122.217859",
+                "Destination": "47.617295, -122.191009"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "47.610203, -122.206797",
+                "Destination": "47.596594, -122.198303"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "47.626321, -122.144178",
+                "Destination": "47.621572, -122.167062"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "47.623317, -122.132488",
+                "Destination": "47.606138, -122.132131"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "47.587353, -122.164298",
+                "Destination": "47.596142, -122.149959"
+            }
+        ]
+    }
+]

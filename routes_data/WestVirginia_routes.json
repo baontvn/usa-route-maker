@@ -1,1 +1,157 @@
-[{"State":"West Virginia","City":"Charleston","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"West Virginia","City":"Huntington","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"West Virginia","City":"Parkersburg","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"West Virginia","City":"Morgantown","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"West Virginia","City":"Wheeling","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "West Virginia",
+        "City": "Charleston",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "38.369733, -81.666323",
+                "Destination": "38.361911, -81.648772"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "38.366365, -81.666618",
+                "Destination": "38.356653, -81.646878"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.367000, -81.650704",
+                "Destination": "38.375350, -81.665423"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "38.339447, -81.614643",
+                "Destination": "38.349146, -81.629833"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "38.352090, -81.627892",
+                "Destination": "38.345138, -81.616347"
+            }
+        ]
+    },
+    {
+        "State": "West Virginia",
+        "City": "Huntington",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "38.412707, -82.455820",
+                "Destination": "38.418705, -82.421320"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "38.413776, -82.419922",
+                "Destination": "38.406151, -82.400857"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "38.409159, -82.447749",
+                "Destination": "38.407088, -82.432502"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "38.419116, -82.445203",
+                "Destination": "38.423068, -82.422564"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "38.430601, -82.394461",
+                "Destination": "38.425575, -82.423230"
+            }
+        ]
+    },
+    {
+        "State": "West Virginia",
+        "City": "Parkersburg",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.273164, -81.555273",
+                "Destination": "39.266874, -81.539107"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.268726, -81.537947",
+                "Destination": "39.280627, -81.529475"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.286812, -81.534123",
+                "Destination": "39.273913, -81.545370"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.284039, -81.523863",
+                "Destination": "39.271647, -81.521700"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.268170, -81.522968",
+                "Destination": "39.263593, -81.542786"
+            }
+        ]
+    },
+    {
+        "State": "West Virginia",
+        "City": "Morgantown",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "39.661402, -79.974732",
+                "Destination": "39.647453, -79.960752"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "39.649579, -79.975561",
+                "Destination": "39.657789, -79.963387"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "39.651006, -79.953019",
+                "Destination": "39.637113, -79.956402"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "39.629710, -79.948298",
+                "Destination": "39.632555, -79.931803"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "39.626502, -79.942746",
+                "Destination": "39.630639, -79.957592"
+            }
+        ]
+    },
+    {
+        "State": "West Virginia",
+        "City": "Wheeling",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.055952, -80.727283",
+                "Destination": "40.069023, -80.722786"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.064432, -80.717197",
+                "Destination": "40.052903, -80.725518"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.032919, -80.727152",
+                "Destination": "40.048400, -80.724429"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.064951, -80.720920",
+                "Destination": "40.079263, -80.722565"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.088652, -80.720810",
+                "Destination": "40.073815, -80.724743"
+            }
+        ]
+    }
+]

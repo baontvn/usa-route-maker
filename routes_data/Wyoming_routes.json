@@ -5,28 +5,28 @@
         "Routes": [
             {
                 "Pole": "West",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.159254, -104.838327",
+                "Destination": "41.153198, -104.823883"
             },
             {
                 "Pole": "East",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.146060, -104.831413",
+                "Destination": "41.145940, -104.809440"
             },
             {
                 "Pole": "South",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.130733, -104.800042",
+                "Destination": "41.125578, -104.821746"
             },
             {
                 "Pole": "North",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.145693, -104.785526",
+                "Destination": "41.141962, -104.768547"
             },
             {
                 "Pole": "Central",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.164056, -104.786281",
+                "Destination": "41.149471, -104.789051"
             }
         ]
     },
@@ -36,28 +36,28 @@
         "Routes": [
             {
                 "Pole": "West",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "42.837358, -106.356992",
+                "Destination": "42.837568, -106.334533"
             },
             {
                 "Pole": "East",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "42.835123, -106.337026",
+                "Destination": "42.841612, -106.323760"
             },
             {
                 "Pole": "South",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "42.846272, -106.323718",
+                "Destination": "42.848740, -106.298081"
             },
             {
                 "Pole": "North",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "42.844163, -106.266763",
+                "Destination": "42.828822, -106.272732"
             },
             {
                 "Pole": "Central",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "42.838971, -106.273250",
+                "Destination": "42.838846, -106.307437"
             }
         ]
     },
@@ -67,28 +67,28 @@
         "Routes": [
             {
                 "Pole": "West",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.309253, -105.610259",
+                "Destination": "41.314819, -105.593167"
             },
             {
                 "Pole": "East",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.326825, -105.600559",
+                "Destination": "41.331724, -105.583377"
             },
             {
                 "Pole": "South",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.321876, -105.584562",
+                "Destination": "41.305839, -105.586200"
             },
             {
                 "Pole": "North",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.310404, -105.583114",
+                "Destination": "41.309284, -105.562237"
             },
             {
                 "Pole": "Central",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.325022, -105.557479",
+                "Destination": "41.324968, -105.576766"
             }
         ]
     },
@@ -98,28 +98,28 @@
         "Routes": [
             {
                 "Pole": "West",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "44.297214, -105.529302",
+                "Destination": "44.293188, -105.508330"
             },
             {
                 "Pole": "East",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "44.295692, -105.496726",
+                "Destination": "44.281775, -105.494067"
             },
             {
                 "Pole": "South",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "44.289474, -105.474234",
+                "Destination": "44.283921, -105.486498"
             },
             {
                 "Pole": "North",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "44.277223, -105.509745",
+                "Destination": "44.276600, -105.489554"
             },
             {
                 "Pole": "Central",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "44.289134, -105.517365",
+                "Destination": "44.289262, -105.496631"
             }
         ]
     },
@@ -129,28 +129,28 @@
         "Routes": [
             {
                 "Pole": "West",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.581188, -109.260422",
+                "Destination": "41.596606, -109.251968"
             },
             {
                 "Pole": "East",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.599291, -109.245515",
+                "Destination": "41.589017, -109.233041"
             },
             {
                 "Pole": "South",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.575286, -109.239443",
+                "Destination": "41.569913, -109.219510"
             },
             {
                 "Pole": "North",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.577028, -109.205098",
+                "Destination": "41.582079, -109.218877"
             },
             {
                 "Pole": "Central",
-                "StartingPoint": "",
-                "Destination": ""
+                "StartingPoint": "41.584875, -109.196050",
+                "Destination": "41.589323, -109.214340"
             }
         ]
     }

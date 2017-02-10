@@ -1,1 +1,157 @@
-[{"State":"Wisconsin","City":"Milwaukee","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Wisconsin","City":"Madison","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Wisconsin","City":"Green Bay","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Wisconsin","City":"Kenosha","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]},{"State":"Wisconsin","City":"Racine","Routes":[{"Pole":"West","StartingPoint":"","Destination":""},{"Pole":"East","StartingPoint":"","Destination":""},{"Pole":"South","StartingPoint":"","Destination":""},{"Pole":"North","StartingPoint":"","Destination":""},{"Pole":"Central","StartingPoint":"","Destination":""}]}]
+[
+    {
+        "State": "Wisconsin",
+        "City": "Milwaukee",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.961828, -87.909542",
+                "Destination": "42.982456, -87.909365"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.988343, -87.977762",
+                "Destination": "43.003091, -87.955475"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.004946, -87.947931",
+                "Destination": "43.024182, -87.943634"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.059176, -87.897939",
+                "Destination": "43.074713, -87.897671"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.060528, -87.940057",
+                "Destination": "43.060607, -87.968890"
+            }
+        ]
+    },
+    {
+        "State": "Wisconsin",
+        "City": "Madison",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "43.060626, -89.502762",
+                "Destination": "43.060786, -89.472140"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "43.073044, -89.456832",
+                "Destination": "43.060899, -89.457675"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "43.060834, -89.451031",
+                "Destination": "43.075165, -89.451076"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "43.049919, -89.458154",
+                "Destination": "43.052926, -89.435369"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "43.067780, -89.411173",
+                "Destination": "43.071371, -89.388879"
+            }
+        ]
+    },
+    {
+        "State": "Wisconsin",
+        "City": "Green Bay",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "44.536766, -88.055236",
+                "Destination": "44.530007, -88.033169"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "44.521007, -88.024674",
+                "Destination": "44.529403, -88.048869"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "44.520108, -88.044369",
+                "Destination": "44.516385, -88.063846"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "44.509796, -88.051358",
+                "Destination": "44.502566, -88.030705"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "44.515627, -87.992312",
+                "Destination": "44.517095, -87.967695"
+            }
+        ]
+    },
+    {
+        "State": "Wisconsin",
+        "City": "Kenosha",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.587998, -87.828009",
+                "Destination": "42.588243, -87.850229"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.595228, -87.835726",
+                "Destination": "42.595685, -87.855736"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.581203, -87.862767",
+                "Destination": "42.580692, -87.835679"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.579346, -87.862868",
+                "Destination": "42.562596, -87.857665"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.558569, -87.827915",
+                "Destination": "42.568199, -87.835407"
+            }
+        ]
+    },
+    {
+        "State": "Wisconsin",
+        "City": "Racine",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.742377, -87.784873",
+                "Destination": "42.746693, -87.805675"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.747738, -87.793094",
+                "Destination": "42.755510, -87.783339"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.744400, -87.814691",
+                "Destination": "42.731641, -87.806509"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.730322, -87.799156",
+                "Destination": "42.712487, -87.799776"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.724536, -87.782563",
+                "Destination": "42.715473, -87.794916"
+            }
+        ]
+    }
+]

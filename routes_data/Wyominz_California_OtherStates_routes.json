@@ -1,0 +1,281 @@
+[
+    {
+        "State": "California",
+        "City": "Los Angeles",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "34.068974, -118.327339",
+                "Destination": "34.071547, -118.361408"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "34.062989, -118.361476",
+                "Destination": "34.061940, -118.331738"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "34.069057, -118.195237",
+                "Destination": "34.046810, -118.207762"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "34.065968, -118.218966",
+                "Destination": "34.064010, -118.237458"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "34.058302, -118.261606",
+                "Destination": "34.068506, -118.284297"
+            }
+        ]
+    },
+    {
+        "State": "California",
+        "City": "San Diego",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "32.706288, -117.152773",
+                "Destination": "32.706380, -117.133853"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "32.711680, -117.127390",
+                "Destination": "32.711552, -117.144934"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "32.715850, -117.136019",
+                "Destination": "32.708497, -117.125233"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "32.730037, -117.171986",
+                "Destination": "32.714612, -117.169161"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "32.702750, -117.125208",
+                "Destination": "32.695921, -117.133777"
+            }
+        ]
+    },
+    {
+        "State": "California",
+        "City": "San Jose",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "37.325682, -121.865675",
+                "Destination": "37.313793, -121.865271"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "37.342099, -121.890679",
+                "Destination": "37.350867, -121.871488"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "37.362589, -121.875843",
+                "Destination": "37.350612, -121.897017"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "37.339699, -121.864794",
+                "Destination": "37.328640, -121.880601"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "37.337153, -121.927919",
+                "Destination": "37.326020, -121.911601"
+            }
+        ]
+    },
+    {
+        "State": "California",
+        "City": "San Francisco",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "37.767891, -122.426793",
+                "Destination": "37.751831, -122.425246"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "37.749287, -122.413796",
+                "Destination": "37.765348, -122.415356"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "37.764105, -122.435335",
+                "Destination": "37.782502, -122.439320"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "37.795743, -122.403562",
+                "Destination": "37.805232, -122.416913"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "37.774265, -122.459388",
+                "Destination": "37.772652, -122.483144"
+            }
+        ]
+    },
+    {
+        "State": "California",
+        "City": "Fresno",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "36.750448, -119.791921",
+                "Destination": "36.750431, -119.754413"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "36.736020, -119.731924",
+                "Destination": "36.735961, -119.772579"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "36.778600, -119.781593",
+                "Destination": "36.757711, -119.781520"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "36.786751, -119.799496",
+                "Destination": "36.786851, -119.763390"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "36.757701, -119.790572",
+                "Destination": "36.757560, -119.817668"
+            }
+        ]
+    },
+    {
+        "State": "Massachusetts",
+        "City": "Springfield",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "42.109994, -72.574233",
+                "Destination": "42.122638, -72.560924"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "42.113388, -72.597127",
+                "Destination": "42.124870, -72.585021"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "42.105026, -72.572779",
+                "Destination": "42.090720, -72.566512"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "42.090519, -72.577085",
+                "Destination": "42.086340, -72.558851"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "42.093300, -72.551271",
+                "Destination": "42.101439, -72.567401"
+            }
+        ]
+    },
+    {
+        "State": "Alaska",
+        "City": "Sitka",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "57.072404, -135.368099",
+                "Destination": "57.065766, -135.363179"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "57.060482, -135.348989",
+                "Destination": "57.065744, -135.363227"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "57.056670, -135.344373",
+                "Destination": "57.050556, -135.337679"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "57.053458, -135.333260",
+                "Destination": "57.053865, -135.321256"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "57.047495, -135.296745",
+                "Destination": "57.049480, -135.313037"
+            }
+        ]
+    },
+    {
+        "State": "Alaska",
+        "City": "Juneau",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "58.382573, -134.637094",
+                "Destination": "58.370876, -134.604806"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "58.403290, -134.603832",
+                "Destination": "58.398954, -134.574914"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "58.397370, -134.560769",
+                "Destination": "58.384059, -134.576004"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "58.366283, -134.589933",
+                "Destination": "58.378779, -134.577234"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "58.355593, -134.493573",
+                "Destination": "58.359128, -134.518107"
+            }
+        ]
+    },
+    {
+        "State": "Utah",
+        "City": "Orem",
+        "Routes": [
+            {
+                "Pole": "West",
+                "StartingPoint": "40.297196, -111.714775",
+                "Destination": "40.297096, -111.685987"
+            },
+            {
+                "Pole": "East",
+                "StartingPoint": "40.289961, -111.724229",
+                "Destination": "40.289826, -111.694327"
+            },
+            {
+                "Pole": "South",
+                "StartingPoint": "40.282337, -111.676404",
+                "Destination": "40.282586, -111.704982"
+            },
+            {
+                "Pole": "North",
+                "StartingPoint": "40.326604, -111.680891",
+                "Destination": "40.311952, -111.671964"
+            },
+            {
+                "Pole": "Central",
+                "StartingPoint": "40.314202, -111.695868",
+                "Destination": "40.329941, -111.696753"
+            }
+        ]
+    }
+]
